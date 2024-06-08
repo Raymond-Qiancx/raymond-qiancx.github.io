@@ -9,17 +9,15 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Chengxuan Qian, a second-year undergraduate student in Jiangsu University and a incoming transfer student in Arcadia University(Philadelphia, USA)([2+2 Program](https://www.arcadia.edu/news/arcadia-and-jiangsu-university-celebrate-10-years-of-collaboration/)). I am broadly interested at Computer Vision and Multimodal Learning. In particular, I'm interested in Dynamic Multimodal Fusion, Efficient Meachine Learning Systems, Visual Question Answering and Medical Image Segmentation & Classification.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+When I was a freshman. I started my research supervised by [Prof. Zhe Liu](https://www.researchgate.net/profile/Zhe-Liu-28) in Jiangsu University and [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=zh-CN) in Texas Tech University remotely. My first program is to help construct the world's first public multi-task medical image benchmark dataset for liver and tumor segmentation, multi-label lesion classification and lesion detection based on arterial phase enhanced computed tomography (CT). This work has submitted to ***Medical Image Analysis*** (A Top Journal in Medical Imaging, IF:10.9). After that, we started to focus on Noisy Label, a serious but inevitable challenge for medical image segmentation. We proposed a novel Nosiy Label Adaptative Refinement Framework and submitted it to the journal ***Engineering Applications of Artificial Intelligence*** (SCI Q1, IF: 8.0). Currently, I conduct the research about Efficient Machine Learning Framework for General Multimodal Classification based on Curriculum Learning. This work will soon submit to ***AAAI 2025*** and I will be the first-author.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm now seaching for Undergraduate Research Internship in the field of Multimodal Learning, especially for Dynamic Multimodal fusion, Inter-modal Interactions(VQA), Video Understanding, 3D Multi-view and sensors, human behavior modeling and Medical Vision. My email address is raymond.qiancx at gmail dot com.
