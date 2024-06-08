@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Chengxuan Qian
+title: home
 permalink: /
 subtitle: I'm now searching for an Undergraduate Research Internship.
 
