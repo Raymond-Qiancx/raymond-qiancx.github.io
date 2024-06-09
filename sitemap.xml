@@ -9,463 +9,78 @@
 
 <url>
   <loc>https://qiancx.com/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://qiancx.com/blog/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://qiancx.com/publications/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://qiancx.com/projects/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://qiancx.com/repositories/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://qiancx.com/cv/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/teaching/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://qiancx.com/people/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://qiancx.com/news/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://qiancx.com/news/announcement_2/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2024/tabs/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2024/typograms/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/assets/pdf/example_pdf.pdf</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <loc>https://qiancx.com/blog/2024/mathtl/</loc>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://qiancx.com/blog/tag/formatting/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/images/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/links/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://qiancx.com/blog/tag/math/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/code/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2021/distill/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2021/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2015/code/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2015/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://qiancx.com/blog/2024/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://qiancx.com/blog/category/sample-posts/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/diagrams/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2024/post-citation/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/citation/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2024/pseudocode/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/index.html</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/page/2/index.html</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/page/3/index.html</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/page/4/index.html</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/page/5/index.html</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/page/2/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/assets/html/relativity.html</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://qiancx.com/projects/.</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://qiancx.com/projects/1_project/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
+  <loc>https://qiancx.com/assets/pdf/example_pdf.pdf</loc>
+  <lastmod>2024-06-09T06:23:40+00:00</lastmod>
   <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/projects/2_project/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/projects/4_project/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/projects/5_project/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/projects/6_project/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2022/displaying-external-posts-on-your-al-folio-blog/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2024/code-diff/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2024/advanced-images/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2024/vega-lite/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2024/geojson-map/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2024/echarts/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2024/chartjs/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2023/tikzjax/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2023/post-bibliography/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2023/jupyter-notebook/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2023/custom-blockquotes/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2023/sidebar-table-of-contents/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2023/audios/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2023/videos/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2023/tables/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2023/table-of-contents/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2021/diagrams/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2020/twitter/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2015/math/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2015/images/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2015/formatting-and-links/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/assets/plotly/demo.html</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2015/disqus-comments/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2022/giscus-comments/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2020/github-metadata/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/charts/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/maps/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/page/3/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2023/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/bib/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/jupyter/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/blockquotes/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/page/6/index.html</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/page/4/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/toc/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/sidebar/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/audios/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/videos/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/tables/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/page/7/index.html</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/page/5/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2022/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/comments/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/category/external-services/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/distill/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/page/6/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/assets/jupyter/blog.ipynb.html</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/2020/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/tag/metadata/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://qiancx.com/blog/page/7/</loc>
-  <lastmod>2024-06-01T13:51:16+00:00</lastmod>
-  <priority>0.41</priority>
 </url>
 
 
