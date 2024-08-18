@@ -37,7 +37,7 @@ LiMT: A Multi-task Liver Image Benchmark Dataset
 
 **Medical Image Analysis (SCI Q1, IF: 10.7)(Under Review)**
 
-Zhe Liu<sup>&dagger;</sup>, Kai Han, Siqi Ma, Jun Chen<sup>&dagger;</sup>, ..., **Chengxuan Qian**, Chongwen Lyu, ..., Victor S. Sheng<sup>&dagger;</sup>.  
+Zhe Liu<sup>†</sup>, Kai Han, Siqi Ma, Jun Chen<sup>&dagger;</sup>, ..., **Chengxuan Qian**, Chongwen Lyu, ..., Victor S. Sheng<sup>&dagger;</sup>.  
 
 - A multi-task medical image benchmark dataset for Segmentation, Classification and Detection of liver lesions, encompassing CT liver scans annotated for four common liver diseases. 
 
