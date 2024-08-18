@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Chengxuan Qian"
+description              : "A rising juninor undergraduate at Jiangsu University and Arcadia University, current seaking a remore research intern in cutting-edge Computer Vision and Multimodal Learning."
+repository               : "Raymond-Qiancx/raymond-qiancx.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Chengxuan Qian"
+  avatar           : "images/my_photo.png"
   bio              : "Lorem ipsum College"
   location         : "Beijing, China"
   employer         :
