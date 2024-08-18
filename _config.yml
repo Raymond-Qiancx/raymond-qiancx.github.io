@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chengxuan Qian"
-  avatar           : "images/my_photo.png"
+  avatar           : "images\my_photo.jpg"
   bio              : "Lorem ipsum College"
   location         : "Beijing, China"
   employer         :
