@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chengxuan Qian"
-description              : "A rising juninor undergraduate at Jiangsu University and Arcadia University (2+2), current seaking a remore research intern in cutting-edge Computer Vision and Multimodal Learning."
+description              : "Currently seaking a remore research intern in cutting-edge Computer Vision and Multimodal Learning."
 repository               : "Raymond-Qiancx/raymond-qiancx.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "chengxuan-qian"
+  linkedin         : "chengxuan-qian"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
