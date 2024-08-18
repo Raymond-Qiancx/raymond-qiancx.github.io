@@ -45,7 +45,7 @@ Zhe Liu<sup>†</sup>, Kai Han, Siqi Ma, Jun Chen<sup>&dagger;</sup>, ..., **Che
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2024</div><img src='images/TMI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2024</div><img src='images/TMI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Region Uncertainty Estimation for Medical Image Segmentation with Noisy Labels
@@ -57,7 +57,17 @@ Kai Han, Shuhui Wang<sup>&dagger;</sup>, IEEE Member, Jun Chen<sup>&dagger;</sup
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2024</div><img src='images/EAAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+A Novel Noisy Label Adaptive Refinement Framework for Medical Image Segmentation
+
+**Engineering Applications of Artificial Intelligence (SCI Q1, IF: 7.5)**
+
+Kai Han<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>， Lu Liu<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>, Siqi Ma, Liyuan Tian, Yuqing Song<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
