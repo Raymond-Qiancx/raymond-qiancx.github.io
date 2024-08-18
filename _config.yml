@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chengxuan Qian"
-description              : "A rising juninor undergraduate at Jiangsu University and Arcadia University, current seaking a remore research intern in cutting-edge Computer Vision and Multimodal Learning."
+description              : "A rising juninor undergraduate at Jiangsu University and Arcadia University (2+2), current seaking a remore research intern in cutting-edge Computer Vision and Multimodal Learning."
 repository               : "Raymond-Qiancx/raymond-qiancx.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chengxuan Qian"
   avatar           : "images/my_photo.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "Math+CS at Arcadia University"
   location         : "Philadelphia, PA, USA"
   employer         :
   pubmed           : 
