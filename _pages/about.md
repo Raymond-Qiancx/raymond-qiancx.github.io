@@ -45,7 +45,19 @@ Zhe Liu<sup>†</sup>, Kai Han, Siqi Ma, Jun Chen<sup>&dagger;</sup>, ..., **Che
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2024</div><img src='images/TMI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Region Uncertainty Estimation for Medical Image Segmentation with Noisy Labels
+
+**IEEE Transaction on Medical Imaging (SCI Q1, CCF B, IF:8.9)(Under Review)**
+
+Kai Han, Shuhui Wang<sup>&dagger;</sup>, IEEE Member, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen Lyu, Siqi Ma, Victor S. Sheng<sup>&dagger;</sup>, IEEE Senior Member, Qingming Huang<sup>&dagger;</sup>, IEEE Fellow, Zhe Liu<sup>&dagger;</sup>.
+
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
