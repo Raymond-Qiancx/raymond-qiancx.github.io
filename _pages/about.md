@@ -30,15 +30,16 @@ I am a self-motivated individual currently seeking a remote research internship 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2024</div><img src='images/mia2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+LiMT: A Multi-task Liver Image Benchmark Dataset
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Medical Image Analysis (SCI Q1, IF: 10.7)(Under Review)**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Zhe Liu&dagger, Kai Han, Siqi Ma, Jun Chen&dagger, ..., **Chengxuan Qian**, Chongwen Lyu, ..., Victor S. Sheng&dagger.  
+
+- A multi-task medical image benchmark dataset for Segmentation, Classification and Detection of liver lesions, encompassing CT liver scans annotated for four common liver diseases. 
 </div>
 </div>
 
