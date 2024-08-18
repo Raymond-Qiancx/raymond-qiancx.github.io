@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Math+CS rising junior undergraduate at [Jiangsu University and Arcadia University](https://www.arcadia.edu/news/arcadia-and-jiangsu-university-celebrate-10-years-of-collaboration/). I began conducting research in my freshman year, joining the group led by [Prof. Zhe Liu](https://www.researchgate.net/profile/Zhe-Liu-28) and [Prof. Jun Chen](https://scholar.google.com/citations?hl=zh-CN&user=cDVzxXsAAAAJ), with co-advisor [Prof. Victor S. Sheng (IEEE Senior Member)](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) at Texas Tech University, [Prof. Lu Liu](https://scholar.google.com/citations?user=0s8qgaQAAAAJ&hl=zh-CN&oi=ao) at the University of Leicester, [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN) and [Prof. Qingming Huang (IEEE Fellow)](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en) at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. 
+I am currently a Math+CS rising junior undergraduate at [Jiangsu University and Arcadia University](https://www.arcadia.edu/news/arcadia-and-jiangsu-university-celebrate-10-years-of-collaboration/). I began conducting research in my freshman year, joining the group led by [Prof. Zhe Liu](https://www.researchgate.net/profile/Zhe-Liu-28) and [Prof. Jun Chen](https://scholar.google.com/citations?hl=zh-CN&user=cDVzxXsAAAAJ), with co-advisor [Prof. Victor S. Sheng (IEEE Senior Member)](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) at Texas Tech University, [Prof. Lu Liu](https://le.ac.uk/people/lu-liu) at the University of Leicester, [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN) and [Prof. Qingming Huang (IEEE Fellow)](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en) at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. 
 
-My previous research primarily foucuses on Trustworthy Machine Learning System for Medical Vision and Multimodal Learning. 
+My previous research primarily foucuses on Trustworthy Machine Learning System for Medical Vision and Multimodal Learning. I'm currently seaking for a remote research intern in cutting-edge Computer Vision and Multimodal Learning.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 My project "Dynamic Multimodal Fusion 
+
 
 # 📝 Publications 
 
