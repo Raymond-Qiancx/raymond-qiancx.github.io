@@ -24,11 +24,11 @@ author:
   name             : "Chengxuan Qian"
   avatar           : "images/my_photo.jpg"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  location         : "Philadelphia, PA, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=DZDZXtwAAAAJ&hl=zh-CN"
+  email            : "cqian@arcadia.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : # e.g., "chengxuan-qian"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
