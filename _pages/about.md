@@ -62,7 +62,7 @@ Kai Han, Shuhui Wang<sup>&dagger;</sup>, IEEE Member, Jun Chen<sup>&dagger;</sup
 
 A Novel Noisy Label Adaptive Refinement Framework for Medical Image Segmentation
 
-**Engineering Applications of Artificial Intelligence (SCI Q1, IF: 7.5)**
+**Engineering Applications of Artificial Intelligence (SCI Q1, IF: 7.5)(Under Review)**
 
 Kai Han<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>, Lu Liu<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>, Siqi Ma, Liyuan Tian, Yuqing Song<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
