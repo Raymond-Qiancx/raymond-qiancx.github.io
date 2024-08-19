@@ -97,7 +97,7 @@ Chongwen Lyu, Zhe Liu<sup>&dagger;</sup>, **Chengxuan Qian**, Kai Han, Yuqing So
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF B</div><img src='images/bibm2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF B</div><img src='images/bibm_cl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Curriculum Learning for Imbalanced Multimodal Disease Diagnosis
