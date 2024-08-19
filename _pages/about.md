@@ -25,7 +25,7 @@ I am a self-motivated individual currently seeking a remote research internship 
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 My project "Dynamic Adaptive Fusion Framework for Multimodal Disease Diagnosis" has been selected as a Chinese National College Student Innovation Training Program (National Key Project).
+- *2024.06*: &nbsp;🎉🎉 My project "Dynamic Self-adaptive Fusion Framework for Medical Disease Dignosis" has been selected as a Chinese National Undergraduate College Students Innovation and Entrepreneurship Program (National Key Project).
 
 
 # 📝 Publications 
@@ -110,16 +110,17 @@ Kai Han<sup>*</sup>, Chongwen Lyu<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>, S
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* First-Class Scholarship from Jiangsu University (Rank: 1/60).
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06 - 2024.05*, Mathematics and Computer Science, Bachelor of Science, Arcadia University (Official 2+2 Program). 
+- *2022.09 - 2024.06*, Mathematics and Applied Mathematics, Bachelor of Science, GPA: 93.1/100, Jiangsu University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Research Project
+- Early Diagnosis of Pancreatic Tumors through the Integration of Domain Knowledge and Multimodal Data Collaboration, **National Natural Science Foundation of China**, *Participant*.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Intelligent Staging and Classification of Hepatocellular Carcinoma through Multi-omics Feature Integration, **National Natural Science Foundation of China**, *Participant*.
+
+- Classification Model for Cold and Hot Galvanized Surface Defects and Development of Application Software for C512 Electronic Balance Card System, **School-Enterprise Cooperation Project with Shanghai Baoshan Iron & Steel Co., Ltd.**, *Participant*.
+
+- Dynamic Self-adaptive Fusion Framework for Medical Disease Dignosis, **Chinese National Undergraduate College Students Innovation and Entrepreneurship Program (National Key Project)**, *Program Director*.
