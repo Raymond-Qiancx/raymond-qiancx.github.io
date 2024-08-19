@@ -69,20 +69,6 @@ Kai Han<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>， Lu Liu<sup>&dagger;</sup>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2024</div><img src='images/EAAI2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-A Novel Noisy Label Adaptive Refinement Framework for Medical Image Segmentation
-
-**Engineering Applications of Artificial Intelligence (SCI Q1, IF: 7.5)**
-
-Kai Han<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>， Lu Liu<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>, Siqi Ma, Liyuan Tian, Yuqing Song<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
-
-</div>
-</div>
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -93,17 +79,32 @@ Dynamic Curriculum for Multimodal Rebalance
 
 **Chengxuan Qian**<sup>*</sup>, Kai Han<sup>*</sup>,  Shuhui Wang<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>, Chongwen Lyu, Yuqing Song<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
+- we proposed a Trustworthy Multimodal Machine Learning System that introduces a Dynamic Curriculum Learning framework to address imbalances from both sample and modality perspective.
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF B</div><img src='images/accv2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Dynamic Curriculum for Multimodal Rebalance
+A Curriculum for Region-guided Automatic Radiology Report Generation
 
 **Under Reviewed by Double-blind Conference**
 
-**Chengxuan Qian**<sup>*</sup>, Kai Han<sup>*</sup>,  Shuhui Wang<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>, Chongwen Lyu, Yuqing Song<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
+Chongwen Lyu, Zhe Liu<sup>&dagger;</sup>, **Chengxuan Qian**, Kai Han, Yuqing Song<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF B</div><img src='images/bibm2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Curriculum Learning for Imbalanced Multimodal Disease Diagnosis
+
+**Under Reviewed by Double-blind Conference**
+
+Kai Han<sup>*</sup>, Chongwen Lyu<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>, Siqi Ma, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>,
 
 </div>
 </div>
