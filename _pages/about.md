@@ -69,6 +69,45 @@ Kai Han<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>， Lu Liu<sup>&dagger;</sup>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2024</div><img src='images/EAAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Novel Noisy Label Adaptive Refinement Framework for Medical Image Segmentation
+
+**Engineering Applications of Artificial Intelligence (SCI Q1, IF: 7.5)**
+
+Kai Han<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>， Lu Liu<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>, Siqi Ma, Liyuan Tian, Yuqing Song<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
+
+</div>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Dynamic Curriculum for Multimodal Rebalance
+
+**Under Reviewed by Double-blind Conference**
+
+**Chengxuan Qian**<sup>*</sup>, Kai Han<sup>*</sup>,  Shuhui Wang<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>, Chongwen Lyu, Yuqing Song<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Dynamic Curriculum for Multimodal Rebalance
+
+**Under Reviewed by Double-blind Conference**
+
+**Chengxuan Qian**<sup>*</sup>, Kai Han<sup>*</sup>,  Shuhui Wang<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>, Chongwen Lyu, Yuqing Song<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
