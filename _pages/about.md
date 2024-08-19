@@ -115,8 +115,8 @@ Note: Details of some papers above are not allowed to show since they are curren
 - *2023.10* First-Class Scholarship from Jiangsu University (Rank: 1/60).
 
 # 📖 Educations
-- *2022.06 - 2024.05*, Mathematics and Computer Science, Bachelor of Science, Arcadia University (Official 2+2 Program). 
-- *2022.09 - 2024.06*, Mathematics and Applied Mathematics, Bachelor of Science, GPA: 93.1/100, Jiangsu University.
+- *2024.06 - 2026.05*, Mathematics and Computer Science, Bachelor of Science, Arcadia University (Official 2+2 Program). 
+- *2022.09 - 2024.06*, Mathematics and Applied Mathematics, Bachelor of Science, GPA: 93.1/100, Rank: 1/60, Jiangsu University.
 
 # 💬 Research Project
 - Early Diagnosis of Pancreatic Tumors through the Integration of Domain Knowledge and Multimodal Data Collaboration, **National Natural Science Foundation of China**, *Participant*.
