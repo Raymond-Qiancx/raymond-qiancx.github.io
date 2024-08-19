@@ -109,6 +109,8 @@ Kai Han<sup>*</sup>, Chongwen Lyu<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>, S
 </div>
 </div>
 
+Note: Details of some papers above are not allowed to show since they are currently under reviewed by double-blind conference. * indicates euqal contribution and <sup>&dagger;</sup> is the note for advisor.
+
 # 🎖 Honors and Awards
 - *2023.10* First-Class Scholarship from Jiangsu University (Rank: 1/60).
 
