@@ -118,7 +118,7 @@ Note: Details of some papers above are not allowed to show since they are curren
 - *2024.06 - 2026.05*, Mathematics and Computer Science, Bachelor of Science, Arcadia University (Official 2+2 Program). 
 - *2022.09 - 2024.06*, Mathematics and Applied Mathematics, Bachelor of Science, GPA: 93.1/100, Rank: 1/60, Jiangsu University.
 
-# 💬 Research Project
+# 💬 Research Projects
 - Early Diagnosis of Pancreatic Tumors through the Integration of Domain Knowledge and Multimodal Data Collaboration, **National Natural Science Foundation of China**, *Participant*.
 
 - Intelligent Staging and Classification of Hepatocellular Carcinoma through Multi-omics Feature Integration, **National Natural Science Foundation of China**, *Participant*.
