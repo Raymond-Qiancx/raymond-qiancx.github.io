@@ -19,13 +19,9 @@ redirect_from:
 
 I am currently a Math+CS 3th-year undergraduate at [Jiangsu University and Arcadia University](https://www.arcadia.edu/news/arcadia-and-jiangsu-university-celebrate-10-years-of-collaboration/). I began conducting research in my freshman year, joining the group led by Prof. Zhe Liu and Prof. Jun Chen, with co-advisor [Prof. Victor S. Sheng (IEEE Senior Member)](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) at Texas Tech University, [Prof. Lu Liu](https://le.ac.uk/people/lu-liu) at the University of Leicester, [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN) and [Prof. Qingming Huang (IEEE Fellow)](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en) at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. 
 
-My previous research primarily foucuses on Trustworthy Machine Learning System for Medical Vision and Multimodal Learning. Specifically, it can be categoried into: (1) Imbalanced Multimodal Learning to address the imbalances from both sample and modality perspective, currently under reviewed by a double-blind conference (CCF A).
+My previous research primarily foucuses on Trustworthy Machine Learning System for Medical Vision and Multimodal Learning. Specifically, it can be categoried into: (1) Construction of the world's first Multi-task Medical Image Benchmark Dataset, currently under reviewed by **Medical Image Analysis (IF: 10.7)**. (2) Medical Image Segmentation with Noisy Labels, currently under reviewed by **IEEE Transactions on Medical Imaging (IF: 8.9)** and **Pattern Recognition(IF: 7.5)**. (3) Vision-language Models that proposes a Curriculum Learning framework for efficient and robust Medical Report Generation, currently under reviewed by **Neurocomputing (IF: 5.5)**. (4) Imbalanced Multimodal Learning to address the imbalances from both sample and modality perspective, currently under reviewed by a double-blind conference (CCF A).
 
-
-
-Construction of the world's first Multi-task Medical Image Benchmark Dataset, currently under reviewed by **Medical Image Analysis (IF: 10.7)**. (2) Medical Image Segmentation with Noisy Labels, currently under reviewed by **IEEE Transactions on Medical Imaging (IF: 8.9)** and **Pattern Recognition(IF: 7.5)**. (3) Vision-language Models that proposes a Curriculum Learning framework for efficient and robust Medical Report Generation, currently under reviewed by **Neurocomputing (IF: 5.5)**. (4) Imbalanced Multimodal Learning to address the imbalances from both sample and modality perspective, currently under reviewed by a double-blind conference (CCF A).
-
-
+I am a self-motivated individual currently seeking a remote research internship in cutting-edge Computer Vision and Multimodal Learning. 
 
 
 # 🔥 News
