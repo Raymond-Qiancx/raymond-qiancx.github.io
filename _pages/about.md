@@ -24,6 +24,7 @@ My long-term vision is to develop efficient, robust and generalizable machine le
 - ***Enhancing the Robustness and Generalization of Medical Segmentation Models: Learning from Sparse and Noisy Labeled Data*** 
 - ***Rethinking the Learning Strategies of Multimodal Foundation Models: from a Data Perspective***
 - ***Exploring the Nature of Cross-Modal Cooperation: Quantifying the inherent Correlations and Interactions through a Disentangled Perspective***
+Despite significant progress in 2D vision models, relying solely on 2D pixel-level input cannot capture the full complexity of the surrounding 3D world. Spacial information such as depth, geometric structures, pose and orientation plays a crucial role in enabling a more comprehensive perception and understanding of the environment. Integrating these 3D aspects allows for more accurate scene interpretation, object recognition, and interaction, bridging the gap between artificial perception and real-world understanding.
 
 
 # 🔥 News
