@@ -20,10 +20,10 @@ redirect_from:
 I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu University, currently working as a Research Intern specializing in Multimodal Perception and Cross-modal Interactions, supervised by [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN) and [Prof. Qingming Huang (IEEE Fellow)](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en) at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. Previously, I collaborated with Prof. Zhe Liu and Prof. Jun Chen, with co-advisor [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) and [Prof. Lu Liu](https://le.ac.uk/people/lu-liu), on developing Robust Machine Learning System for Medical Vision.
 
 # Research Interests
-My long-term vision is to develop efficient, robust and generalizable machine learning system capable of perceiving, understanding and interacting with the world through multimodal information from both 2D and 3D perspectives. Specifically, my research focuses on these topics:
-- *** Learning from Sparse and Noisy Labeled Data: *** 
-- *** Rethinking the Learning Strategies of Multimodal Foundation Models: from Data Perspective ***
-- *** Exploring the Nature of Cross-Modal Cooperation: Quantifying the inherent Correlations and Interactions through a Disentangled Perspective ***
+My long-term vision is to develop efficient, robust and generalizable machine learning system capable of perceiving, understanding and interacting with the world through multimodal information from both 2D and 3D perspectives. Specifically, my previous research focuses on these topics:
+- ***Enhancing the Robustness and Generalization of Medical Segmentation Models: Learning from Sparse and Noisy Labeled Data*** 
+- ***Rethinking the Learning Strategies of Multimodal Foundation Models: from a Data Perspective***
+- ***Exploring the Nature of Cross-Modal Cooperation: Quantifying the inherent Correlations and Interactions through a Disentangled Perspective***
 
 
 # 🔥 News
