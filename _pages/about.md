@@ -104,7 +104,7 @@ Curriculum for Region-guided Automatic Radiology Report Generation
 
 **IEEE Transactions on Circuits and Systems for Video Technology (CCF B, IF: 8.3)(Under Review)**
 
-Chongwen Lyu, Zhe Liu<sup>&dagger;</sup>, **Chengxuan Qian**, Kai Han, Yuqing Song<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>.
+Chongwen Lyu, **Chengxuan Qian**, Kai Han, Yuqing Song<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>, Shuhui Wang (IEEE Member)<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Qingming Huang (IEEE Fellow)<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
 </div>
 </div>
