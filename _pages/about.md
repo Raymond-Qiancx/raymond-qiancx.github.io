@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu University, currently working as a Research Intern specializing in Multimodal Perception and Cross-modal Interactions, supervised by [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN) and [Prof. Qingming Huang (IEEE Fellow)](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en) at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. Previously, I collaborated with Prof. Zhe Liu and Prof. Jun Chen, with co-advisor [Prof. Victor S. Sheng (IEEE Senior Member)](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) and [Prof. Lu Liu](https://le.ac.uk/people/lu-liu), on developing Robust Machine Learning System for Medical Vision.
+I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu University, currently working as a Research Intern specializing in Multimodal Perception and Cross-modal Interactions, supervised by [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN) and [Prof. Qingming Huang (IEEE Fellow)](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en) at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. Previously, I collaborated with Prof. Zhe Liu and Prof. Jun Chen, with co-advisor [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) and [Prof. Lu Liu](https://le.ac.uk/people/lu-liu), on developing Robust Machine Learning System for Medical Vision.
 
 # Research Interests
 My long-term vision is to develop efficient, robust and generalizable machine learning system capable of perceiving, understanding and interacting with the world through multimodal information from both 2D and 3D perspectives. Specifically, my research focuses on these topics:
-- ***Learning from sparse and noisy labeled data:*** 
-- ***Learning with ***
+- *** Learning from Sparse and Noisy Labeled Data: *** 
+- *** Rethinking the Learning Strategies of Multimodal Foundation Models: from Data Perspective ***
+- *** Exploring the Nature of Cross-Modal Cooperation: Quantifying the inherent Correlations and Interactions through a Disentangled Perspective ***
 
 
 # 🔥 News
@@ -45,7 +46,7 @@ Dynamic Curriculum for Multimodal Rebalance
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2024</div><img src='images/EAAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2024</div><img src='images/EAAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Adaptive Label Correction Framework for Medical Image Segmentation with Noisy Labels
@@ -75,9 +76,9 @@ Kai Han<sup>*</sup>, Chongwen Lyu<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>, S
 
 Region Uncertainty Estimation for Medical Image Segmentation with Noisy Labels
 
-**IEEE Transaction on Medical Imaging (SCI Q1, CCF B, IF:8.9)(Under Review)**
+**IEEE Transaction on Medical Imaging (CCF B, IF:8.9)(Under Review)**
 
-Kai Han, Shuhui Wang<sup>&dagger;</sup>, IEEE Member, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen Lyu, Siqi Ma, Victor S. Sheng<sup>&dagger;</sup>, IEEE Senior Member, Qingming Huang<sup>&dagger;</sup>, IEEE Fellow, Zhe Liu<sup>&dagger;</sup>.
+Kai Han, Shuhui Wang<sup>&dagger;</sup> (IEEE Member), Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen Lyu, Siqi Ma, Victor S. Sheng<sup>&dagger;</sup> (IEEE Senior Member), Qingming Huang<sup>&dagger;</sup> (IEEE Fellow), Zhe Liu<sup>&dagger;</sup>.
 
 </div>
 </div>

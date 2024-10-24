@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chengxuan Qian"
-description              : "Currently seaking a remore research intern in cutting-edge Computer Vision and Multimodal Learning."
+description              : "Multimodal Learning, Trustworthy Machine Learning System, 3D Scene Generation and Reconstruction"
 repository               : "Raymond-Qiancx/raymond-qiancx.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chengxuan Qian"
   avatar           : "images/my_photo.jpg"
-  bio              : "Math+CS rising junior undergraduate"
+  bio              : "Math+CS junior undergraduate"
   location         : "Philadelphia, PA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DZDZXtwAAAAJ&hl=zh-CN"
-  email            : "cqian@arcadia.edu"
+  email            : "open.qiancx@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
