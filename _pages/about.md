@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu University, currently working as a Research Intern specializing in Multimodal Perception and Cross-modal Interactions, supervised by [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN) and [Prof. Qingming Huang (IEEE Fellow)](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en) at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. Previously, I collaborated with Prof. Zhe Liu and Prof. Jun Chen, with co-advisor [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) and [Prof. Lu Liu](https://le.ac.uk/people/lu-liu), on developing Robust Machine Learning System for Medical Vision.
+I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu University, currently working as a Research Intern specializing in Multimodal Perception and Cross-modal Interactions, supervised by [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN) and [Prof. Qingming Huang (IEEE Fellow)](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en) at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. Previously, I collaborated with Prof. Zhe Liu and Prof. Jun Chen, with co-advisor [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) and [Prof. Lu Liu](https://le.ac.uk/people/lu-liu), on developing Robust Machine Learning System for Medical Vision. Additionally, I serve as a reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) and IEEE Transactions on Multimedia (TMM).
 
 # Research Interests
 My long-term vision is to develop efficient, robust and generalizable machine learning system capable of perceiving, understanding and interacting with the world through multimodal information from both 2D and 3D perspectives. Specifically, my previous research focuses on these topics:
@@ -40,9 +40,9 @@ Dynamic Curriculum for Multimodal Rebalance
 
 **Under Reviewed by Double-blind CCF-A Conference**
 
-**Chengxuan Qian**<sup>*</sup>, Kai Han<sup>*</sup>,  Shuhui Wang<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>, Chongwen Lyu, Yuqing Song<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
+**C Qian**<sup>*</sup>, K Han<sup>*</sup>,  [S Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN)<sup>&dagger;</sup>, J Chen<sup>&dagger;</sup>, C Lyu, Y Song<sup>&dagger;</sup>, [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>.
 
-- Existing multimodal learning approaches often face under-optimization challenges due to inherent imbalances from varying sample quality and discrepancies in modality representation . To this end, we propose a dynamic curriculum that quantifies inherent imbalances from both sample and modality perspectives, adaptively prioritizing multimodal samples based on their current difficulty relative to the model's capabilities and the effectiveness of modality collaboration. 
+- Existing multimodal learning approaches often face under-optimization challenges due to inherent imbalances from varying sample quality and discrepancies in modality representation . To this end, we propose a dynamic curriculum framework that quantifies inherent imbalances from both sample and modality perspectives, adaptively prioritizing multimodal samples based on their current difficulty relative to the model's capabilities and the effectiveness of modality collaboration. 
 
 </div>
 </div>
@@ -54,7 +54,7 @@ Adaptive Label Correction Framework for Medical Image Segmentation with Noisy La
 
 **Pattern Recognition (CCF-B, IF: 7.5)(Under Review)**
 
-Kai Han<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>, Lu Liu<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>, Siqi Ma, Liyuan Tian, Yuqing Song<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
+K Han<sup>*</sup>, **C Qian**<sup>*</sup>, L Liu<sup>&dagger;</sup>, J Chen<sup>&dagger;</sup>, S Ma, L Tian, Y Song<sup>&dagger;</sup>, [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>.
 
 </div>
 </div>
@@ -66,7 +66,7 @@ Curriculum Learning for Imbalanced Multimodal Disease Diagnosis
 
 **Under Reviewed by Double-blind CCF-A Conference**
 
-Kai Han<sup>*</sup>, Chongwen Lyu<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>, Siqi Ma, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>,
+K Han<sup>*</sup>, C Lyu<sup>*</sup>, **C Qian**<sup>*</sup>, S Ma, Jun Chen<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>,
 
 </div>
 </div>
@@ -79,7 +79,7 @@ Region Uncertainty Estimation for Medical Image Segmentation with Noisy Labels
 
 **IEEE Transaction on Medical Imaging (CCF B, IF:8.9)(Under Review)**
 
-Kai Han, Shuhui Wang<sup>&dagger;</sup> (IEEE Member), Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen Lyu, Siqi Ma, Victor S. Sheng<sup>&dagger;</sup> (IEEE Senior Member), Qingming Huang<sup>&dagger;</sup> (IEEE Fellow), Zhe Liu<sup>&dagger;</sup>.
+K Han, [S Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN)<sup>&dagger;</sup> (IEEE Member), J Chen<sup>&dagger;</sup>, **C Qian**, C Lyu, S Ma, [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup> (IEEE Senior Member), [Q Huang](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en)<sup>&dagger;</sup> (IEEE Fellow), Z Liu<sup>&dagger;</sup>.
 
 </div>
 </div>
@@ -91,7 +91,7 @@ Frequency Domain Unlocks New Perspectives for Medical Image Segmentation
 
 **IEEE Transactions on Circuits and Systems for Video Technology (CCF B, IF: 8.3)(Under Review)**
 
-Kai Han, Siqi Ma, **Chengxuan Qian**, Jun Chen<sup>&dagger;</sup>, Chongwen Lyu, Shuhui Wang<sup>&dagger;</sup> (IEEE Member), Victor S. Sheng<sup>&dagger;</sup> (IEEE Senior Member), Qingming Huang<sup>&dagger;</sup> (IEEE Fellow), Zhe Liu<sup>&dagger;</sup>.
+K Han, S Ma, **C Qian**, J Chen<sup>&dagger;</sup>, C Lyu, [S Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN)<sup>&dagger;</sup> (IEEE Member), [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup> (IEEE Senior Member), [Q Huang](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en)<sup>&dagger;</sup> (IEEE Fellow), Zhe Liu<sup>&dagger;</sup>.
 
 </div>
 </div>
@@ -104,10 +104,24 @@ Curriculum for Region-guided Automatic Radiology Report Generation
 
 **IEEE Transactions on Circuits and Systems for Video Technology (CCF B, IF: 8.3)(Under Review)**
 
-Chongwen Lyu, **Chengxuan Qian**, Kai Han, Yuqing Song<sup>&dagger;</sup>, Jun Chen<sup>&dagger;</sup>, Shuhui Wang (IEEE Member)<sup>&dagger;</sup>, Victor S. Sheng<sup>&dagger;</sup>, Qingming Huang (IEEE Fellow)<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
+C Lyu, **Chengxuan Qian**, K Han, Y Song<sup>&dagger;</sup>, J Chen<sup>&dagger;</sup>, S Wang (IEEE Member)<sup>&dagger;</sup>, [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, [Q Huang](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en) (IEEE Fellow)<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>.
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/CVPR_Zhu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Diffusion Contrastive Learning for Image Classification
+
+**Under Reviewed by Double-blind CCF-A Conference**
+
+X Zhu, Y Lu, K Han, C Lyu, **C Qian**, J Chen<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>.
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2024</div><img src='images/mia2024.png' alt="sym" width="100%"></div></div>
@@ -117,7 +131,7 @@ LiMT: A Multi-task Liver Image Benchmark Dataset
 
 **Medical Image Analysis (IF: 10.7)(Under Review)**
 
-Zhe Liu<sup>†</sup>, Kai Han, Siqi Ma, Jun Chen<sup>&dagger;</sup>, ..., **Chengxuan Qian**, Chongwen Lyu, ..., Victor S. Sheng<sup>&dagger;</sup>.  
+Z Liu<sup>†</sup>, K Han, S Ma, J Chen<sup>&dagger;</sup>, ..., **C Qian**, C Lyu, ..., [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>.  
 
 - A multi-task medical image benchmark dataset for Segmentation, Classification and Detection of liver lesions, encompassing CT liver scans annotated for four common liver diseases. 
 
@@ -129,7 +143,7 @@ Note: Details of some papers above are not allowed to show since they are curren
 
 
 # 🎖 Academical Services
-- Reviewer of IEEE Transactions on Multimedia
+- Reviewer of IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 
 # 📖 Educations
 - *2024.06 - 2026.05*, Mathematics and Computer Science, Bachelor of Science, Arcadia University (Official 2+2 Program). 
