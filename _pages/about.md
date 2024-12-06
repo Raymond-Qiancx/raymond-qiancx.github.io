@@ -54,7 +54,7 @@ Adaptive Label Correction Framework for Medical Image Segmentation with Noisy La
 
 **Pattern Recognition (CCF-B, IF: 7.5)(Under Review)**
 
-K Han<sup>*</sup>, **C Qian**<sup>*</sup>, L Liu<sup>&dagger;</sup>, J Chen<sup>&dagger;</sup>, S Ma, L Tian, Y Song<sup>&dagger;</sup>, [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>.
+**C Qian**, K Han, L Liu<sup>&dagger;</sup>, J Chen<sup>&dagger;</sup>, S Ma, L Tian, Y Song<sup>&dagger;</sup>, [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>.
 
 </div>
 </div>
