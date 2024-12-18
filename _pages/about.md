@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu University, currently working as a Research Intern specializing in Multimodal Perception and Cross-modal Interactions, supervised by [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN) and [Prof. Qingming Huang (IEEE Fellow)](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en) at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. Previously, I collaborated with Prof. Zhe Liu and Prof. Jun Chen, with co-advisor [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) and [Prof. Lu Liu](https://le.ac.uk/people/lu-liu), on developing Robust Machine Learning System for Medical Vision. Additionally, I serve as a reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) and IEEE Transactions on Multimedia (TMM).
+I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu University and Arcadia University, advised by Prof. Zhe Liu and co-advised by [Prof. Jun Chen](https://scholar.google.com/citations?user=cDVzxXsAAAAJ&hl=zh-CN), [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) and [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN). My research focuses on Multimodal Perception, Cross-modal Interactions, and Robust Machine Learning Systems for Medical Vision. Additionally, I also serve as a reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
+
+
 
 # Research Interests
 My long-term vision is to develop efficient, robust and generalizable machine learning system capable of perceiving, understanding and interacting with the world through multimodal information from both 2D and 3D perspectives. Specifically, my previous research focuses on these topics:
@@ -41,7 +43,6 @@ Dynamic Curriculum for Multimodal Rebalance
 
 **C Qian**<sup>*</sup>, K Han<sup>*</sup>,  [S Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN)<sup>&dagger;</sup>, J Chen<sup>&dagger;</sup>, C Lyu, Y Song<sup>&dagger;</sup>, [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>.
 
-- Existing multimodal learning approaches often face under-optimization challenges due to inherent imbalances from varying sample quality and discrepancies in modality representation . To this end, we propose a dynamic curriculum framework that quantifies inherent imbalances from both sample and modality perspectives, adaptively prioritizing multimodal samples based on their current difficulty relative to the model's capabilities and the effectiveness of modality collaboration. 
 
 </div>
 </div>
@@ -132,6 +133,8 @@ LiMT: A Multi-task Liver Image Benchmark Dataset
 
 Z Liu<sup>†</sup>, K Han, S Ma, J Chen<sup>&dagger;</sup>, ..., **C Qian**, C Lyu, ..., [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>.  
 
+- <span style="color:blue;">Dataset and Benchmarking work</span>
+
 - A multi-task medical image benchmark dataset for Segmentation, Classification and Detection of liver lesions, encompassing CT liver scans annotated for four common liver diseases. 
 
 - Collaborated with researchers from Jiangsu University, Texas Tech University, and clinicians from the Affiliated Hospital of Jiangsu University.
@@ -142,10 +145,10 @@ Note: Details of some papers above are not allowed to show since they are curren
 
 
 # 🎖 Academical Services
-- Reviewer of IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
+- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM) and CVPR 2025.
 
 # 📖 Educations
-- *2024.06 - 2026.05*, Mathematics and Computer Science, Bachelor of Science, Arcadia University (Official 2+2 Program). 
+- *2024.06 - 2026.05*, Mathematics and Computer Science, Bachelor of Science, Arcadia University (GPA: 4.0, Official 2+2 Program). 
 - *2022.09 - 2024.06*, Mathematics and Applied Mathematics, Bachelor of Science, GPA: 93.1/100, Rank: 1/60, Jiangsu University (GPA: 93.1/100, Rank: 1/60).
 
 # 💬 Open-source Projects
