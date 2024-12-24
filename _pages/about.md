@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu University and Arcadia University, advised by Prof. Zhe Liu and co-advised by [Prof. Jun Chen](https://scholar.google.com/citations?user=cDVzxXsAAAAJ&hl=zh-CN), [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) and [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN). My research focuses on Multimodal Perception, Cross-modal Interactions, and Robust Machine Learning Systems for Medical Vision. Additionally, I also serve as a reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
+I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu University and Arcadia University, advised by Prof. Zhe Liu and co-advised by [Prof. Jun Chen](https://scholar.google.com/citations?user=cDVzxXsAAAAJ&hl=zh-CN), [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) and [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN). My research focuses on Multimodal Perception, Cross-modal Interactions, and Robust Machine Learning Systems for Medical Vision. Additionally, I also serve as a reviewer for IEEE TCSVT, IEEE TMM, CVPR 2025 and ICME 2025.
 
 
 
@@ -110,7 +110,7 @@ C Lyu, **Chengxuan Qian**, K Han, Y Song<sup>&dagger;</sup>, J Chen<sup>&dagger;
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/CVPR_Zhu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/CVPR_Zhu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Diffusion Contrastive Learning for Image Classification
@@ -145,7 +145,7 @@ Note: Details of some papers above are not allowed to show since they are curren
 
 
 # 🎖 Academical Services
-- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM) and CVPR 2025.
+- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), IEEE International Conference on Multimedia & Expo (ICME 2025) and CVPR 2025.
 
 # 📖 Educations
 - *2024.06 - 2026.05*, Mathematics and Computer Science, Bachelor of Science, Arcadia University (GPA: 4.0, Official 2+2 Program). 
