@@ -79,7 +79,7 @@ K Han<sup>*</sup>, C Lyu<sup>*</sup>, **C Qian**<sup>*</sup>, S Ma, Jun Chen<sup
 
 Region Uncertainty Estimation for Medical Image Segmentation with Noisy Labels
 
-**IEEE Transaction on Medical Imaging (CCF B, IF:8.9)(Under Review)**
+**IEEE Transaction on Medical Imaging (CCF B, IF:8.9)(Major Revision)**
 
 K Han, [S Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN)<sup>&dagger;</sup> (IEEE Member), J Chen<sup>&dagger;</sup>, **C Qian**, C Lyu, S Ma, [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup> (IEEE Senior Member), [Q Huang](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en)<sup>&dagger;</sup> (IEEE Fellow), Z Liu<sup>&dagger;</sup>.
 
@@ -131,7 +131,7 @@ X Zhu, Y Lu, K Han, C Lyu, **C Qian**, J Chen<sup>&dagger;</sup>, Z Liu<sup>&dag
 
 LiMT: A Multi-task Liver Image Benchmark Dataset
 
-**Medical Image Analysis (IF: 10.7)(Under Review)**
+**Medical Image Analysis (IF: 10.7)(Major Revision)**
 
 Z Liu<sup>†</sup>, K Han, S Ma, J Chen<sup>&dagger;</sup>, ..., **C Qian**, C Lyu, ..., [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>.  
 
