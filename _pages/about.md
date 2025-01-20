@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu University, currently collaborating with [Prof. Zhengzhong Tu](https://vztu.github.io/) at Texas A\&M University on Multimodal Large Language Models (MLLM) and Cross-Modal Alignment. Previously, I worked with [Prof. Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN), [Prof. Jun Chen](https://scholar.google.com/citations?user=cDVzxXsAAAAJ&hl=zh-CN), [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) and [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN) on research in Robust Machine Learning Systems for Medical Vision and Modality Competition in Multimodal Foundation Models. Additionally, I also serve as a reviewer for IEEE TCSVT, IEEE TMM, CVPR 2025 and ICME 2025.
+I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu University, currently collaborating with [Prof. Zhengzhong Tu](https://vztu.github.io/) at Texas A&amp;M University on Multimodal Large Language Models (MLLM) and Cross-Modal Alignment. Previously, I worked with [Prof. Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN), [Prof. Jun Chen](https://scholar.google.com/citations?user=cDVzxXsAAAAJ&hl=zh-CN), [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) and [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN) on research in Robust Machine Learning Systems for Medical Vision and Modality Competition in Multimodal Foundation Models. Additionally, I also serve as a reviewer for IEEE TCSVT, IEEE TMM, CVPR 2025 and ICME 2025.
 
 
 # Research Interests
