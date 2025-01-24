@@ -35,6 +35,19 @@ My long-term vision is to develop efficient, robust and generalizable machine le
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/decalign.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Hierarchical Cross-Modal Semantic Alignment for Decoupled Multimodal Representation Learning
+
+**Under Reviewed by Double-blind CCF-A Conference**
+
+**C Qian**, S Xing, J Wang, K Han, [Y Liu](http://www.yunhuai.net/Yunhuai.htm), Z Liu, [Z Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
