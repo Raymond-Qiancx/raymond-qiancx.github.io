@@ -28,6 +28,7 @@ My long-term vision is to develop efficient, robust and generalizable machine le
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 I will collaborate with [Prof. Zhengzhong Tu](https://vztu.github.io/) on advancing cutting-edge research in Multimodal Alignment and Multimodal Large Language Models (MLLMs)！
 - *2024.11*: &nbsp;🎉🎉 My co-authored paper is now under ***Major Revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
 - *2024.10*: &nbsp;🎉🎉 My co-authored paper is now under ***Major Revision*** by ***Medical Image Analysis (IF: 10.9)***.
 - *2024.06*: &nbsp;🎉🎉 My project "Dynamic Self-adaptive Fusion Framework for Medical Disease Dignosis" has been selected as a Chinese National Undergraduate College Students Innovation and Entrepreneurship Program (National Key Project).
