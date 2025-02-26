@@ -28,7 +28,7 @@ My long-term vision is to develop efficient, robust and generalizable machine le
 - ***Reasoning and Alignment for Large Vision-language Models***
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Excited to share that our latest work, [Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://arxiv.org/abs/2502.13146), is now available on ArXiv!
+- *2025.02*: &nbsp;🎉🎉 Excited to share our latest work, [Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://arxiv.org/abs/2502.13146), is now available on ArXiv!
 - *2025.01*: &nbsp;🎉🎉 I will collaborate with [Prof. Zhengzhong Tu](https://vztu.github.io/) on advancing cutting-edge research in the alignment of Multimodal Foundation Models and Multimodal Large Language Models (MLLMs)！
 - *2024.11*: &nbsp;🎉🎉 My co-authored paper is now under ***Major Revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
 - *2024.10*: &nbsp;🎉🎉 My co-authored paper is now under ***Major Revision*** by ***Medical Image Analysis (IF: 10.9)***.
