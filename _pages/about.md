@@ -22,10 +22,10 @@ I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu Uni
 
 # Research Interests
 My long-term vision is to develop efficient, robust and generalizable machine learning system capable of perceiving, understanding and interacting with the world through multimodal information from both 2D and 3D perspectives. Specifically, my previous research focuses on these topics:
-- ***Enhancing the Robustness and Generalization of Medical Segmentation Models: Learning from Sparse and Noisy Labeled Data*** 
-- ***Rethinking the Learning Strategies of Multimodal Foundation Models: from a Data Perspective***
-- ***Exploring the Nature of Cross-Modal Cooperation: Quantifying the inherent Correlations and Interactions from a Disentangled Perspective***
-
+- ***Generalizable Medical Image Segmentation with Sparse and Noisy Labeled Data*** 
+- ***Modality Competition and Imbalances for Multimodal Machine Learning***
+- ***Cross-modal Decoupling and Alignment for Multimodal Representation Learning***
+- ***Reasoning and Alignment for Large Vision-language Models***
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 Excited to share that our latest work, [Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://arxiv.org/abs/2502.13146), is now available on ArXiv!
