@@ -17,17 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu University, currently collaborating with [Prof. Zhengzhong Tu](https://vztu.github.io/) at Texas A<span style="font-family: 'Ariva', Arial, sans-serif; color: #5a5a5a; font-weight: bold;">&</span>M University on Multimodal Large Language Models (MLLM) and Cross-Modal Alignment. Previously, I worked with [Prof. Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN), [Prof. Jun Chen](https://scholar.google.com/citations?user=cDVzxXsAAAAJ&hl=zh-CN), [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) and [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN) on research in Robust Machine Learning Systems for Medical Vision and Modality Competition in Multimodal Foundation Models. Additionally, I also serve as a reviewer for IEEE TCSVT, IEEE TMM, CVPR 2025 and ICME 2025.
+I am a 3rd-year undergraduate in Mathematics and Computer Science at Jiangsu University, currently collaborating with [Prof. Zhengzhong Tu](https://vztu.github.io/) at Texas A<span style="font-family: 'Ariva', Arial, sans-serif; color: #5a5a5a; font-weight: bold;">&</span>M University on Reasoning and Alignment for Multimodal Large Language Models (MLLM). Previously, I worked with [Prof. Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN), [Prof. Jun Chen](https://scholar.google.com/citations?user=cDVzxXsAAAAJ&hl=zh-CN), [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) and [Prof. Shuhui Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN) on research in Robust Machine Learning Systems for Medical Vision and Modality Competition in Multimodal Foundation Models. Additionally, I also serve as a reviewer for IEEE TCSVT, IEEE TMM, CVPR 2025 and ICME 2025.
 
 
 # Research Interests
 My long-term vision is to develop efficient, robust and generalizable machine learning system capable of perceiving, understanding and interacting with the world through multimodal information from both 2D and 3D perspectives. Specifically, my previous research focuses on these topics:
-- ***Enhancing the Robustness and Generalization of Medical Segmentation Models: Learning from Sparse and Noisy Labeled Data*** 
-- ***Rethinking the Learning Strategies of Multimodal Foundation Models: from a Data Perspective***
-- ***Exploring the Nature of Cross-Modal Cooperation: Quantifying the inherent Correlations and Interactions from a Disentangled Perspective***
-
+- ***Generalizable Medical Image Segmentation with Sparse and Noisy Labeled Data*** 
+- ***Modality Competition and Imbalances for Multimodal Machine Learning***
+- ***Cross-modal Decoupling and Alignment for Multimodal Representation Learning***
+- ***Reasoning and Alignment for Large Vision-language Models***
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Excited to share that our latest work, [Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://arxiv.org/abs/2502.13146), is now available on ArXiv!
 - *2025.01*: &nbsp;🎉🎉 I will collaborate with [Prof. Zhengzhong Tu](https://vztu.github.io/) on advancing cutting-edge research in the alignment of Multimodal Foundation Models and Multimodal Large Language Models (MLLMs)！
 - *2024.11*: &nbsp;🎉🎉 My co-authored paper is now under ***Major Revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
 - *2024.10*: &nbsp;🎉🎉 My co-authored paper is now under ***Major Revision*** by ***Medical Image Analysis (IF: 10.9)***.
@@ -39,11 +40,24 @@ My long-term vision is to develop efficient, robust and generalizable machine le
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/decalign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hierarchical Cross-Modal Semantic Alignment for Decoupled Multimodal Representation Learning
+DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representation Learning
 
 **Under Reviewed by Double-blind CCF-A Conference**
 
-**C Qian**, S Xing, J Wang, K Han, [Y Liu](http://www.yunhuai.net/Yunhuai.htm), Z Liu, [Z Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
+**Chengxuan Qian**, Shuo Xing, Li Li, [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization
+
+**[Arxiv 2025](https://arxiv.org/abs/2502.13146)**
+
+Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**, [Huaxiu Yao](https://www.huaxiuyao.io/), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
 
 
 </div>
