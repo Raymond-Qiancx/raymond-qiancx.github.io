@@ -162,9 +162,7 @@ Note: Details of some papers above are not allowed to show since they are curren
 # 🎖 Academical Services
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), IEEE International Conference on Multimedia & Expo (ICME 2025) and CVPR 2025.
 
-# 📖 Educations
-- *2024.06 - 2026.05*, Mathematics and Computer Science, Bachelor of Science, Arcadia University (GPA: 4.0, Official 2+2 Program). 
-- *2022.09 - 2024.06*, Mathematics and Applied Mathematics, Bachelor of Science, GPA: 93.1/100, Rank: 1/60, Jiangsu University (GPA: 93.1/100, Rank: 1/60).
+
 
 # 💬 Open-source Projects
 - Currently in progression...
