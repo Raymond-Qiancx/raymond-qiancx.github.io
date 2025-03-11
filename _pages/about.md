@@ -44,7 +44,7 @@ DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representa
 
 **Under Reviewed by Double-blind CCF-A Conference**
 
-**Chengxuan Qian**, Shuo Xing, Li Li, [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
+**Chengxuan Qian**, Shuo Xing, Shawn Li, [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
 
 
 </div>
