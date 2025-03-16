@@ -39,12 +39,12 @@ My long-term vision is to develop efficient, robust and generalizable machine le
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/decalign.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/decalign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representation Learning
+[DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representation Learning](https://taco-group.github.io/DecAlign/)
 
-**Under Reviewed by Double-blind CCF-A Conference**
+**[ArXiv Preprint](https://taco-group.github.io/DecAlign/)**
 
 **Chengxuan Qian**, Shuo Xing, Shawn Li, [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
 
@@ -52,12 +52,12 @@ DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization
+[Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://taco-group.github.io/Re-Align/)
 
-**[Arxiv 2025](https://arxiv.org/abs/2502.13146)**
+**[Arxiv Preprint](https://arxiv.org/abs/2502.13146)**
 
 Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**, [Huaxiu Yao](https://www.huaxiuyao.io/), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
 
@@ -65,39 +65,39 @@ Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Dynamic Curriculum for Multimodal Rebalance
+[DynCIM: Dynamic Curriculum for Imbalanced Multimodal Learning](https://arxiv.org/abs/2503.06456)
 
-**Under Reviewed by Double-blind CCF-A Conference**
+**[Arxiv Preprint](https://arxiv.org/abs/2503.06456)**
 
-**C Qian**<sup>*</sup>, K Han<sup>*</sup>,  [S Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN)<sup>&dagger;</sup>, J Chen<sup>&dagger;</sup>, C Lyu, Y Song<sup>&dagger;</sup>, [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>.
+**Chengxuan Qian**, Kai Han, Jingchao Wang, Zhenlong Yuan, Chongwen Lyu, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2024</div><img src='images/EAAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/EAAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Adaptive Label Correction Framework for Medical Image Segmentation with Noisy Labels
+Adaptive Label Correction Framework for Robust Medical Image Segmentation with Noisy Labels
 
-**Pattern Recognition (CCF-B, IF: 7.5)(Under Review)**
+**[Arxiv Preprint](https://arxiv.org/abs/2503.06456)**
 
-**C Qian**, K Han, L Liu<sup>&dagger;</sup>, J Chen<sup>&dagger;</sup>, S Ma, L Tian, Y Song<sup>&dagger;</sup>, [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>.
+**Chengxuan Qian**, K Han, Siqi Ma, Chongwen Lyu, Zhenlong Yuan, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/bibm_cl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preview</div><img src='images/bibm_cl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Curriculum Learning for Imbalanced Multimodal Disease Diagnosis
+CLIMD: A Curriculum Learning Framework for Imbalanced Multimodal Diagnosis
 
-**Under Reviewed by Double-blind CCF-A Conference**
+**Under Review**
 
-K Han<sup>*</sup>, C Lyu<sup>*</sup>, **C Qian**<sup>*</sup>, S Ma, Jun Chen<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>,
+Kai Han, Chongwen Lyu, **Chengxuan Qian**, Siqi Ma, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>,
 
 </div>
 </div>
@@ -110,7 +110,7 @@ Region Uncertainty Estimation for Medical Image Segmentation with Noisy Labels
 
 **IEEE Transaction on Medical Imaging (CCF B, IF:8.9)(Major Revision)**
 
-K Han, [S Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN)<sup>&dagger;</sup> (IEEE Member), J Chen<sup>&dagger;</sup>, **C Qian**, C Lyu, S Ma, [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup> (IEEE Senior Member), [Q Huang](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en)<sup>&dagger;</sup> (IEEE Fellow), Z Liu<sup>&dagger;</sup>.
+Kai Han, Shuhui Wang, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen Lyu, Siqi Ma, [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Qingming Huang<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
 </div>
 </div>
@@ -122,7 +122,7 @@ Frequency Domain Unlocks New Perspectives for Medical Image Segmentation
 
 **IEEE Transactions on Circuits and Systems for Video Technology (CCF B, IF: 8.3)(Under Review)**
 
-K Han, S Ma, **C Qian**, J Chen<sup>&dagger;</sup>, C Lyu, [S Wang](https://scholar.google.com/citations?user=h-JxBSYAAAAJ&hl=zh-CN)<sup>&dagger;</sup> (IEEE Member), [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup> (IEEE Senior Member), [Q Huang](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en)<sup>&dagger;</sup> (IEEE Fellow), Zhe Liu<sup>&dagger;</sup>.
+Kai Han, Siqi Ma, **Chengxuan Qian**, Jun Chen<sup>&dagger;</sup>, Chongwen Lyu, [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
 </div>
 </div>
@@ -135,25 +135,10 @@ Curriculum for Region-guided Automatic Radiology Report Generation
 
 **IEEE Transactions on Circuits and Systems for Video Technology (CCF B, IF: 8.3)(Under Review)**
 
-C Lyu, **C Qian**, K Han, Y Song<sup>&dagger;</sup>, J Chen<sup>&dagger;</sup>, S Wang (IEEE Member)<sup>&dagger;</sup>, [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, [Q Huang](https://scholar.google.com.hk/citations?user=J1vMnRgAAAAJ&hl=en) (IEEE Fellow)<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>.
+Chongwen Lyu, **Chengxuan Qian**, Kai Han, Jun Chen<sup>&dagger;</sup>, [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='images/CVPR_Zhu.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Diffusion Contrastive Learning for Image Classification
-
-**Under Reviewed by Double-blind CCF-A Conference**
-
-X Zhu, Y Lu, K Han, C Lyu, **C Qian**, J Chen<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>.
-
-</div>
-</div>
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2024</div><img src='images/mia2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -172,13 +157,29 @@ Z Liu<sup>†</sup>, K Han, S Ma, J Chen<sup>&dagger;</sup>, ..., **C Qian**, C 
 </div>
 </div>
 
-Note: Details of some papers above are not allowed to show since they are currently under reviewed by double-blind conference. * indicates euqal contribution and <sup>&dagger;</sup> is the note for advisor.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preview</div><img src='images/CVPR_Zhu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Diffusion Contrastive Learning for Image Classification
+
+**Under Review**
+
+Xincheng Zhu, Yonghan Lu, Kai Han, Chongwen Lyu, **Chengxuan Qian**, J Chen<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>.
+
+</div>
+</div>
+
+
+
+Note: Details of some papers above are not allowed to show since they are currently under reviewed by double-blind conference. <sup>&dagger;</sup> is the note for advisor.
 
 
 # 🎖 Academical Services
-- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), IEEE International Conference on Multimedia & Expo (ICME 2025) and CVPR 2025.
+- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), IEEE International Conference on Multimedia & Expo (ICME 2025) and ICCV 2025.
 
 
 
 # 💬 Open-source Projects
-- Currently in progression...
+- [Re-Align](https://github.com/taco-group/Re-Align), a novel Direct Preference Optimization (DPO)-based alignment framework that leverages image retrieval to mitigate hallucinations in Vision Language Models. See more in the corresponding [website](https://taco-group.github.io/Re-Align/) with [codes](https://taco-group.github.io/Re-Align/).
+- [DecAlign](https://taco-group.github.io/DecAlign/), a novel cross-modal decoupling and alignment framwork for multimodal representation learning. See more in the corresponding [website](https://taco-group.github.io/DecAlign/) with [codes](https://github.com/taco-group/DecAlign)(Will be fully released soon!).
+
