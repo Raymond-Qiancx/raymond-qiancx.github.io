@@ -28,8 +28,10 @@ My long-term vision is to develop efficient, robust and generalizable machine le
 - ***Reasoning and Alignment for Large Vision-language Models***
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Excited to share that our latest work, [Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://arxiv.org/abs/2502.13146), is now available on ArXiv!
+- *2025.03*: &nbsp;🎉🎉 Excited to propose my first-author work [DecAlign](https://taco-group.github.io/DecAlign/), a novel cross-modal decoupling and alignment framwork for multimodal representation learning, which is now available on ArXiv! c
+- *2025.02*: &nbsp;🎉🎉 Excited to propose [Re-Align](https://taco-group.github.io/Re-Align/), a novel alignment framework that leverages image retrieval to mitigate hallucinations in Vision Language Models, which is now available on ArXiv!
 - *2025.01*: &nbsp;🎉🎉 I will collaborate with [Prof. Zhengzhong Tu](https://vztu.github.io/) on advancing cutting-edge research in the alignment of Multimodal Foundation Models and Multimodal Large Language Models (MLLMs)！
+- *2024.11*: &nbsp;🎉🎉 Excited to propose [DynCIM](https://arxiv.org/abs/2503.06456), a novel dynamic multimodal curriculum learning framework in addressing cross-modal competition and imbalances, which is now available on ArXiv!
 - *2024.11*: &nbsp;🎉🎉 My co-authored paper is now under ***Major Revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
 - *2024.10*: &nbsp;🎉🎉 My co-authored paper is now under ***Major Revision*** by ***Medical Image Analysis (IF: 10.9)***.
 - *2024.06*: &nbsp;🎉🎉 My project "Dynamic Self-adaptive Fusion Framework for Medical Disease Dignosis" has been selected as a Chinese National Undergraduate College Students Innovation and Entrepreneurship Program (National Key Project).
