@@ -34,6 +34,7 @@ My long-term vision is to develop efficient, robust and generalizable machine le
 - *2024.11*: &nbsp;🎉🎉 Excited to propose my first-author work [DynCIM](https://arxiv.org/abs/2503.06456), a novel dynamic multimodal curriculum learning framework in addressing cross-modal competition and imbalances, which is now available on ArXiv!
 - *2024.11*: &nbsp;🎉🎉 My co-authored paper is now under ***Major Revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
 - *2024.10*: &nbsp;🎉🎉 My co-authored paper is now under ***Major Revision*** by ***Medical Image Analysis (IF: 10.9)***.
+- *2024.08*: &nbsp;🎉🎉 Excited to propose my first-author work [ALC](https://arxiv.org/abs/2503.12218), a novel adaptive label correction framework for medical image segmentation with noisy labels, which is now available on ArXiv!
 - *2024.06*: &nbsp;🎉🎉 My project "Dynamic Self-adaptive Fusion Framework for Medical Disease Dignosis" has been selected as a Chinese National Undergraduate College Students Innovation and Entrepreneurship Program (National Key Project).
 
 
@@ -42,7 +43,7 @@ My long-term vision is to develop efficient, robust and generalizable machine le
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/decalign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representation Learning](https://taco-group.github.io/DecAlign/)
+[DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representation Learning](https://arxiv.org/abs/2503.11892)
 
 **[ArXiv Preprint](https://taco-group.github.io/DecAlign/)**
 
@@ -81,9 +82,9 @@ Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/EAAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Adaptive Label Correction Framework for Robust Medical Image Segmentation with Noisy Labels
+[Adaptive Label Correction Framework for Robust Medical Image Segmentation with Noisy Labels](https://arxiv.org/abs/2503.12218)
 
-**[Arxiv Preprint](https://arxiv.org/abs/2503.06456)**
+**[Arxiv Preprint](https://arxiv.org/abs/2503.12218)**
 
 **Chengxuan Qian**, K Han, Siqi Ma, Chongwen Lyu, Zhenlong Yuan, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
