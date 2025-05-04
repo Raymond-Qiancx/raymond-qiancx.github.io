@@ -28,6 +28,7 @@ My long-term vision is to develop efficient, robust and generalizable machine le
 - ***Reasoning and Alignment for Large Vision-language Models***
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 My co-authored paper is now under ***Accept pending minor revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
 - *2025.03*: &nbsp;🎉🎉 Excited to propose my first-author work [DecAlign](https://taco-group.github.io/DecAlign/), a novel cross-modal decoupling and alignment framwork for multimodal representation learning, which is now available on ArXiv!
 - *2025.02*: &nbsp;🎉🎉 Excited to propose [Re-Align](https://taco-group.github.io/Re-Align/), a novel alignment framework that leverages image retrieval to mitigate hallucinations in Vision Language Models, which is now available on ArXiv!
 - *2025.01*: &nbsp;🎉🎉 I will collaborate with [Prof. Zhengzhong Tu](https://vztu.github.io/) on advancing cutting-edge research in the alignment of Multimodal Foundation Models and Multimodal Large Language Models (MLLMs)！
@@ -109,7 +110,7 @@ Kai Han, Chongwen Lyu, **Chengxuan Qian**, Siqi Ma, Jun Chen<sup>&dagger;</sup>,
 
 Region Uncertainty Estimation for Medical Image Segmentation with Noisy Labels
 
-**IEEE Transaction on Medical Imaging (CCF B, IF:8.9)(Major Revision)**
+**IEEE Transaction on Medical Imaging (CCF B, IF:8.9)(Accept pending minor revision)**
 
 Kai Han, Shuhui Wang, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen Lyu, Siqi Ma, [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Qingming Huang<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
