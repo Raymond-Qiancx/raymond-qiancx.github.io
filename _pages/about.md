@@ -125,7 +125,7 @@ Kai Han, Shuhui Wang, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen 
 
 HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene
 
-**IEEE Transaction on Medical Imaging (CCF B, IF:8.9)(Accept pending minor revision)**
+**Under Review**
 
 Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang.
 
