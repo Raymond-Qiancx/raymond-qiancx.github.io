@@ -28,13 +28,14 @@ My long-term vision is to develop efficient, robust and generalizable machine le
 - ***Reasoning and Alignment for Large Vision-language Models***
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 My co-authored paper is now under ***Accept pending minor revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
+- *2025.05*: &nbsp;🎉🎉 Our work CLIMD has been ***Early Accepted*** by ***MICCAI 2025*** (Top 9%).
+- *2025.05*: &nbsp;🎉🎉 Our paper is now under ***Accept pending minor revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
 - *2025.03*: &nbsp;🎉🎉 Excited to propose my first-author work [DecAlign](https://taco-group.github.io/DecAlign/), a novel cross-modal decoupling and alignment framwork for multimodal representation learning, which is now available on ArXiv!
 - *2025.02*: &nbsp;🎉🎉 Excited to propose [Re-Align](https://taco-group.github.io/Re-Align/), a novel alignment framework that leverages image retrieval to mitigate hallucinations in Vision Language Models, which is now available on ArXiv!
 - *2025.01*: &nbsp;🎉🎉 I will collaborate with [Prof. Zhengzhong Tu](https://vztu.github.io/) on advancing cutting-edge research in the alignment of Multimodal Foundation Models and Multimodal Large Language Models (MLLMs)！
 - *2024.11*: &nbsp;🎉🎉 Excited to propose my first-author work [DynCIM](https://arxiv.org/abs/2503.06456), a novel dynamic multimodal curriculum learning framework in addressing cross-modal competition and imbalances, which is now available on ArXiv!
-- *2024.11*: &nbsp;🎉🎉 My co-authored paper is now under ***Major Revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
-- *2024.10*: &nbsp;🎉🎉 My co-authored paper is now under ***Major Revision*** by ***Medical Image Analysis (IF: 10.9)***.
+- *2024.11*: &nbsp;🎉🎉 Our work is now under ***Major Revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
+- *2024.10*: &nbsp;🎉🎉 Our work is now under ***Major Revision*** by ***Medical Image Analysis (IF: 10.9)***.
 - *2024.08*: &nbsp;🎉🎉 Excited to propose my first-author work [ALC](https://arxiv.org/abs/2503.12218), a novel adaptive label correction framework for medical image segmentation with noisy labels, which is now available on ArXiv!
 - *2024.06*: &nbsp;🎉🎉 My project "Dynamic Self-adaptive Fusion Framework for Medical Disease Dignosis" has been selected as a Chinese National Undergraduate College Students Innovation and Entrepreneurship Program (National Key Project).
 
@@ -97,7 +98,7 @@ Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**,
 
 CLIMD: A Curriculum Learning Framework for Imbalanced Multimodal Diagnosis
 
-**Under Review**
+**MICCAI 2025 Early Accept (Top 9% Paper)**
 
 Kai Han, Chongwen Lyu, **Chengxuan Qian**, Siqi Ma, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>,
 
@@ -116,6 +117,23 @@ Kai Han, Shuhui Wang, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen 
 
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/HALFGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene
+
+**IEEE Transaction on Medical Imaging (CCF B, IF:8.9)(Accept pending minor revision)**
+
+Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang.
+
+</div>
+</div>
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/tcsvt_ma.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
