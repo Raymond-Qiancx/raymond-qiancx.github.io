@@ -24,14 +24,15 @@ I am a rising senior undergraduate student with a strong interest in Multimodal 
 
 
 # Research Interests
-My long-term vision is to develop efficient, robust and generalizable machine learning system capable of perceiving, understanding and interacting with the world through multimodal information from both 2D and 3D perspectives. Specifically, my previous research focuses on these topics:
+My long-term vision is to develop efficient, robust, and generalizable machine learning systems capable of perceiving, understanding, and interacting with the world through multimodal information. I am particularly interested in advancing LLMs combined with vision, audio, action, and other modalities toward Agentic and Embodied AI systems that can reason, plan, and act in complex environments — enabling intelligent agents to interact with humans and make decisions across both physical and web-based settings.. Specifically, my previous research focuses on these topics:
 - ***Generalizable Medical Image Segmentation with Sparse and Noisy Labeled Data*** 
 - ***Modality Competition and Imbalances for Multimodal Machine Learning***
-- ***Cross-modal Decoupling and Alignment for Multimodal Representation Learning***
+- ***Cross-modal Decoupling and Alignment for Multimodal Foundation Models***
+- ***Aligning Large Vision-language Models with Human Preference***
 - ***Reasoning and Alignment for Large Vision-language Models***
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Our work CLIMD has been ***Early Accepted*** by ***MICCAI 2025*** (Top 9%).
+- *2025.05*: &nbsp;🎉🎉 Our work CLIMD has been ***Early Accepted*** by ***MICCAI 2025*** (Top 9%), ArXiv is coming soon.
 - *2025.05*: &nbsp;🎉🎉 Our paper is now under ***Accept pending minor revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
 - *2025.03*: &nbsp;🎉🎉 Excited to propose my first-author work [DecAlign](https://taco-group.github.io/DecAlign/), a novel cross-modal decoupling and alignment framwork for multimodal representation learning, which is now available on ArXiv!
 - *2025.02*: &nbsp;🎉🎉 Excited to propose [Re-Align](https://taco-group.github.io/Re-Align/), a novel alignment framework that leverages image retrieval to mitigate hallucinations in Vision Language Models, which is now available on ArXiv!
