@@ -29,7 +29,7 @@ My long-term vision is to develop efficient, robust, and generalizable machine l
 - ***Modality Competition and Imbalances for Multimodal Machine Learning***
 - ***Cross-modal Decoupling and Alignment for Multimodal Foundation Models***
 - ***Aligning Large Vision-language Models with Human Preference***
-- ***Reasoning and Alignment for Large Vision-language Models***
+- ***Reasoning and Planning for Large Vision-language Models***
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our work CLIMD has been ***Early Accepted*** by ***MICCAI 2025*** (Top 9%), ArXiv is coming soon.
