@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 3rd-year undergraduate in Mathematics and Computer Science at Arcadia University, currently collaborating with [Prof. Zhengzhong Tu](https://vztu.github.io/) at Texas A<span style="font-family: 'Ariva', Arial, sans-serif; color: #5a5a5a; font-weight: bold;">&</span>M University and [Prof. Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab) at USC on Reasoning and Alignment for Multimodal Large Language Models (MLLMs). Previously, I worked with [Prof. Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN), and [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Robust Medical Vision and Multimodal Machine Learning. Moving forward, I am eager to continue exploring the magic of Large Vision-Language Models.
+I am a rising senior undergraduate student with a strong interest in Multimodal Large Language Models (MLLMs) and Agentic AI. Currently, I am collaborating with [Prof. Zhengzhong Tu](https://vztu.github.io/) at Texas A<span style="font-family: 'Ariva', Arial, sans-serif; color: #5a5a5a; font-weight: bold;">&</span>M University and [Prof. Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab) at USC on Reasoning and Alignment for Multimodal Large Language Models (MLLMs). Previously, I worked with [Prof. Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN), and [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Robust Medical Vision and Multimodal Machine Learning. 
 
 
 # Research Interests
@@ -55,18 +55,6 @@ My long-term vision is to develop efficient, robust and generalizable machine le
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://taco-group.github.io/Re-Align/)
-
-**[Arxiv Preprint](https://arxiv.org/abs/2502.13146)**
-
-Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**, [Huaxiu Yao](https://www.huaxiuyao.io/), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
-
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -80,6 +68,22 @@ Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**,
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://taco-group.github.io/Re-Align/)
+
+**[Arxiv Preprint](https://arxiv.org/abs/2502.13146)**
+
+Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**, [Huaxiu Yao](https://www.huaxiuyao.io/), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
+
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/EAAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
