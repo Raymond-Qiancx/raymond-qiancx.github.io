@@ -19,6 +19,9 @@ redirect_from:
 
 I am a rising senior undergraduate student with a strong interest in Multimodal Large Language Models (MLLMs) and Agentic AI. Currently, I am collaborating with [Prof. Zhengzhong Tu](https://vztu.github.io/) at Texas A<span style="font-family: 'Ariva', Arial, sans-serif; color: #5a5a5a; font-weight: bold;">&</span>M University and [Prof. Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab) at USC on Reasoning and Alignment for Multimodal Large Language Models (MLLMs). Previously, I worked with [Prof. Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN), and [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Robust Medical Vision and Multimodal Machine Learning. 
 
+<span style="color:red">I am actively seeking a Ph.D. position in Computer Science for Fall 2026. I would be excited to collaborate with like-minded researchers on a broad range of topics, including Large Language Models (LLMs), Vision-Language Models (VLMs), Agentic AI, and Embodied AI. Please feel free to reach out if our interests align.</span>
+
+
 
 # Research Interests
 My long-term vision is to develop efficient, robust and generalizable machine learning system capable of perceiving, understanding and interacting with the world through multimodal information from both 2D and 3D perspectives. Specifically, my previous research focuses on these topics:
