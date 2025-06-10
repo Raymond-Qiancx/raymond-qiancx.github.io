@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a rising senior undergraduate student with a strong interest in Multimodal Large Language Models (MLLMs) and Agentic AI. Currently, I am collaborating with [Prof. Zhengzhong Tu](https://vztu.github.io/) at Texas A<span style="font-family: 'Ariva', Arial, sans-serif; color: #5a5a5a; font-weight: bold;">&</span>M University and [Prof. Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab) at USC on Reasoning and Alignment for Multimodal Large Language Models (MLLMs). Previously, I worked with [Prof. Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN), and [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Robust Medical Vision and Multimodal Machine Learning. 
+I am a rising senior undergraduate student with a strong interest in Multimodal Large Language Models (MLLMs), Agentic AI and Embodied AI. Currently, I am collaborating with [Prof. Zhengzhong Tu](https://vztu.github.io/) at Texas A<span style="font-family: 'Ariva', Arial, sans-serif; color: #5a5a5a; font-weight: bold;">&</span>M University and [Prof. Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab) at USC on Reasoning and Alignment for Multimodal Large Language Models (MLLMs). Previously, I worked with [Prof. Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN), and [Prof. Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Robust Medical Vision and Multimodal Machine Learning. 
 
 <span style="color:purple">I am actively seeking a Ph.D. position in Computer Science for Fall 2026. I would be excited to collaborate with like-minded researchers on a broad range of topics, including Large Language Models (LLMs), Vision-Language Models (VLMs), Agentic AI, and Embodied AI. Please feel free to reach out if our interests align.</span>
 
@@ -29,7 +29,8 @@ My long-term vision is to develop efficient, robust, and generalizable machine l
 - ***Modality Competition and Imbalances for Multimodal Machine Learning***
 - ***Cross-modal Decoupling and Alignment for Multimodal Foundation Models***
 - ***Aligning Large Vision-language Models with Human Preference***
-- ***Reasoning and Planning for Large Vision-language Models***
+- ***Reasoning and Alignment for Large Vision-language Models***
+- ***Reforcement Learning-driven Open-World Embodied Agents***
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our work CLIMD has been ***Early Accepted*** by ***MICCAI 2025*** (Top 9%), ArXiv is coming soon.
@@ -101,7 +102,7 @@ Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preview</div><img src='images/bibm_cl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/bibm_cl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 CLIMD: A Curriculum Learning Framework for Imbalanced Multimodal Diagnosis
@@ -122,6 +123,18 @@ Region Uncertainty Estimation for Medical Image Segmentation with Noisy Labels
 **IEEE Transaction on Medical Imaging (CCF B, IF:8.9)(Accept pending minor revision)**
 
 Kai Han, Shuhui Wang, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen Lyu, Siqi Ma, [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Qingming Huang<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/DVP_MVS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo
+
+**IEEE Transactions on Circuits and Systems for Video Technology (CCF B, IF: 8.3)(Under Review)**
+
+Zhenlong Yuan, Dapeng Zhang, Zehao Li, **Chengxuan Qian**, Jianing Chen, Yinda Chen, Kehua Chen, Tianlu Mao, Zhaoxin Li, Hao Jiang and Zhaoqi Wang
 
 </div>
 </div>
