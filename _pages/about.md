@@ -33,8 +33,7 @@ My long-term vision is to develop efficient, robust, and generalizable machine l
 - ***Reforcement Learning-driven Open-World Embodied Agents***
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 We propose DVP-MVS++, a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D reconstruction, ArXiv is coming soon.
-- *2025.05*: &nbsp;🎉🎉 Our work CLIMD has been ***Early Accepted*** by ***MICCAI 2025*** (Top 9%), ArXiv is coming soon.
+- *2025.06*: &nbsp;🎉🎉 We propose DVP-MVS++, a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D Reconstruction, ArXiv is coming soon.
 - *2025.05*: &nbsp;🎉🎉 Our work CLIMD has been ***Early Accepted*** by ***MICCAI 2025*** (Top 9%), ArXiv is coming soon.
 - *2025.05*: &nbsp;🎉🎉 Our paper is now under ***Accept pending minor revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
 - *2025.03*: &nbsp;🎉🎉 Excited to propose my first-author work [DecAlign](https://taco-group.github.io/DecAlign/), a novel cross-modal decoupling and alignment framwork for multimodal representation learning, which is now available on ArXiv!
