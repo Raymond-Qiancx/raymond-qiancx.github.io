@@ -144,9 +144,9 @@ Zhenlong Yuan, Dapeng Zhang, Zehao Li, **Chengxuan Qian**, Jianing Chen, Yinda C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/HALFGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene
+[HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene](https://arxiv.org/abs/2506.09518)
 
-**Under Review**
+**[Arxiv Preprint](https://arxiv.org/abs/2506.09518)**
 
 Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang.
 
