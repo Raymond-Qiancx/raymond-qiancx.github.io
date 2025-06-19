@@ -33,7 +33,7 @@ My long-term vision is to develop efficient, robust, and generalizable machine l
 - ***Reforcement Learning-driven Open-World Embodied Agents***
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 We propose DVP-MVS++, a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D Reconstruction, ArXiv is coming soon.
+- *2025.06*: &nbsp;🎉🎉 We propose [DVP-MVS++](https://arxiv.org/abs/2506.13215), a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D Reconstruction, which is now available on ArXiv!
 - *2025.05*: &nbsp;🎉🎉 Our work CLIMD has been ***Early Accepted*** by ***MICCAI 2025*** (Top 9%), ArXiv is coming soon.
 - *2025.05*: &nbsp;🎉🎉 Our paper is now under ***Accept pending minor revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
 - *2025.03*: &nbsp;🎉🎉 Excited to propose my first-author work [DecAlign](https://taco-group.github.io/DecAlign/), a novel cross-modal decoupling and alignment framwork for multimodal representation learning, which is now available on ArXiv!
@@ -130,7 +130,7 @@ Kai Han, Shuhui Wang, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DVP_MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo
+[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215)
 
 **IEEE Transactions on Circuits and Systems for Video Technology (CCF B, IF: 8.3)(Under Review)**
 
