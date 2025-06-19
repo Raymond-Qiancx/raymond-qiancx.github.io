@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a rising senior undergraduate student with a strong interest in Multimodal Large Language Models (MLLMs), Agentic AI, Embodied AI, Spatial Intelligence and Video Understanding. I am fortunate to collaborate with [Zhengzhong Tu](https://vztu.github.io/), [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab), [Jiacheng Zhu](https://jiachengzhuml.github.io/), and [Yiqing Liang](https://lynl7130.github.io/) on research focused on Reasoning and Alignment in Vision-Language Models (VLMs). Prior to that, I worked with [Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN), and [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Robust Medical Vision and Multimodal Machine Learning. I am deeply grateful to them for guiding me into the world of research. 
+I am a rising senior undergraduate student with a strong interest in Multimodal Large Language Models (MLLMs), Agentic AI, Embodied AI, Spatial Intelligence and Video Understanding. I am fortunate to collaborate with [Zhengzhong Tu](https://vztu.github.io/), [Manling Li](https://limanling.github.io/), [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab), and [Jiacheng Zhu](https://jiachengzhuml.github.io/) on research focused on Reasoning and Alignment in Vision-Language Models (VLMs). Prior to that, I worked with [Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN), and [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Robust Medical Vision and Multimodal Machine Learning. I am deeply grateful to them for guiding me into the world of research. 
 
 <span style="color:purple">I am actively seeking a Ph.D. position in Computer Science for Fall 2026. I would be excited to collaborate with like-minded researchers on a broad range of topics, including Large Language Models (LLMs), Vision-Language Models (VLMs), Agentic AI, and Embodied AI. Please feel free to reach out if our interests align.</span>
 
@@ -38,12 +38,11 @@ My long-term vision is to develop efficient, robust, and generalizable machine l
 - *2025.05*: &nbsp;🎉🎉 Our paper is now under ***Accept pending minor revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
 - *2025.03*: &nbsp;🎉🎉 Excited to propose my first-author work [DecAlign](https://taco-group.github.io/DecAlign/), a novel cross-modal decoupling and alignment framwork for multimodal representation learning, which is now available on ArXiv!
 - *2025.02*: &nbsp;🎉🎉 Excited to propose [Re-Align](https://taco-group.github.io/Re-Align/), a novel alignment framework that leverages image retrieval to mitigate hallucinations in Vision Language Models, which is now available on ArXiv!
-- *2025.01*: &nbsp;🎉🎉 I will collaborate with [Prof. Zhengzhong Tu](https://vztu.github.io/) on advancing cutting-edge research in the alignment of Multimodal Foundation Models and Multimodal Large Language Models (MLLMs)！
 - *2024.11*: &nbsp;🎉🎉 Excited to propose my first-author work [DynCIM](https://arxiv.org/abs/2503.06456), a novel dynamic multimodal curriculum learning framework in addressing cross-modal competition and imbalances, which is now available on ArXiv!
 - *2024.11*: &nbsp;🎉🎉 Our work is now under ***Major Revision*** by ***IEEE Transaction on Medical Imaging (IF: 8.9)***.
 - *2024.10*: &nbsp;🎉🎉 Our work is now under ***Major Revision*** by ***Medical Image Analysis (IF: 10.9)***.
 - *2024.08*: &nbsp;🎉🎉 Excited to propose my first-author work [ALC](https://arxiv.org/abs/2503.12218), a novel adaptive label correction framework for medical image segmentation with noisy labels, which is now available on ArXiv!
-- *2024.06*: &nbsp;🎉🎉 My project "Dynamic Self-adaptive Fusion Framework for Medical Disease Dignosis" has been selected as a Chinese National Undergraduate College Students Innovation and Entrepreneurship Program (National Key Project).
+
 
 
 # 📝 Publications 
