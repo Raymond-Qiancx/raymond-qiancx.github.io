@@ -19,7 +19,7 @@ redirect_from:
 
 I am a rising senior undergraduate student with a strong interest in Multimodal Large Language Models (MLLMs), Agentic AI, Embodied AI, Spatial Intelligence and Video Understanding. I am fortunate to collaborate with [Zhengzhong Tu](https://vztu.github.io/), [Manling Li](https://limanling.github.io/), [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab), and [Jiacheng Zhu](https://jiachengzhuml.github.io/) on research focused on Reasoning and Alignment in Vision-Language Models (VLMs). Prior to that, I worked with [Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN), and [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Robust Medical Vision and Multimodal Machine Learning. I am deeply grateful to them for guiding me into the world of research. 
 
-<span style="color:purple">I am actively seeking a Ph.D. position in Computer Science for Fall 2026. I would be excited to collaborate with like-minded researchers on a broad range of topics, including Large Language Models (LLMs), Vision-Language Models (VLMs), Agentic AI, and Embodied AI. Please feel free to reach out if our interests align.</span>
+<span style="color:purple">I am actively seeking a Ph.D. position in Computer Science for Fall 2026. I would be excited to collaborate with like-minded researchers on a broad range of topics, including Large Language Models (LLMs), Vision-Language Models (VLMs), Agentic AI, and Embodied AI. Please feel free to reach out if our interests align, my wechat is qiancxdotcom.</span>
 
 
 
