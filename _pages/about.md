@@ -21,8 +21,6 @@ I am a rising senior undergraduate student with a strong interest in Multimodal 
 
 <span style="color:purple">I am actively seeking a Ph.D. position in Computer Science for Fall 2026. I would be excited to collaborate with like-minded researchers on a broad range of topics, including Large Language Models (LLMs), Vision-Language Models (VLMs), Agentic AI, and Embodied AI. Please feel free to reach out if our interests align, my wechat is qiancxdotcom.</span>
 
-
-
 # Research Interests
 My long-term vision is to develop efficient, robust, and generalizable machine learning systems capable of perceiving, understanding, and interacting with the world through multimodal information. I am particularly interested in advancing LLMs combined with vision, audio, action, and other modalities toward Agentic and Embodied AI systems that can reason, plan, and act in complex environments — enabling intelligent agents to interact with humans and make decisions across both physical and web-based settings. Specifically, my previous research focuses on these topics:
 - ***Generalizable Medical Image Segmentation with Sparse and Noisy Labeled Data*** 
