@@ -31,6 +31,7 @@ My long-term vision is to develop efficient, robust, and generalizable machine l
 - ***Reforcement Learning-driven Open-World Embodied Agents***
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Our work on Generalizable Medical Vision has been accepted by ***IEEE Transactions on Medical Imaging (IF: 8.9)***.
 - *2025.06*: &nbsp;🎉🎉 We propose [DVP-MVS++](https://arxiv.org/abs/2506.13215), a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D Reconstruction, which is now available on ArXiv!
 - *2025.06*: &nbsp;🎉🎉 We propose [HALF-GS](https://arxiv.org/abs/2506.09518), an efficient dynamic 3D reconstruction framework combining sparse anchors, self-supervised guidance, and hierarchical propagation to improve reconstruction quality and temporal consistency, which is now available on ArXiv!
 - *2025.05*: &nbsp;🎉🎉 Our work CLIMD has been ***Early Accepted*** by ***MICCAI 2025*** (Top 9%), ArXiv is coming soon.
