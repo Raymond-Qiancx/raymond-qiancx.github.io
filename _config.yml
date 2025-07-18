@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Chengxuan Qian"
-description              : "Multimodal Learning, VLM Reasoning and Alignment"
+description              : "Vision-Language Foundation Models"
 repository               : "Raymond-Qiancx/raymond-qiancx.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -25,7 +25,7 @@ author:
   avatar           : "images/my_photo.jpg"
   bio              : "Math+CS junior undergraduate"
   location         : "Philadelphia, PA, USA"
-  employer         :
+  employer         : "Internship at Northwestern University, Texas A&M University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DZDZXtwAAAAJ&hl=zh-CN"
   email            : "open.qiancx@gmail.com"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/qian_xuan46760"
   vine             :
   weibo            :
   xing             :
