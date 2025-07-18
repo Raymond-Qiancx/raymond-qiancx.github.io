@@ -25,7 +25,7 @@ author:
   avatar           : "images/my_photo.jpg"
   bio              : "Math+CS junior undergraduate"
   location         : "Philadelphia, PA, USA"
-  employer         : "Internship at Northwestern University, Texas A&M University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DZDZXtwAAAAJ&hl=zh-CN"
   email            : "open.qiancx@gmail.com"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/qian_xuan46760"
+  twitter          : "qian_xuan46760"
   vine             :
   weibo            :
   xing             :
