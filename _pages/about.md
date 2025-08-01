@@ -23,11 +23,9 @@ I am a rising senior undergraduate student with a strong interest in Multimodal 
 
 # Research Interests
 My long-term vision is to develop efficient, robust, and generalizable machine learning systems capable of perceiving, understanding, and interacting with the world through multimodal information. I am particularly interested in advancing LLMs combined with vision, audio, action, and other modalities toward Agentic and Embodied AI systems that can reason, plan, and act in complex environments — enabling intelligent agents to interact with humans and make decisions across both physical and web-based settings. Specifically, my previous research focuses on these topics:
-- ***Generalizable Medical Image Segmentation with Sparse and Noisy Labeled Data*** 
-- ***Modality Competition and Imbalances for Multimodal Machine Learning***
-- ***Cross-modal Decoupling and Alignment for Multimodal Foundation Models***
-- ***Aligning Large Vision-language Models with Human Preference***
-- ***Reasoning and Alignment for Large Vision-language Models***
+- ***Generalizable Medical Vision*** 
+- ***Multimodal Foundation Models***
+- ***Reasoning, Planning, Alignment for Large Vision-language Models🔥***
 - ***Reforcement Learning-driven Open-World Embodied Agents***
 
 # 🔥 News
