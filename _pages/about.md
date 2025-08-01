@@ -24,6 +24,7 @@ I am a rising senior undergraduate student with a strong interest in Multimodal 
 # Research Interests
 My long-term vision is to develop efficient, robust, and generalizable machine learning systems capable of perceiving, understanding, and interacting with the world through multimodal information. I am particularly interested in advancing LLMs combined with vision, audio, action, and other modalities toward Agentic and Embodied AI systems that can reason, plan, and act in complex environments — enabling intelligent agents to interact with humans and make decisions across both physical and web-based settings. Specifically, my previous research focuses on these topics:
 - ***Generalizable Medical Vision*** 
+- ***3D Scene Reconstruction***
 - ***Multimodal Foundation Models🔥***
 - ***Reasoning, Planning, Alignment for Large Vision-language Models🔥***
 - ***Tool-Augmented Agentic Systems with Large Multimodal Foundation Models🔥***
@@ -42,7 +43,6 @@ My long-term vision is to develop efficient, robust, and generalizable machine l
 
 
 # 📝 Publications 
-
 
 ## Multimodal Foundation Models
 
@@ -102,7 +102,23 @@ Zhengzhong Zhu, Pei Zhou, **Chengxuan Qian**, Ruohong Yang, Yixuan Ye, Jiangping
 
 ## Multimodal LLMs Post-Training
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/autodriver2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving
+**Preprint**
+
+Zhenlong Yuan, Jing Tang, Jinguo Luo, Rui Chen, Lei Sun, Chengxuan Qian, Yujun Cai, Dapeng Zhang, Shuo Li.
+
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://taco-group.github.io/Re-Align/)
@@ -114,7 +130,6 @@ Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**,
 
 </div>
 </div>
-
 
 
 
