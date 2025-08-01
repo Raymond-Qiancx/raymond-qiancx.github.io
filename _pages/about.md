@@ -107,6 +107,8 @@ Zhengzhong Zhu, Pei Zhou, **Chengxuan Qian**, Ruohong Yang, Yixuan Ye, Jiangping
 <div class='paper-box-text' markdown="1">
 
 AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving
+
+
 **Preprint**
 
 Zhenlong Yuan, Jing Tang, Jinguo Luo, Rui Chen, Lei Sun, **Chengxuan Qian**, Yujun Cai, Dapeng Zhang, Shuo Li.
