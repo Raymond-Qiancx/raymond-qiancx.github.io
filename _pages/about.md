@@ -25,8 +25,8 @@ I am a rising senior undergraduate student with a strong interest in Multimodal 
 My long-term vision is to develop efficient, robust, and generalizable machine learning systems capable of perceiving, understanding, and interacting with the world through multimodal information. I am particularly interested in advancing LLMs combined with vision, audio, action, and other modalities toward Agentic and Embodied AI systems that can reason, plan, and act in complex environments — enabling intelligent agents to interact with humans and make decisions across both physical and web-based settings. Specifically, my previous research focuses on these topics:
 - ***Generalizable Medical Vision*** 
 - ***Multimodal Foundation Models***
-- ***Reasoning, Planning, Alignment for Large Vision-language Models🔥 ***
-- ***Tool-Augmented Agentic Systems with Large Multimodal Foundation Models🔥 ***
+- ***Reasoning, Planning, Alignment for Large Vision-language Models🔥***
+- ***Tool-Augmented Agentic Systems with Large Multimodal Foundation Models🔥***
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Our work on [Generalizable Medical Vision](https://ieeexplore.ieee.org/document/11080080) has been accepted by ***IEEE Transactions on Medical Imaging (IF: 9.8)***.
@@ -60,13 +60,6 @@ My long-term vision is to develop efficient, robust, and generalizable machine l
 </div>
 
 
-
-
-## Multimodal LLMs Post-Training
-
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -80,6 +73,34 @@ My long-term vision is to develop efficient, robust, and generalizable machine l
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/bibm_cl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+CLIMD: A Curriculum Learning Framework for Imbalanced Multimodal Diagnosis
+
+**MICCAI 2025 Early Accept (Top 9% Paper)**
+
+Kai Han, Chongwen Lyu, **Chengxuan Qian**, Siqi Ma, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>,
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/zzz.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Contrastive Intra- and Inter-modal Clustering for Multimodal Semantic Discovery
+
+**Under Review**
+
+Zhengzhong Zhu, Pei Zhou, **Chengxuan Qian**, Ruohong Yang, Yixuan Ye, Jiangping Zhu
+
+</div>
+</div>
+
+
+## Multimodal LLMs Post-Training
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -96,6 +117,10 @@ Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**,
 
 
 
+
+
+## Medical Image Analysis
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/EAAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -104,18 +129,6 @@ Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**,
 **[Arxiv Preprint](https://arxiv.org/abs/2503.12218)**
 
 **Chengxuan Qian**, K Han, Siqi Ma, Chongwen Lyu, Zhenlong Yuan, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/bibm_cl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-CLIMD: A Curriculum Learning Framework for Imbalanced Multimodal Diagnosis
-
-**MICCAI 2025 Early Accept (Top 9% Paper)**
-
-Kai Han, Chongwen Lyu, **Chengxuan Qian**, Siqi Ma, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>,
 
 </div>
 </div>
@@ -132,35 +145,6 @@ Kai Han, Shuhui Wang, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen 
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DVP_MVS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215)
-
-**IEEE Transactions on Circuits and Systems for Video Technology (CCF B, IF: 8.3)(Under Review)**
-
-Zhenlong Yuan, Dapeng Zhang, Zehao Li, **Chengxuan Qian**, Jianing Chen, Yinda Chen, Kehua Chen, Tianlu Mao, Zhaoxin Li, Hao Jiang and Zhaoqi Wang
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/HALFGS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene](https://arxiv.org/abs/2506.09518)
-
-**[Arxiv Preprint](https://arxiv.org/abs/2506.09518)**
-
-Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang.
-
-</div>
-</div>
-
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/tcsvt_ma.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -204,17 +188,48 @@ Z Liu<sup>†</sup>, K Han, S Ma, J Chen<sup>&dagger;</sup>, ..., **C Qian**, C 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preview</div><img src='images/CVPR_Zhu.png' alt="sym" width="100%"></div></div>
+
+
+
+
+
+
+
+
+## 3D Vision
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DVP_MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Diffusion Contrastive Learning for Image Classification
+[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215)
 
-**Under Review**
+**IEEE Transactions on Circuits and Systems for Video Technology (CCF B, IF: 8.3)(Under Review)**
 
-Xincheng Zhu, Yonghan Lu, Kai Han, Chongwen Lyu, **Chengxuan Qian**, J Chen<sup>&dagger;</sup>, Z Liu<sup>&dagger;</sup>.
+Zhenlong Yuan, Dapeng Zhang, Zehao Li, **Chengxuan Qian**, Jianing Chen, Yinda Chen, Kehua Chen, Tianlu Mao, Zhaoxin Li, Hao Jiang and Zhaoqi Wang
 
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/HALFGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene](https://arxiv.org/abs/2506.09518)
+
+**[Arxiv Preprint](https://arxiv.org/abs/2506.09518)**
+
+Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang.
+
+</div>
+</div>
+
+
+
+
+
+
 
 
 
