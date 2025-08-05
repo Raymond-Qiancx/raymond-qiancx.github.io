@@ -30,6 +30,7 @@ My long-term vision is to develop efficient, robust, and generalizable machine l
 - ***Tool-Augmented Agentic Systems with Large Multimodal Foundation Models🔥***
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 I will serve as the Program Committee for AAAI 2026!***.
 - *2025.07*: &nbsp;🎉🎉 Our work on [Generalizable Medical Vision](https://ieeexplore.ieee.org/document/11080080) has been accepted by ***IEEE Transactions on Medical Imaging (IF: 9.8)***.
 - *2025.06*: &nbsp;🎉🎉 We propose [DVP-MVS++](https://arxiv.org/abs/2506.13215), a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D Reconstruction, which is now available on ArXiv!
 - *2025.06*: &nbsp;🎉🎉 We propose [HALF-GS](https://arxiv.org/abs/2506.09518), an efficient dynamic 3D reconstruction framework combining sparse anchors, self-supervised guidance, and hierarchical propagation to improve reconstruction quality and temporal consistency, which is now available on ArXiv!
