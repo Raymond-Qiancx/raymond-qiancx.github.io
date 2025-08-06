@@ -255,7 +255,7 @@ Note: Details of some papers above are not allowed to show since they are curren
 
 
 # 🎖 Academical Services
-- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), IEEE International Conference on Multimedia & Expo (ICME 2025) and ICCV 2025.
+- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), IEEE International Conference on Multimedia & Expo (ICME 2025), ICCV 2025 and AAAI 2026.
 
 
 
