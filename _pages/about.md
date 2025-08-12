@@ -26,19 +26,20 @@ My long-term vision is to develop efficient, robust, and generalizable machine l
 - ***Generalizable Medical Vision*** 
 - ***3D Scene Reconstruction***
 - ***Multimodal Foundation Models🔥***
-- ***Reasoning, Planning, Alignment for Large Vision-language Models🔥***
-- ***Tool-Augmented Agentic Systems with Large Multimodal Foundation Models🔥***
+- ***Visual Reasoning and Alignment🔥🔥***
+- ***Mutimodal RAG and Search Agent🔥🔥***
+- ***Tool-Augmented Vision-Language Agentic Systems🔥🔥🔥***
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 I will serve as the Program Committee for AAAI 2026!.
-- *2025.07*: &nbsp;🎉🎉 Our work on [Generalizable Medical Vision](https://ieeexplore.ieee.org/document/11080080) has been accepted by ***IEEE Transactions on Medical Imaging (IF: 9.8)***.
+- *2025.07*: &nbsp;🎉🎉 Our work on [Generalizable Medical Vision](https://ieeexplore.ieee.org/document/11080080) has been ***Accepted*** by ***IEEE Transactions on Medical Imaging***.
 - *2025.06*: &nbsp;🎉🎉 We propose [DVP-MVS++](https://arxiv.org/abs/2506.13215), a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D Reconstruction, which is now available on ArXiv!
 - *2025.06*: &nbsp;🎉🎉 We propose [HALF-GS](https://arxiv.org/abs/2506.09518), an efficient dynamic 3D reconstruction framework combining sparse anchors, self-supervised guidance, and hierarchical propagation to improve reconstruction quality and temporal consistency, which is now available on ArXiv!
 - *2025.05*: &nbsp;🎉🎉 Our work [CLIMD](https://arxiv.org/abs/2508.01594) has been ***Early Accepted*** by ***MICCAI 2025*** (Top 9%).
 - *2025.03*: &nbsp;🎉🎉 Excited to propose my first-author work [DecAlign](https://taco-group.github.io/DecAlign/), a novel cross-modal decoupling and alignment framwork for multimodal representation learning, which is now available on ArXiv!
 - *2025.02*: &nbsp;🎉🎉 Excited to propose [Re-Align](https://taco-group.github.io/Re-Align/), a novel alignment framework that leverages image retrieval to mitigate hallucinations in Vision Language Models, which is now available on ArXiv!
 - *2024.11*: &nbsp;🎉🎉 Excited to propose my first-author work [DynCIM](https://arxiv.org/abs/2503.06456), a novel dynamic multimodal curriculum learning framework in addressing cross-modal competition and imbalances, which is now available on ArXiv!
-- *2024.10*: &nbsp;🎉🎉 Our work is now under ***Major Revision*** by ***Medical Image Analysis (IF: 10.9)***.
+- *2024.10*: &nbsp;🎉🎉 Our work is now under ***Major Revision*** by ***Medical Image Analysis***.
 - *2024.08*: &nbsp;🎉🎉 Excited to propose my first-author work [ALC](https://arxiv.org/abs/2503.12218), a novel adaptive label correction framework for medical image segmentation with noisy labels, which is now available on ArXiv!
 
 
@@ -245,21 +246,8 @@ Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, S
 
 
 
-
-
-
-
-
-
-Note: Details of some papers above are not allowed to show since they are currently under reviewed by double-blind conference. <sup>&dagger;</sup> is the note for advisor.
-
-
 # 🎖 Academical Services
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), IEEE International Conference on Multimedia & Expo (ICME 2025), ICCV 2025 and AAAI 2026.
 
 
-
-# 💬 Open-source Projects
-- [Re-Align](https://github.com/taco-group/Re-Align), a novel Direct Preference Optimization (DPO)-based alignment framework that leverages image retrieval to mitigate hallucinations in Vision Language Models. See more in the corresponding [website](https://taco-group.github.io/Re-Align/) with [codes](https://taco-group.github.io/Re-Align/).
-- [DecAlign](https://taco-group.github.io/DecAlign/), a novel cross-modal decoupling and alignment framwork for multimodal representation learning. See more in the corresponding [website](https://taco-group.github.io/DecAlign/) with [codes](https://github.com/taco-group/DecAlign)(Will be fully released soon!).
 
