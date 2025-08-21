@@ -128,7 +128,7 @@ Zhenlong Yuan, Jing Tang, Jinguo Luo, Rui Chen, Lei Sun, **Chengxuan Qian**, Yuj
 
 [Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://taco-group.github.io/Re-Align/)
 
-**[EMNLP Main Conference](https://arxiv.org/abs/2502.13146)**
+**[EMNLP 2025 Main Conference](https://arxiv.org/abs/2502.13146)**
 
 Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**, [Huaxiu Yao](https://www.huaxiuyao.io/), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
 
