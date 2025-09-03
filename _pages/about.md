@@ -31,6 +31,8 @@ My long-term vision is to develop efficient, robust, and generalizable machine l
 - ***Tool-Augmented Vision-Language Agentic Systems🔥🔥🔥***
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 We propose [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1), Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving, which is now available on ArXiv!
+- *2025.08*: &nbsp;🎉🎉 I will serve as Reviewer for NeurIPS 2025 Imageomics!.
 - *2025.08*: &nbsp;🎉🎉 Our work [Re-Align](https://taco-group.github.io/Re-Align/) has been accepted by EMNLP 2025 Main Conference!
 - *2025.08*: &nbsp;🎉🎉 I will serve as the Program Committee for AAAI 2026!.
 - *2025.07*: &nbsp;🎉🎉 Our work on [Generalizable Medical Vision](https://ieeexplore.ieee.org/document/11080080) has been ***Accepted*** by ***IEEE Transactions on Medical Imaging***.
@@ -109,7 +111,7 @@ Zhengzhong Zhu, Pei Zhou, **Chengxuan Qian**, Ruohong Yang, Yixuan Ye, Jiangping
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/autodriver2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving
+[AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1)
 
 
 **Preprint**
@@ -248,7 +250,7 @@ Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, S
 
 
 # 🎖 Academical Services
-- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), IEEE International Conference on Multimedia & Expo (ICME 2025), ICCV 2025 and AAAI 2026.
+- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), IEEE International Conference on Multimedia & Expo (ICME 2025), ICCV 2025, AAAI 2026, and NeurIPS 2025 Imageomics.
 
 
 
