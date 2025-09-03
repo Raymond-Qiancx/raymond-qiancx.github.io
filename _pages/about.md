@@ -25,13 +25,14 @@ I am a rising senior undergraduate student with a strong interest in Multimodal 
 My long-term vision is to develop efficient, robust, and generalizable machine learning systems capable of perceiving, understanding, and interacting with the world through multimodal information. I am particularly interested in advancing LLMs combined with vision, audio, action, and other modalities toward Agentic and Embodied AI systems that can reason, plan, and act in complex environments — enabling intelligent agents to interact with humans and make decisions across both physical and web-based settings. Specifically, my previous research focuses on these topics:
 - ***Generalizable Medical Vision*** 
 - ***3D Scene Reconstruction***
+- ***Autonomous Driving***
 - ***Multimodal Foundation Models🔥***
 - ***Visual Reasoning and Alignment🔥🔥***
 - ***Mutimodal RAG and Search Agent🔥🔥***
 - ***Tool-Augmented Vision-Language Agentic Systems🔥🔥🔥***
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 We propose [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1), Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving, which is now available on ArXiv!
+- *2025.09*: &nbsp;🎉🎉 We propose [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1), Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving, which is now available on ArXiv!
 - *2025.08*: &nbsp;🎉🎉 I will serve as Reviewer for NeurIPS 2025 Imageomics!.
 - *2025.08*: &nbsp;🎉🎉 Our work [Re-Align](https://taco-group.github.io/Re-Align/) has been accepted by EMNLP 2025 Main Conference!
 - *2025.08*: &nbsp;🎉🎉 I will serve as the Program Committee for AAAI 2026!.
