@@ -70,6 +70,8 @@ Zhenlong Yuan<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>, Xiangyan Qu, Rui Chen
 
 **Preprint**
 
+**Reported by well-known media [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)**
+
 Zhenlong Yuan, Jing Tang, Jinguo Luo, Rui Chen, Lei Sun, **Chengxuan Qian**, Yujun Cai, Dapeng Zhang, Shuo Li.
 
 
