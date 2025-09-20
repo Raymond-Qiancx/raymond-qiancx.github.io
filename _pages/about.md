@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a rising senior undergraduate student with a strong interest in Multimodal LLMs Post-Training and Tool-Augmented Agentic System. I am fortunate to collaborate with [Manling Li](https://limanling.github.io/), [Zhengzhong Tu](https://vztu.github.io/), [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab), and [Jiacheng Zhu](https://jiachengzhuml.github.io/) on research focused on Multimodal Reasoning, Alignment, RAG and Agentic System. Prior to that, I worked with [Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN) and [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Robust Medical Vision and Multimodal Machine Learning. I am deeply grateful to them for guiding me into the world of research. 
+I am a senior undergraduate student with a strong interest in Multimodal LLMs Post-Training and Tool-Augmented Agentic System. I am fortunate to collaborate with [Manling Li](https://limanling.github.io/), [Zhengzhong Tu](https://vztu.github.io/), [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab), and more broadly with [Jiacheng Zhu](https://jiachengzhuml.github.io/), [Yujun Cai](https://vanoracai.github.io/), [Yiwei Wang](https://wangywust.github.io/), [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en). Prior to that, I worked with [Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN) and [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Generalizable Medical Vision and Multimodal Machine Learning. I am deeply grateful to them for guiding me into the world of research. 
 
-<span style="color:purple">I am actively seeking a 26 Fall CS PhD position. I would be excited to collaborate with like-minded researchers on a broad range of topics, including LLMs, VLMs, Agents, and Embodied AI. Please feel free to reach out if our interests align, my wechat is qiancxdotcom.</span>
+<span style="color:purple">I am actively seeking a 26 Fall CS PhD position. I am always open to collaborate, feel free to drop me an email or contact with me on wechat ID qiancxdotcom.</span>
 
 # Research Interests
 - ***Multimodal Foundation Models (VLM, VLA, Videos, Spatial Intelligence etc.)🔥***
