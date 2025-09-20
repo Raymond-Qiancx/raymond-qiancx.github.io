@@ -22,26 +22,21 @@ I am a rising senior undergraduate student with a strong interest in Multimodal 
 <span style="color:purple">I am actively seeking a 26 Fall CS PhD position. I would be excited to collaborate with like-minded researchers on a broad range of topics, including LLMs, VLMs, Agents, and Embodied AI. Please feel free to reach out if our interests align, my wechat is qiancxdotcom.</span>
 
 # Research Interests
-My long-term vision is to develop efficient, robust, and generalizable machine learning systems capable of perceiving, understanding, and interacting with the world through multimodal information. I am particularly interested in advancing LLMs combined with vision, audio, action, and other modalities toward Agentic and Embodied AI systems that can reason, plan, and act in complex environments — enabling intelligent agents to interact with humans and make decisions across both physical and web-based settings. Specifically, my previous research focuses on these topics:
-- ***Generalizable Medical Vision*** 
-- ***3D Scene Reconstruction***
-- ***Autonomous Driving***
-- ***Multimodal Foundation Models🔥***
-- ***Visual Reasoning and Alignment🔥🔥***
-- ***Mutimodal RAG and Search Agent🔥🔥***
-- ***Tool-Augmented Vision-Language Agentic Systems🔥🔥🔥***
+- ***Multimodal Foundation Models (VLM, VLA, Videos, Spatial Intelligence etc.)🔥***
+- ***Multimodal Post-Training (Reasoning, Alignment, Benchmarks, Agent)🔥🔥***
+- ***Tool-Augmented Agentic RL (Visual Tools, RAG, Search Engine, Code Interpreter, Application APIs etc.)🔥🔥***
+- ***Agent Application (Autonomous Driving, Biomedicine, Embodied AI)🔥🔥***
+
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Our work [HALF-GS](https://arxiv.org/abs/2506.09518), an efficient dynamic 3D reconstruction framework combining sparse anchors, self-supervised guidance, and hierarchical propagation to improve reconstruction quality and temporal consistency, has been accepted by NeurIPS 2025!
 - *2025.09*: &nbsp;🎉🎉 We propose [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1), Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving, which is now available on ArXiv!
-- *2025.08*: &nbsp;🎉🎉 I will serve as Reviewer for NeurIPS 2025 Imageomics!.
 - *2025.08*: &nbsp;🎉🎉 Our work [Re-Align](https://taco-group.github.io/Re-Align/) has been accepted by EMNLP 2025 Main Conference!
 - *2025.08*: &nbsp;🎉🎉 I will serve as the Program Committee for AAAI 2026!.
 - *2025.07*: &nbsp;🎉🎉 Our work on [Generalizable Medical Vision](https://ieeexplore.ieee.org/document/11080080) has been ***Accepted*** by ***IEEE Transactions on Medical Imaging***.
 - *2025.06*: &nbsp;🎉🎉 We propose [DVP-MVS++](https://arxiv.org/abs/2506.13215), a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D Reconstruction, which is now available on ArXiv!
-- *2025.06*: &nbsp;🎉🎉 We propose [HALF-GS](https://arxiv.org/abs/2506.09518), an efficient dynamic 3D reconstruction framework combining sparse anchors, self-supervised guidance, and hierarchical propagation to improve reconstruction quality and temporal consistency, which is now available on ArXiv!
 - *2025.05*: &nbsp;🎉🎉 Our work [CLIMD](https://arxiv.org/abs/2508.01594) has been ***Early Accepted*** by ***MICCAI 2025*** (Top 9%).
 - *2025.03*: &nbsp;🎉🎉 Excited to propose my first-author work [DecAlign](https://taco-group.github.io/DecAlign/), a novel cross-modal decoupling and alignment framwork for multimodal representation learning, which is now available on ArXiv!
-- *2025.02*: &nbsp;🎉🎉 Excited to propose [Re-Align](https://taco-group.github.io/Re-Align/), a novel RAG-enhanced DPO framework to mitigate hallucinations in Vision Language Models, which is now available on ArXiv!
 - *2024.11*: &nbsp;🎉🎉 Excited to propose my first-author work [DynCIM](https://arxiv.org/abs/2503.06456), a novel dynamic multimodal curriculum learning framework in addressing cross-modal competition and imbalances, which is now available on ArXiv!
 - *2024.10*: &nbsp;🎉🎉 Our work is now under ***Major Revision*** by ***Medical Image Analysis***.
 - *2024.08*: &nbsp;🎉🎉 Excited to propose my first-author work [ALC](https://arxiv.org/abs/2503.12218), a novel adaptive label correction framework for medical image segmentation with noisy labels, which is now available on ArXiv!
@@ -107,7 +102,6 @@ Zhengzhong Zhu, Pei Zhou, **Chengxuan Qian**, Ruohong Yang, Yixuan Ye, Jiangping
 
 
 ## Multimodal LLMs Post-Training
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/autodriver2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -241,7 +235,7 @@ Zhenlong Yuan, Dapeng Zhang, Zehao Li, **Chengxuan Qian**, Jianing Chen, Yinda C
 
 [HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene](https://arxiv.org/abs/2506.09518)
 
-**[Arxiv Preprint](https://arxiv.org/abs/2506.09518)**
+**[NeurIPS 2025](https://arxiv.org/abs/2506.09518)**
 
 Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang.
 
@@ -251,7 +245,7 @@ Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, S
 
 
 # 🎖 Academical Services
-- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), IEEE International Conference on Multimedia & Expo (ICME 2025), ICCV 2025, AAAI 2026, and NeurIPS 2025 Imageomics.
+- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), IEEE International Conference on Multimedia & Expo (ICME 2025), ICCV 2025, NeurIPS 2025, AAAI 2026.
 
 
 
