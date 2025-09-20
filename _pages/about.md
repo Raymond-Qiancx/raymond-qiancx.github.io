@@ -24,7 +24,7 @@ I am a rising senior undergraduate student with a strong interest in Multimodal 
 # Research Interests
 - ***Multimodal Foundation Models (VLM, VLA, Videos, Spatial Intelligence etc.)🔥***
 - ***Multimodal Post-Training (Reasoning, Alignment, Benchmarks, Agent)🔥🔥***
-- ***Tool-Augmented Agentic RL (Visual Tools, RAG, Search Engine, Code Interpreter, Application APIs etc.)🔥🔥***
+- ***Tool-Augmented Agentic RL (Visual Tools, RAG, Search Engine, Code Interpreter, APIs etc.)🔥🔥***
 - ***Agent Application (Autonomous Driving, Biomedicine, Embodied AI)🔥🔥***
 
 
@@ -56,7 +56,7 @@ Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
 
 **Preprint**
 
-Zhenlong Yuan*, **Chengxuan Qian***, Xiangyan Qu, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Daoeng Zhu, [Yiwei Wang](https://wangywust.github.io/), [Yujun Cai](https://vanoracai.github.io/), [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en).
+Zhenlong Yuan<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>, Xiangyan Qu, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Daoeng Zhu, [Yiwei Wang](https://wangywust.github.io/), [Yujun Cai](https://vanoracai.github.io/), [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en).
 
 
 </div>
