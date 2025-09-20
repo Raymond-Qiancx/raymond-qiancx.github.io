@@ -30,6 +30,7 @@ I am a rising senior undergraduate student with a strong interest in Multimodal 
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Our work [HALF-GS](https://arxiv.org/abs/2506.09518), an efficient dynamic 3D reconstruction framework combining sparse anchors, self-supervised guidance, and hierarchical propagation to improve reconstruction quality and temporal consistency, has been accepted by NeurIPS 2025!
+- *2025.09*: &nbsp;🎉🎉 Our work [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1) was reported by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)
 - *2025.09*: &nbsp;🎉🎉 We propose [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1), Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving, which is now available on ArXiv!
 - *2025.08*: &nbsp;🎉🎉 Our work [Re-Align](https://taco-group.github.io/Re-Align/) has been accepted by EMNLP 2025 Main Conference!
 - *2025.08*: &nbsp;🎉🎉 I will serve as the Program Committee for AAAI 2026!.
@@ -44,6 +45,52 @@ I am a rising senior undergraduate student with a strong interest in Multimodal 
 
 
 # 📝 Publications 
+
+## Multimodal LLMs Post-Training
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Video_star.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
+
+
+**Preprint**
+
+Zhenlong Yuan*, **Chengxuan Qian***, Xiangyan Qu, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Daoeng Zhu, [Yiwei Wang](https://wangywust.github.io/), [Yujun Cai](https://vanoracai.github.io/), [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en).
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/autodriver2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1)
+
+
+**Preprint**
+
+Zhenlong Yuan, Jing Tang, Jinguo Luo, Rui Chen, Lei Sun, **Chengxuan Qian**, Yujun Cai, Dapeng Zhang, Shuo Li.
+
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://taco-group.github.io/Re-Align/)
+
+**[EMNLP 2025 Main Conference](https://arxiv.org/abs/2502.13146)**
+
+Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**, [Huaxiu Yao](https://www.huaxiuyao.io/), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
+
+
+</div>
+</div>
 
 ## Multimodal Foundation Models
 
@@ -99,41 +146,6 @@ Zhengzhong Zhu, Pei Zhou, **Chengxuan Qian**, Ruohong Yang, Yixuan Ye, Jiangping
 
 </div>
 </div>
-
-
-## Multimodal LLMs Post-Training
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/autodriver2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1)
-
-
-**Preprint**
-
-Zhenlong Yuan, Jing Tang, Jinguo Luo, Rui Chen, Lei Sun, **Chengxuan Qian**, Yujun Cai, Dapeng Zhang, Shuo Li.
-
-
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://taco-group.github.io/Re-Align/)
-
-**[EMNLP 2025 Main Conference](https://arxiv.org/abs/2502.13146)**
-
-Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**, [Huaxiu Yao](https://www.huaxiuyao.io/), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
-
-
-</div>
-</div>
-
-
 
 
 ## Medical Image Analysis
