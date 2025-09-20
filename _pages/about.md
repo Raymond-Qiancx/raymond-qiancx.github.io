@@ -56,7 +56,7 @@ Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
 
 **Preprint**
 
-Zhenlong Yuan<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>, Xiangyan Qu, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Daoeng Zhu, [Yiwei Wang](https://wangywust.github.io/), [Yujun Cai](https://vanoracai.github.io/), [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en).
+Zhenlong Yuan<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>, Xiangyan Qu, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Dapeng Zhu, [Yiwei Wang](https://wangywust.github.io/), [Yujun Cai](https://vanoracai.github.io/), [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en).
 
 
 </div>
