@@ -262,6 +262,6 @@ Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, S
 
 # 🎖 Academical Services
 - **Journal Reviewer:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM).
-- **Conference Reviewer:** ICME 2025, ACL 2025, ICCV 2025, NeurIPS 2025, AAAI 2026, ICASSP 2026, CVPR 2026
+- **Conference Reviewer:** ICME 2025-2026, AAAI 2026, ICASSP 2026, CVPR 2026
 
 
