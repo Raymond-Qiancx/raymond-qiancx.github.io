@@ -58,7 +58,7 @@ I am a senior undergraduate student with a strong interest in Multimodal LLMs Po
 
 **Preprint**
 
-Zhenlong Yuan, Xiangyan Qu, **Chengxuan Qian**<sup>†</sup> (corresponding author), Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Dapeng Zhu, [Yiwei Wang](https://wangywust.github.io/), [Yujun Cai](https://vanoracai.github.io/), [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en).
+Z Yuan, X Qu, **C Qian**<sup>†</sup>, R Chen, J Tang, L Sun, X Chu, D Zhu, [Y Wang](https://wangywust.github.io/), [Y Cai](https://vanoracai.github.io/), [S Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en).
 
 
 </div>
@@ -74,7 +74,7 @@ Zhenlong Yuan, Xiangyan Qu, **Chengxuan Qian**<sup>†</sup> (corresponding auth
 
 **Featured by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)**
 
-Zhenlong Yuan, Jing Tang, Jinguo Luo, Rui Chen, Lei Sun, **Chengxuan Qian**, Yujun Cai, Dapeng Zhang, Shuo Li.
+Z Yuan, J Tang, J Luo, R Chen, L Sun, **C Qian**, Y Cai, D Zhang, S Li.
 
 
 </div>
