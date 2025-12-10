@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student with a strong interest in Multimodal LLMs, Tool-Using Agents and Spatial Intelligence. I am fortunate to collaborate with [Zhengzhong Tu](https://vztu.github.io/), and [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab). Prior to that, I worked with [Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN) and [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Generalizable Medical Vision and Multimodal Machine Learning. I am deeply grateful to them for guiding me into the world of research. 
+I am a senior undergraduate student with a strong interest in Multimodal LLMs, Tool-Using Agents and Spatial Intelligence. My research vision is to develop super-intelligent yet lightweight Multimodal LLMs, enabling machines to perceive, plan, reason, and act through the autonomous integration of multi-sensory signals, external tools, and knowledge, giving rise to superhuman yet controllable intelligence in downstream tasks such as Video Understanding, Embodied Robotics, Autonomous Driving, and Medical Diagnosis.
 
 <span style="color:purple">I am actively looking for 26 Fall CS PhD position. I am always open to collaborate, feel free to drop me an email or contact with me on wechat ID qiancxdotcom.</span>
 
@@ -58,7 +58,7 @@ Z Yuan, X Qu, **C Qian**<sup>†</sup>, R Chen, J Tang, L Sun, X Chu, D Zhu, [Y 
 
 **Featured by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)**
 
-Z Yuan*, <span style="font-weight: bold;">C Qian*</span>**, J Tang, J Luo, R Chen, L Sun, Y Cai, D Zhang, S Li.
+Z Yuan*, <span style="font-weight: bold;">C Qian*</span>, J Tang, J Luo, R Chen, L Sun, Y Cai, D Zhang, S Li.
 
 
 </div>
