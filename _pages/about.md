@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student with a strong interest in Multimodal LLMs, Tool-Using Agents and Spatial Intelligence. I am fortunate to collaborate with [Manling Li](https://limanling.github.io/), [Han Liu](https://magics.cs.northwestern.edu/people.html), [Zhengzhong Tu](https://vztu.github.io/), and [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab). Prior to that, I worked with [Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN) and [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Generalizable Medical Vision and Multimodal Machine Learning. I am deeply grateful to them for guiding me into the world of research. 
+I am a senior undergraduate student with a strong interest in Multimodal LLMs, Tool-Using Agents and Spatial Intelligence. I am fortunate to collaborate with [Zhengzhong Tu](https://vztu.github.io/), and [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab). Prior to that, I worked with [Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN) and [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Generalizable Medical Vision and Multimodal Machine Learning. I am deeply grateful to them for guiding me into the world of research. 
 
 <span style="color:purple">I am actively looking for 26 Fall CS PhD position. I am always open to collaborate, feel free to drop me an email or contact with me on wechat ID qiancxdotcom.</span>
 
