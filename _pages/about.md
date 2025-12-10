@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student with a strong interest in Multimodal LLMs Post-Training, Spatial Intelligence and Agent Applications. I am fortunate to collaborate with [Manling Li](https://limanling.github.io/), [Han Liu](https://magics.cs.northwestern.edu/people.html), [Zhengzhong Tu](https://vztu.github.io/), and [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab). Prior to that, I worked with [Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN) and [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Generalizable Medical Vision and Multimodal Machine Learning. I am deeply grateful to them for guiding me into the world of research. 
+I am a senior undergraduate student with a strong interest in Multimodal LLMs, Tool-Using Agents and Spatial Intelligence. I am fortunate to collaborate with [Manling Li](https://limanling.github.io/), [Han Liu](https://magics.cs.northwestern.edu/people.html), [Zhengzhong Tu](https://vztu.github.io/), and [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab). Prior to that, I worked with [Zhe Liu](https://scholar.google.com/citations?user=k32nt3sAAAAJ&hl=zh-CN) and [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en) on research in Generalizable Medical Vision and Multimodal Machine Learning. I am deeply grateful to them for guiding me into the world of research. 
 
 <span style="color:purple">I am actively seeking a 26 Fall CS PhD position. I am always open to collaborate, feel free to drop me an email or contact with me on wechat ID qiancxdotcom.</span>
 
@@ -25,24 +25,9 @@ I am a senior undergraduate student with a strong interest in Multimodal LLMs Po
 - ***Multimodal Foundation Models (VLM, VLA, Video LLMs etc.)🔥***
 - ***Spatial Intelligence (Scene Understanding, Robotic Maniplation, Embodied Navigation etc.)🔥🔥***
 - ***Tool-Augmented Agentic RL (Thinking with Images/Videos, Deep Research etc.)🔥🔥***
-- ***Agent Application (Embodied Robotics, Autonomous Driving, Biomedicine)🔥🔥***
+- ***Agent in the wild (Embodied Robotics, Autonomous Driving, Biomedicine)🔥🔥***
 
 
-
-# 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Our work LiMT, an unified multi-task liver image benchmark work, has been accepted by ***Journal of Biomedical and Health Informatics (JBHI)***!
-- *2025.10*: &nbsp;🎉🎉 Our work [DVP-MVS++](https://arxiv.org/abs/2506.13215), a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D Reconstruction, has been accepted by ***IEEE Transactions on Circuits and Systems for Video Technology***!
-- *2024.10*: &nbsp;🎉🎉 My [first-author work](https://arxiv.org/abs/2503.12218) on Medical Segmentation under sparse and noisy labeled annotations has been accepted by ***BIBM 2025***!
-- *2025.10*: &nbsp;🎉🎉 We propose [Video-STAR](https://arxiv.org/abs/2510.08480), a powerful Tool-Augmented Agentic RL approach for Thinking with Videos. On open-vocabulary action recognition benchmarks like K-400 and HMDB-51, our 3B VLM achieves nearly 40% accuracy improvement over base models!🔥
-- *2025.09*: &nbsp;🎉🎉 Our work [HALF-GS](https://arxiv.org/abs/2506.09518), an efficient dynamic 3D reconstruction framework combining sparse anchors, self-supervised guidance, and hierarchical propagation to improve reconstruction quality and temporal consistency, has been accepted by ***NeurIPS 2025***!
-- *2025.09*: &nbsp;🎉🎉 We propose [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1), Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving. We're also honored that our work was featured by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)!
-- *2025.08*: &nbsp;🎉🎉 Our work [Re-Align](https://taco-group.github.io/Re-Align/) has been accepted by ***EMNLP 2025 Main Conference***!
-- *2025.07*: &nbsp;🎉🎉 Our work on [Generalizable Medical Vision](https://ieeexplore.ieee.org/document/11080080) has been ***Accepted*** by ***IEEE Transactions on Medical Imaging***.
-- *2025.05*: &nbsp;🎉🎉 Our work [CLIMD](https://arxiv.org/abs/2508.01594) has been ***Early Accepted*** by ***MICCAI 2025*** (Top 9%).
-- *2025.03*: &nbsp;🎉🎉 Excited to propose my first-author work [DecAlign](https://taco-group.github.io/DecAlign/), a novel cross-modal decoupling and alignment framwork for multimodal representation learning, which is now available on ArXiv!
-- *2024.11*: &nbsp;🎉🎉 Excited to propose my first-author work [DynCIM](https://arxiv.org/abs/2503.06456), a novel dynamic multimodal curriculum learning framework in addressing cross-modal competition and imbalances, which is now available on ArXiv!
-- *2024.10*: &nbsp;🎉🎉 We propose [FASS](https://arxiv.org/abs/2510.11005), a novel frequency domain-enhanced approach for Medical Image Segmentation under Low-Contrast environment.
-- *2024.08*: &nbsp;🎉🎉 Excited to propose my first-author work [ALC](https://arxiv.org/abs/2503.12218), a novel adaptive label correction framework for medical image segmentation with noisy labels, which is now available on ArXiv!
 
 
 
@@ -74,7 +59,7 @@ Z Yuan, X Qu, **C Qian**<sup>†</sup>, R Chen, J Tang, L Sun, X Chu, D Zhu, [Y 
 
 **Featured by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)**
 
-Z Yuan, J Tang, J Luo, R Chen, L Sun, **C Qian**, Y Cai, D Zhang, S Li.
+<span style="font-weight: bold;">Z Yuan*</span>**, <span style="font-weight: bold;">C Qian*</span>**, J Tang, J Luo, R Chen, L Sun, Y Cai, D Zhang, S Li.
 
 
 </div>
@@ -83,7 +68,7 @@ Z Yuan, J Tang, J Luo, R Chen, L Sun, **C Qian**, Y Cai, D Zhang, S Li.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://taco-group.github.io/Re-Align/)
@@ -102,7 +87,7 @@ Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**,
 
 fMRI-LM: Towards a Universal Foundation Model for Language-Aligned fMRI Understanding
 
-**[Preprint](https://arxiv.org)**
+**[Preprint](https://arxiv.org/abs/2511.21760)**
 
 Yuxiang Wei, Yanteng Zhang, Xi Xiao, **Chengxuan Qian**, Tianyang Wang, [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en) <sup>&dagger;</sup>.
 
@@ -193,7 +178,7 @@ Kai Han, Shuhui Wang, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/fass.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fass.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Frequency Domain Unlocks New Perspectives for Abdominal Medical Image Segmentation](https://arxiv.org/abs/2510.11005)
