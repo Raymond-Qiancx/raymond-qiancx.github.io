@@ -19,11 +19,11 @@ redirect_from:
 
 I am a senior undergraduate student with a strong interest in Multimodal LLMs, Tool-Using Agents and Spatial Intelligence. My research vision is to develop **super-intelligent** yet **lightweight** Multimodal LLMs, enabling machines to perceive, plan, reason, and act through the autonomous integration of multi-sensory signals, external tools, and knowledge, giving rise to superhuman yet controllable intelligence in downstream tasks such as Video Understanding, Embodied Robotics, Autonomous Driving, and Medical Diagnosis.
 
-<div style="border: 2px solid #7b1fa2; border-radius: 8px; padding: 12px 16px; background-color: #f3e5f5; margin: 1em 0;">
 <span style="color:#7b1fa2; font-weight: bold;">I'm applying for PhD programs in the 2026 Fall and Research Internship in the 2026 Summer. I am always open to collaborate, feel free to reach out!</span>
 
-- **Email:** open.qiancx[at]gmail.com
-- **WeChat ID:** qiancxdotcom
+<div style="display: flex; gap: 12px; margin: 1em 0; flex-wrap: wrap;">
+<span style="border: 2px solid #7b1fa2; border-radius: 50px; padding: 8px 20px; background-color: #f3e5f5; color: #7b1fa2;">**Email:** open.qiancx[at]gmail.com</span>
+<span style="border: 2px solid #7b1fa2; border-radius: 50px; padding: 8px 20px; background-color: #f3e5f5; color: #7b1fa2;">**WeChat ID:** qiancxdotcom</span>
 </div>
 
 <span class='anchor' id='research'></span>
