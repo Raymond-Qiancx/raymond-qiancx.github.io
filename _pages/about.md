@@ -21,6 +21,8 @@ I am a senior undergraduate student with a strong interest in Multimodal LLMs, T
 
 <span style="color:purple">I am actively looking for 26 Fall CS PhD position. I am always open to collaborate, feel free to drop me an email or contact with me on email address open.qiancx[at]gmail.com or wechat ID qiancxdotcom.</span>
 
+<span class='anchor' id='research'></span>
+
 # Research Interests and Highlights
 
 - ***Multi-Sensory Perception, Integration and Reasoning:*** 
@@ -33,6 +35,8 @@ Toward multimodal superintelligence, guiding foundation models to deeply underst
 - ***In-the-wild Environment-Interactive Foundation Agents*** 
 How can we teach foundation models to see, plan, and act in open-world settings, while autonomously interacting with external environments such as tools, knowledge bases, and simulators, thereby continuously extending their capability boundaries in real-world applications?
 
+
+<span class='anchor' id='news'></span>
 
 # 🔥 News
 
@@ -53,7 +57,9 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 
 </div>
 
-# 📝 Publications 
+<span class='anchor' id='publications'></span>
+
+# 📝 Publications
 
 ## Multimodal LLMs
 
@@ -309,6 +315,8 @@ Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, S
 </div>
 
 
+
+<span class='anchor' id='services'></span>
 
 # 🎖 Academical Services
 - **Journal Reviewer:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM).
