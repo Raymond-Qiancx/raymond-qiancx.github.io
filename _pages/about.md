@@ -17,36 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student with a strong interest in Multimodal LLMs, Tool-Using Agents and Spatial Intelligence. My research vision is to develop super-intelligent yet lightweight Multimodal LLMs, enabling machines to perceive, plan, reason, and act through the autonomous integration of multi-sensory signals, external tools, and knowledge, giving rise to superhuman yet controllable intelligence in downstream tasks such as Video Understanding, Embodied Robotics, Autonomous Driving, and Medical Diagnosis.
+I am a senior undergraduate student with a strong interest in Multimodal LLMs, Tool-Using Agents and Spatial Intelligence. My research vision is to develop **super-intelligent** yet **lightweight** Multimodal LLMs, enabling machines to perceive, plan, reason, and act through the autonomous integration of multi-sensory signals, external tools, and knowledge, giving rise to superhuman yet controllable intelligence in downstream tasks such as Video Understanding, Embodied Robotics, Autonomous Driving, and Medical Diagnosis.
 
-<span style="color:purple">I am actively looking for 26 Fall CS PhD position. I am always open to collaborate, feel free to drop me an email or contact with me on wechat ID qiancxdotcom.</span>
+<span style="color:purple">I am actively looking for 26 Fall CS PhD position. I am always open to collaborate, feel free to drop me an email or contact with me on email address open.qiancx[at]gmail.com or wechat ID qiancxdotcom.</span>
 
-# Research Interests 
-- ***Multimodal Foundation Models (VLM, VLA, Video LLMs etc.)🔥***
-- ***Spatial Intelligence (Scene Understanding, Robotic Maniplation, Embodied Navigation etc.)🔥🔥***
-- ***Tool-Augmented Agentic RL (Thinking with Images/Videos, Deep Research etc.)🔥🔥***
-- ***Agent in the wild (Embodied Robotics, Autonomous Driving, Biomedicine)🔥🔥***
+# Research Interests and Highlights
+
+- ***Multi-Sensory Perception, Integration and Reasoning:*** 
+How can machines extract learnable neural-symbolic concepts from the complex physical world to enable grounded understanding, integration, interaction, and decision-making across multi-sensory signals, ultimately leading to superhuman yet interpretable intelligence?
+
+- ***World Modeling, Long-Term Video Understanding and Spatial Intelligence:***
+Toward multimodal superintelligence, guiding foundation models to deeply understand the underlying mechanisms of the complex physical world, internalize world dynamics within their parameter space, and reason about complex object properties and interactions in dynamic 3D environments.
+
+
+- ***In-the-wild Environment-Interactive Foundation Agents*** 
+How can we teach foundation models to see, plan, and act in open-world settings, while autonomously interacting with external environments such as tools, knowledge bases, and simulators, thereby continuously extending their capability boundaries in real-world applications?
 
 
 
 
 # 📝 Publications 
 
-## Multimodal LLMs Post-Training
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Video_star.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools](https://arxiv.org/abs/2510.08480)
-
-
-**Preprint**
-
-Z Yuan, X Qu, **C Qian**<sup>†</sup>, R Chen, J Tang, L Sun, X Chu, D Zhu, [Y Wang](https://wangywust.github.io/), [Y Cai](https://vanoracai.github.io/), [S Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en).
-
-
-</div>
-</div>
+## Multimodal LLMs
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/autodriver2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,15 +46,27 @@ Z Yuan, X Qu, **C Qian**<sup>†</sup>, R Chen, J Tang, L Sun, X Chu, D Zhu, [Y 
 [AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1)
 
 
-**Preprint**
-
 **Featured by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)**
 
-Z Yuan*, <span style="font-weight: bold;">C Qian*</span>, J Tang, J Luo, R Chen, L Sun, Y Cai, D Zhang, S Li.
+Zhenlong Yuan*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Jing Tang, Jinguo Luo, Rui Chen, Lei Sun, Xiangxiang Chu, Yujun Cai, Dapeng Zhang, Shuo Li.
 
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Video_star.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools](https://arxiv.org/abs/2510.08480)
+
+
+Zhenlong Yuan, Xiangyan Qu, **C Qian**<sup>†</sup>, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Dapeng Zhang, Yiwei Wang, Yujun Cai, Shuo Li.
+
+</div>
+</div>
+
+
 
 
 
@@ -72,7 +76,7 @@ Z Yuan*, <span style="font-weight: bold;">C Qian*</span>, J Tang, J Luo, R Chen,
 
 [Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://taco-group.github.io/Re-Align/)
 
-**[EMNLP 2025 Main Conference](https://arxiv.org/abs/2502.13146)**
+**EMNLP 2025 Main Conference**
 
 Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**, [Huaxiu Yao](https://www.huaxiuyao.io/), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
 
@@ -84,9 +88,8 @@ Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fmri-lm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-fMRI-LM: Towards a Universal Foundation Model for Language-Aligned fMRI Understanding
+[fMRI-LM: Towards a Universal Foundation Model for Language-Aligned fMRI Understanding](https://arxiv.org/abs/2511.21760)
 
-**[Preprint](https://arxiv.org/abs/2511.21760)**
 
 Yuxiang Wei, Yanteng Zhang, Xi Xiao, **Chengxuan Qian**, Tianyang Wang, [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en) <sup>&dagger;</sup>.
 
@@ -101,7 +104,6 @@ Yuxiang Wei, Yanteng Zhang, Xi Xiao, **Chengxuan Qian**, Tianyang Wang, [Vince D
 
 [DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representation Learning](https://arxiv.org/abs/2503.11892)
 
-**[ArXiv Preprint](https://taco-group.github.io/DecAlign/)**
 
 **Chengxuan Qian**, Shuo Xing, Shawn Li, [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
 
@@ -115,7 +117,7 @@ Yuxiang Wei, Yanteng Zhang, Xi Xiao, **Chengxuan Qian**, Tianyang Wang, [Vince D
 
 [DynCIM: Dynamic Curriculum for Imbalanced Multimodal Learning](https://arxiv.org/abs/2503.06456)
 
-**[Arxiv Preprint](https://arxiv.org/abs/2503.06456)**
+
 
 **Chengxuan Qian**, Kai Han, Jingchao Wang, Zhenlong Yuan, Chongwen Lyu, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
@@ -142,7 +144,6 @@ Kai Han, Chongwen Lyu, **Chengxuan Qian**, Siqi Ma, Jun Chen<sup>&dagger;</sup>,
 
 Contrastive Intra- and Inter-modal Clustering for Multimodal Semantic Discovery
 
-**Under Review**
 
 Zhengzhong Zhu, Pei Zhou, **Chengxuan Qian**, Ruohong Yang, Yixuan Ye, Jiangping Zhu
 
@@ -157,7 +158,7 @@ Zhengzhong Zhu, Pei Zhou, **Chengxuan Qian**, Ruohong Yang, Yixuan Ye, Jiangping
 
 [Adaptive Label Correction Framework for Robust Medical Image Segmentation with Noisy Labels](https://arxiv.org/abs/2503.12218)
 
-**[BIBM 2025](https://arxiv.org/abs/2503.12218)**
+**BIBM AIBH 2025**
 
 **Chengxuan Qian**, K Han, Siqi Ma, Chongwen Lyu, Zhenlong Yuan, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
@@ -170,7 +171,7 @@ Zhengzhong Zhu, Pei Zhou, **Chengxuan Qian**, Ruohong Yang, Yixuan Ye, Jiangping
 
 [Region Uncertainty Estimation for Medical Image Segmentation with Noisy Labels](https://ieeexplore.ieee.org/document/11080080)
 
-**IEEE Transaction on Medical Imaging (Published July 2025)**
+**IEEE Transaction on Medical Imaging, 2025**
 
 Kai Han, Shuhui Wang, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen Lyu, Siqi Ma, [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Qingming Huang<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
@@ -182,7 +183,7 @@ Kai Han, Shuhui Wang, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen 
 
 [Frequency Domain Unlocks New Perspectives for Abdominal Medical Image Segmentation](https://arxiv.org/abs/2510.11005)
 
-**arXiv Preprint**
+
 
 Kai Han, Siqi Ma, **Chengxuan Qian**, Jun Chen<sup>&dagger;</sup>, Chongwen Lyu, [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
@@ -194,7 +195,7 @@ Kai Han, Siqi Ma, **Chengxuan Qian**, Jun Chen<sup>&dagger;</sup>, Chongwen Lyu,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2025</div><img src='images/mia2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-LiMT: A Multi-task Liver Image Benchmark Dataset
+[LiMT: A Multi-task Liver Image Benchmark Dataset](https://arxiv.org/abs/2511.19889)
 
 **Journal of Biomedical and Health Informatics (JBHI 2025)**
 
@@ -234,7 +235,7 @@ Zhenlong Yuan, Dapeng Zhang, Zehao Li, **Chengxuan Qian**, Jianing Chen, Yinda C
 
 [HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene](https://arxiv.org/abs/2506.09518)
 
-**[NeurIPS 2025](https://arxiv.org/abs/2506.09518)**
+**NeurIPS 2025**
 
 Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang.
 
