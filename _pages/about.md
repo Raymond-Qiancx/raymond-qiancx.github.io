@@ -19,7 +19,12 @@ redirect_from:
 
 I am a senior undergraduate student with a strong interest in Multimodal LLMs, Tool-Using Agents and Spatial Intelligence. My research vision is to develop **super-intelligent** yet **lightweight** Multimodal LLMs, enabling machines to perceive, plan, reason, and act through the autonomous integration of multi-sensory signals, external tools, and knowledge, giving rise to superhuman yet controllable intelligence in downstream tasks such as Video Understanding, Embodied Robotics, Autonomous Driving, and Medical Diagnosis.
 
-<span style="color:purple">I am actively looking for 26 Fall CS PhD position. I am always open to collaborate, feel free to drop me an email or contact with me on email address open.qiancx[at]gmail.com or wechat ID qiancxdotcom.</span>
+<div style="border: 2px solid #7b1fa2; border-radius: 8px; padding: 12px 16px; background-color: #f3e5f5; margin: 1em 0;">
+<span style="color:#7b1fa2; font-weight: bold;">I'm applying for PhD programs in the 2026 Fall and Research Internship in the 2026 Summer. I am always open to collaborate, feel free to reach out!</span>
+
+- **Email:** open.qiancx[at]gmail.com
+- **WeChat ID:** qiancxdotcom
+</div>
 
 <span class='anchor' id='research'></span>
 
@@ -32,7 +37,7 @@ How can machines extract learnable neural-symbolic concepts from the complex phy
 Toward multimodal superintelligence, guiding foundation models to deeply understand the underlying mechanisms of the complex physical world, internalize world dynamics within their parameter space, and reason about complex object properties and interactions in dynamic 3D environments.
 
 
-- ***In-the-wild Environment-Interactive Foundation Agents*** 
+- ***In-the-wild Environment-Interactive Foundation Agents:*** 
 How can we teach foundation models to see, plan, and act in open-world settings, while autonomously interacting with external environments such as tools, knowledge bases, and simulators, thereby continuously extending their capability boundaries in real-world applications?
 
 
