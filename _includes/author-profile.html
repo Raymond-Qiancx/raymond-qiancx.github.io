@@ -215,4 +215,14 @@
       {% endif %}
     </div>
   </div>
+
+  {% if site.clustrmaps.enabled %}
+  <div class="author__visitor-map">
+    <script type="text/javascript"
+      id="clstr_globe"
+      src="//clustrmaps.com/globe.js?d={{ site.clustrmaps.id }}">
+    </script>
+  </div>
+  {% endif %}
+
 </div>

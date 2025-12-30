@@ -161,3 +161,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Visitor Map (ClustrMaps)
+# Get your ID from https://clustrmaps.com/
+clustrmaps:
+  enabled: true
+  id: "JjXUs9TR6cK_MnENsQeq8koTy3QQZoq8uCKH_gSGSzg"
