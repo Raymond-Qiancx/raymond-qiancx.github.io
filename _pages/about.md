@@ -21,8 +21,7 @@ I am a senior undergraduate student with a strong interest in Multimodal LLMs, T
 
 <div style="border: 2px solid #7b1fa2; border-radius: 8px; padding: 12px 16px; background-color: #f3e5f5; margin: 1em 0;">
 <span style="color:#7b1fa2; font-weight: bold;">I'm applying for PhD programs in the 2026 Fall and Research Internship in the 2026 Summer. I am always open to collaborate, feel free to reach out!</span>
-<span style="border: 1.5px solid #7b1fa2; border-radius: 50px; padding: 4px 12px; background-color: #f3e5f5; color: #7b1fa2; font-size: 0.85em; margin-left: 8px;">Email: open.qiancx[at]gmail.com</span>
-<span style="border: 1.5px solid #7b1fa2; border-radius: 50px; padding: 4px 12px; background-color: #f3e5f5; color: #7b1fa2; font-size: 0.85em; margin-left: 4px;">WeChat: qiancxdotcom</span>
+<span style="color: #7b1fa2; font-size: 0.85em; margin-left: 8px;">Email: open.qiancx[at]gmail.com | WeChat: qiancxdotcom</span>
 </div>
 
 <span class='anchor' id='research'></span>
