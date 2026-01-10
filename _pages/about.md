@@ -66,6 +66,31 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 
 ## Multimodal LLMs
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/autodriver2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ProgressLM: Towards Progress Reasoning in Vision-Language Models](https://github.com/Raymond-Qiancx/ProgressLM/blob/main/public/ProgressLM_Tech_Report.pdf)
+
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f4f8; color: #0077b6; border-radius: 15px; font-size: 12px;">Spatial Intelligence</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Embodied Robotics</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fffde7; color: #f9a825; border-radius: 15px; font-size: 12px;">Data-Centric</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f4f8; color: #0077b6; border-radius: 15px; font-size: 12px;">Multimodal Reasoning</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Open-World Applications</span>
+
+<a href="https://github.com/Raymond-Qiancx/ProgressLM/blob/main/public/ProgressLM_Tech_Report.pdf" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; border: 1px solid #555; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none;">Paper</a>
+<a href="https://github.com/Raymond-Qiancx/ProgressLM" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; border: 1px solid #555; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none;">Code</a>
+<a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; border: 1px solid #555; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none;">Model</a>
+<a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; border: 1px solid #555; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none;">Dataset</a>
+<a href="https://progresslm.github.io/" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; border: 1px solid #555; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none;">Website</a>
+
+Jianshu Zhang*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Haosen Sun, Haoran Lu, Dingcheng Wang, Letian Xue, [Han Liu](https://magics.cs.northwestern.edu/people.html)
+
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/autodriver2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
