@@ -67,7 +67,7 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 ## Multimodal LLMs
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/autodriver2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/progresslm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ProgressLM: Towards Progress Reasoning in Vision-Language Models](https://github.com/Raymond-Qiancx/ProgressLM/blob/main/public/ProgressLM_Tech_Report.pdf)
