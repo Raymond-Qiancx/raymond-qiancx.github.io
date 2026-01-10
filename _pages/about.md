@@ -64,7 +64,7 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 
 # 📝 Publications
 
-## Multimodal LLMs
+## Multimodal LLMs and Agentic AI
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/progresslm.png' alt="sym" width="100%"></div></div>
@@ -124,6 +124,19 @@ Zhenlong Yuan, Xiangyan Qu, **Chengxuan Qian**<sup>†</sup>, Rui Chen, Jing Tan
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/spa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+System Prompt Auditing for User-centric Large Language Model Systems
+
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Human-centric AI</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #ffebee; color: #c62828; border-radius: 15px; font-size: 12px;">LLM Safety</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">AI Agents</span>
+
+Xiangning Lin\*, Shenzhe Zhu\*, **Chengxuan Qian**, Tianwei Wang, Haoqian Zhang, Ziheng Zhang, Zhenlong Yuan, Dingcheng Wang, Juncheng Wu, Yuan Si, Jiaxin Liu, Baolong Bi, Shu Yang, Robert Mahari, Tobin South, Dazza Greenwood, Andreas Haupt, Samuele Marro, [Alex Pentland](https://www.media.mit.edu/people/sandy/overview/), [Jiaxin Pei](https://jiaxin-pei.github.io/)
+
+</div>
+</div>
 
 
 
@@ -339,22 +352,6 @@ Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, S
 </div>
 
 
-
-## Human Centric AI
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/spa.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-System Prompt Auditing for User-centric Large Language Model Systems
-
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Human-centric AI</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #ffebee; color: #c62828; border-radius: 15px; font-size: 12px;">LLM Safety</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">AI Agents</span>
-
-Xiangning Lin\*, Shenzhe Zhu\*, **Chengxuan Qian**, Tianwei Wang, Haoqian Zhang, Ziheng Zhang, Zhenlong Yuan, Dingcheng Wang, Juncheng Wu, Yuan Si, Jiaxin Liu, Baolong Bi, Shu Yang, Robert Mahari, Tobin South, Dazza Greenwood, Andreas Haupt, Samuele Marro, Alex Pentland, Jiaxin Pei
-
-</div>
-</div>
 
 
 
