@@ -72,11 +72,11 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 
 [ProgressLM: Towards Progress Reasoning in Vision-Language Models](https://github.com/Raymond-Qiancx/ProgressLM/blob/main/public/ProgressLM_Tech_Report.pdf)
 
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8eef4; color: #5a7a9a; border-radius: 15px; font-size: 12px;">Spatial Intelligence</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f0e8; color: #5a7a5a; border-radius: 15px; font-size: 12px;">Embodied Robotics</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f5f0e8; color: #8a7a6a; border-radius: 15px; font-size: 12px;">Data-Centric</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f0e8f4; color: #7a6a8a; border-radius: 15px; font-size: 12px;">Multimodal Reasoning</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f4e8ec; color: #8a6a7a; border-radius: 15px; font-size: 12px;">Open-World Applications</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f4f8; color: #0077b6; border-radius: 15px; font-size: 12px;">Spatial Intelligence</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f5e9; color: #2e7d32; border-radius: 15px; font-size: 12px;">Embodied Robotics</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fffde7; color: #f9a825; border-radius: 15px; font-size: 12px;">Data-Centric</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e0f7fa; color: #00838f; border-radius: 15px; font-size: 12px;">Multimodal Reasoning</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Open-World Applications</span>
 
 <a href="https://github.com/Raymond-Qiancx/ProgressLM/blob/main/public/ProgressLM_Tech_Report.pdf" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Paper</a>
 <a href="https://github.com/Raymond-Qiancx/ProgressLM" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Code</a>
