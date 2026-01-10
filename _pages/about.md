@@ -73,7 +73,7 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 [ProgressLM: Towards Progress Reasoning in Vision-Language Models](https://github.com/Raymond-Qiancx/ProgressLM/blob/main/public/ProgressLM_Tech_Report.pdf)
 
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f4f8; color: #0077b6; border-radius: 15px; font-size: 12px;">Spatial Intelligence</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #abe396ff; border-radius: 15px; font-size: 12px;">Embodied Robotics</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #abe396ff; color: #2c4024ff; border-radius: 15px; font-size: 12px;">Embodied Robotics</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fffde7; color: #f9a825; border-radius: 15px; font-size: 12px;">Data-Centric</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f4f8; color: #0077b6; border-radius: 15px; font-size: 12px;">Multimodal Reasoning</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Open-World Applications</span>
