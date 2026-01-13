@@ -359,7 +359,7 @@ Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, S
 <span class='anchor' id='misc'></span>
 
 # 🌟 Misc
-I'm grateful for the mentorship of Prof. [Zhengzhong Tu](https://vztu.github.io/) (TAMU), Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) (USC), Prof. [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) & [Manling Li](https://limanling.github.io/) (Northwestern University). Outside of research, I enjoy Photography📹, swimming🏊, biking🚴, billiards🎱, table tennis🏓.
+I'm grateful for the mentorship of Prof. [Zhengzhong Tu](https://vztu.github.io/) (TAMU), Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) (USC), Prof. [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) & [Manling Li](https://limanling.github.io/) (Northwestern University). Outside of research, I enjoy Photography📹, swimming🏊, biking🚴, billiards🎱, table tennis🏓. I strive to stay energetic every day and maintain a strong sense of passion for both academic research and life.
 
 <span class='anchor' id='services'></span>
 
