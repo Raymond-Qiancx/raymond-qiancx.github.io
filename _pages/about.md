@@ -19,6 +19,7 @@ redirect_from:
 
 I am a senior undergraduate student with a strong interest in Multimodal LLMs, Tool-Using Agents and Spatial Intelligence. My research vision is to develop **super-intelligent** yet **lightweight** Multimodal LLMs, enabling machines to perceive, plan, reason, and act through the autonomous integration of multi-sensory signals, external tools, and knowledge, giving rise to superhuman yet controllable intelligence in downstream tasks such as Video Understanding, Embodied Robotics, Autonomous Driving, and Medical Diagnosis.
 
+
 <div style="border: 2px solid #7b1fa2; border-radius: 8px; padding: 12px 16px; background-color: #f3e5f5; margin: 1em 0;">
 <span style="color:#7b1fa2; font-weight: bold;">I'm applying for PhD programs in the 2026 Fall and Research Internship in the 2026 Summer. I am always open to collaborate, feel free to reach out!</span>
 <span style="color: #7b1fa2; font-size: 0.85em; margin-left: 8px;">Email: open.qiancx[at]gmail.com | WeChat: qiancxdotcom</span>
@@ -304,8 +305,7 @@ Kai Han, Siqi Ma, **Chengxuan Qian**, Jun Chen<sup>&dagger;</sup>, Chongwen Lyu,
 
 **Journal of Biomedical and Health Informatics (JBHI 2025)**
 
-Z Liu<sup>†</sup>, K Han, S Ma, J Chen<sup>&dagger;</sup>, ..., **C Qian**, C Lyu, ..., [V S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>.  
-
+Zhe Liu<sup>†</sup>, Kai Han, Siqi Ma, Yan Zhu, Jun Chen, Chongwen Lyu, Xinyi Qiu, **Chengxuan Qian**, Yuqing Song, Yi Liu, Liyuan Tian, Yang Ji, Yuefeng Li
 
 </div>
 </div>
@@ -355,6 +355,11 @@ Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, S
 
 
 
+
+<span class='anchor' id='misc'></span>
+
+# 🌟 Misc
+I'm grateful for the mentorship of Prof. [Zhengzhong Tu](https://vztu.github.io/) (TAMU), Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) (USC), Prof. [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) & [Manling Li](https://limanling.github.io/) (Northwestern University). Outside of research, I enjoy Photography📹, swimming🏊, biking🚴, billiards🎱, table tennis🏓.
 
 <span class='anchor' id='services'></span>
 
