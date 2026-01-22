@@ -71,7 +71,7 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/progresslm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ProgressLM: Towards Progress Reasoning in Vision-Language Models](https://github.com/Raymond-Qiancx/ProgressLM/blob/main/public/ProgressLM_Tech_Report.pdf)
+[ProgressLM: Towards Progress Reasoning in Vision-Language Models](https://progresslm.github.io/ProgressLM/)
 
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f4f8; color: #0077b6; border-radius: 15px; font-size: 12px;">Spatial Intelligence</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f5e9; color: #2e7d32; border-radius: 15px; font-size: 12px;">Embodied Robotics</span>
