@@ -44,7 +44,8 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 
 # 🔥 News
 
-<div style="max-height: 200px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
+<div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
+- *2026.01*: &nbsp;🎉🎉 We propose [ProgressLM](https://progresslm.github.io/ProgressLM/), which further investigates whether VLMs can acquire human-like, generalizable mental understanding and simulation in embodied scenarios from a single example, and serves as an early step toward building general-purpose reward models. See More: [Website](https://progresslm.github.io/ProgressLM/) | [Paper](https://arxiv.org/abs/2601.15224) | [Code](https://github.com/Raymond-Qiancx/ProgressLM) | [Model](https://huggingface.co/collections/Raymond-Qiancx/progresslm) | [Dataset](https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset).
 
 - *2025.11*: &nbsp;🎉🎉 Our work LiMT, an unified multi-task liver image benchmark work, has been accepted by ***Journal of Biomedical and Health Informatics (JBHI)***!
 - *2025.10*: &nbsp;🎉🎉 Our work [DVP-MVS++](https://arxiv.org/abs/2506.13215), a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D Reconstruction, has been accepted by ***IEEE Transactions on Circuits and Systems for Video Technology***!
