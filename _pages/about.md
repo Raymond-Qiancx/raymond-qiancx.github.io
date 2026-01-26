@@ -45,7 +45,7 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
-- *2026.01*: &nbsp;🎉🎉 All of my three first/co-first author ***ICLR 2026*** submission has been accepted! They are: [DecAlign](https://arxiv.org/abs/2503.11892), [AutoDrive-R²](https://arxiv.org/abs/2509.01944v2), [Video-STAR](https://arxiv.org/abs/2510.08480)!
+- *2026.01*: &nbsp;🎉🎉 All of my three first/co-first author ***ICLR 2026*** submission has been accepted! They are: [DecAlign](https://arxiv.org/abs/2503.11892), [AutoDrive-R²](https://arxiv.org/abs/2509.01944v2), [Video-STAR](https://arxiv.org/abs/2510.08480)
 - *2026.01*: &nbsp;🎉🎉 We propose [ProgressLM](https://progresslm.github.io/ProgressLM/), which further investigates whether VLMs can acquire human-like, generalizable mental understanding and simulation in embodied scenarios from a single example, and serves as an early step toward building general-purpose reward models. See More: <a href="https://progresslm.github.io/ProgressLM/">[Website]</a> <a href="https://arxiv.org/abs/2601.15224">[Paper]</a> <a href="https://github.com/Raymond-Qiancx/ProgressLM">[Code]</a> <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm">[Model]</a> <a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset">[Dataset]</a>
 - *2025.11*: &nbsp;🎉🎉 Our work [LiMT](https://arxiv.org/abs/2511.19889), an unified multi-task liver image benchmark work, has been accepted by ***Journal of Biomedical and Health Informatics (JBHI)***!
 - *2025.10*: &nbsp;🎉🎉 Our work [DVP-MVS++](https://arxiv.org/abs/2506.13215), a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D Reconstruction, has been accepted by ***IEEE Transactions on Circuits and Systems for Video Technology***!
@@ -105,7 +105,7 @@ Jianshu Zhang*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Haosen 
 
 **Featured by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)**
 
-**ICLR 2026**
+**International Conference on Learning Representations (ICLR 2026)**
 
 Zhenlong Yuan*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Jing Tang, Jinguo Luo, Rui Chen, Lei Sun, Xiangxiang Chu, Yujun Cai, Dapeng Zhang, Shuo Li.
 
@@ -123,7 +123,7 @@ Zhenlong Yuan*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Jing Ta
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Tool-Using Agent</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Multi-turn Agentic RL</span>
 
-**ICLR 2026**
+**International Conference on Learning Representations (ICLR 2026)**
 
 Zhenlong Yuan, Xiangyan Qu, **Chengxuan Qian**<sup>†</sup>, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Dapeng Zhang, Yiwei Wang, Yujun Cai, Shuo Li.
 
@@ -193,7 +193,7 @@ Yuxiang Wei, Yanteng Zhang, Xi Xiao, **Chengxuan Qian**, Tianyang Wang, [Vince D
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f5e9; color: #2e7d32; border-radius: 15px; font-size: 12px;">Foundation Model</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Interpretability</span>
 
-**ICLR 2026**
+**International Conference on Learning Representations (ICLR 2026)**
 
 **Chengxuan Qian**, Shuo Xing, Shawn Li, [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
 
