@@ -45,7 +45,10 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
-- *2026.01*: &nbsp;🎉🎉 Three first/co-first author paper has been accepted by ***ICLR 2026***! They are: [DecAlign (Aligning Cross-Modal Semantics for Multimodal Foundation Models)](https://arxiv.org/abs/2503.11892), [AutoDrive-R² (Towards Physical-Grounded Multimodal Reasoning)](https://arxiv.org/abs/2509.01944v2), [Video-STAR (Tool-Augmented Agentic RL for Thinking with Videos)](https://arxiv.org/abs/2510.08480)
+- *2026.01*: &nbsp;🎉🎉 Three first/co-first author papers have been accepted by ***ICLR 2026***!
+  - [DecAlign](https://arxiv.org/abs/2503.11892): Aligning Cross-Modal Semantics for Multimodal Foundation Models
+  - [AutoDrive-R²](https://arxiv.org/abs/2509.01944v2): Towards Physical-Grounded Multimodal Reasoning for Autonomous Driving
+  - [Video-STAR](https://arxiv.org/abs/2510.08480): Tool-Augmented Agentic RL for Thinking with Videos
 - *2026.01*: &nbsp;🎉🎉 We propose [ProgressLM](https://progresslm.github.io/ProgressLM/), which further investigates whether VLMs can acquire human-like, generalizable mental understanding and simulation in embodied scenarios from a single example, and serves as an early step toward building general-purpose reward models. See More: <a href="https://progresslm.github.io/ProgressLM/">[Website]</a> <a href="https://arxiv.org/abs/2601.15224">[Paper]</a> <a href="https://github.com/Raymond-Qiancx/ProgressLM">[Code]</a> <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm">[Model]</a> <a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset">[Dataset]</a>
 - *2025.11*: &nbsp;🎉🎉 Our work [LiMT](https://arxiv.org/abs/2511.19889), an unified multi-task liver image benchmark work, has been accepted by ***Journal of Biomedical and Health Informatics (JBHI)***!
 - *2025.10*: &nbsp;🎉🎉 Our work [DVP-MVS++](https://arxiv.org/abs/2506.13215), a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D Reconstruction, has been accepted by ***IEEE Transactions on Circuits and Systems for Video Technology***!
