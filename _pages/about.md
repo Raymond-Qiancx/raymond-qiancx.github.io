@@ -108,7 +108,7 @@ Jianshu Zhang*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Haosen 
 
 **Featured by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)**
 
-**International Conference on Learning Representations (ICLR 2026)**
+**ICLR 2026**
 
 Zhenlong Yuan*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Jing Tang, Jinguo Luo, Rui Chen, Lei Sun, Xiangxiang Chu, Yujun Cai, Dapeng Zhang, Shuo Li.
 
@@ -126,7 +126,7 @@ Zhenlong Yuan*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Jing Ta
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Tool-Using Agent</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Multi-turn Agentic RL</span>
 
-**International Conference on Learning Representations (ICLR 2026)**
+**ICLR 2026**
 
 Zhenlong Yuan, Xiangyan Qu, **Chengxuan Qian**<sup>†</sup>, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Dapeng Zhang, Yiwei Wang, Yujun Cai, Shuo Li.
 
@@ -196,7 +196,7 @@ Yuxiang Wei, Yanteng Zhang, Xi Xiao, **Chengxuan Qian**, Tianyang Wang, [Vince D
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f5e9; color: #2e7d32; border-radius: 15px; font-size: 12px;">Foundation Model</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Interpretability</span>
 
-**International Conference on Learning Representations (ICLR 2026)**
+**ICLR 2026**
 
 **Chengxuan Qian**, Shuo Xing, Shawn Li, [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
 
