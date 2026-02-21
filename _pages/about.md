@@ -32,7 +32,7 @@ I am a senior undergraduate student with a strong interest in Multimodal LLMs, T
 - ***Multimodal Intelligence:*** 
 How can machines extract learnable neural-symbolic concepts from the complex physical world to enable grounded understanding, integration, interaction, and decision-making across multi-sensory signals, ultimately leading to superhuman yet interpretable intelligence?
 
-- ***World Modeling, Video Understanding and Spatial Intelligence:***
+- ***Generative World Modeling and Spatial Intelligence:***
 Toward multimodal superintelligence, guiding foundation models to deeply understand the underlying mechanisms of the complex physical world, internalize world dynamics within their parameter space, and reason about complex object properties and interactions in dynamic 3D environments.
 
 
