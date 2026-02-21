@@ -67,10 +67,7 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications
-
-## Multimodal Foundation Model and Agentic AI
-
+# 📝 Selected Publications
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/decalign.png' alt="sym" width="100%"></div></div>
@@ -156,7 +153,7 @@ Zhenlong Yuan, Xiangyan Qu, **Chengxuan Qian**<sup>†</sup>, Rui Chen, Jing Tan
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DynCIM: Dynamic Curriculum for Imbalanced Multimodal Learning](https://arxiv.org/abs/2503.06456)
@@ -169,10 +166,10 @@ Zhenlong Yuan, Xiangyan Qu, **Chengxuan Qian**<sup>†</sup>, Rui Chen, Jing Tan
 
 
 </div>
-</div>
+</div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/imagine.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/imagine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation](https://arxiv.org/abs/2602.11499)
@@ -185,13 +182,13 @@ Zhenlong Yuan, Xiangyan Qu, Jing Tang, Rui Chen, Lei Sun, Ruidong Chen, Hongwei 
 
 
 </div>
-</div>
+</div> -->
 
 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/spa.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/spa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 System Prompt Auditing for User-centric Large Language Model Systems
@@ -203,12 +200,12 @@ System Prompt Auditing for User-centric Large Language Model Systems
 Xiangning Lin\*, Shenzhe Zhu\*, **Chengxuan Qian**, Tianwei Wang, Haoqian Zhang, Ziheng Zhang, Zhenlong Yuan, Dingcheng Wang, Juncheng Wu, Yuan Si, Jiaxin Liu, Baolong Bi, Shu Yang, Robert Mahari, Tobin South, Dazza Greenwood, Andreas Haupt, Samuele Marro, [Alex Pentland](https://www.media.mit.edu/people/sandy/overview/), [Jiaxin Pei](https://jiaxin-pei.github.io/)
 
 </div>
-</div>
+</div> -->
 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/realign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://taco-group.github.io/Re-Align/)
@@ -224,10 +221,10 @@ Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**,
 
 
 </div>
-</div>
+</div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fmri-lm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/fmri-lm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [fMRI-LM: Towards a Universal Foundation Model for Language-Aligned fMRI Understanding](https://arxiv.org/abs/2511.21760)
@@ -235,6 +232,8 @@ Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**,
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #ffebee; color: #c62828; border-radius: 15px; font-size: 12px;">Medical LLMs</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fffde7; color: #f9a825; border-radius: 15px; font-size: 12px;">Data-Centric</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f5e9; color: #2e7d32; border-radius: 15px; font-size: 12px;">Foundation Model</span>
+
+**ICLR 2026**
 
 Yuxiang Wei, Yanteng Zhang, Xi Xiao, **Chengxuan Qian**, Tianyang Wang, [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en) <sup>&dagger;</sup>.
 
@@ -244,7 +243,7 @@ Yuxiang Wei, Yanteng Zhang, Xi Xiao, **Chengxuan Qian**, Tianyang Wang, [Vince D
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/zzz.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/zzz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Contrastive Intra- and Inter-modal Clustering for Multimodal Semantic Discovery
@@ -256,11 +255,11 @@ Contrastive Intra- and Inter-modal Clustering for Multimodal Semantic Discovery
 Zhengzhong Zhu, Pei Zhou, **Chengxuan Qian**, Ruohong Yang, Yixuan Ye, Jiangping Zhu
 
 </div>
-</div>
+</div> -->
 
 
-## Medical Image Analysis
 
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2025</div><img src='images/EAAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -275,7 +274,7 @@ Zhengzhong Zhu, Pei Zhou, **Chengxuan Qian**, Ruohong Yang, Yixuan Ye, Jiangping
 **Chengxuan Qian**, K Han, Siqi Ma, Chongwen Lyu, Zhenlong Yuan, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/bibm_cl.png' alt="sym" width="100%"></div></div>
@@ -312,7 +311,7 @@ Kai Han, Shuhui Wang, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fass.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fass.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Frequency Domain Unlocks New Perspectives for Abdominal Medical Image Segmentation](https://arxiv.org/abs/2510.11005)
@@ -324,11 +323,11 @@ Kai Han, Shuhui Wang, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen 
 Kai Han, Siqi Ma, **Chengxuan Qian**, Jun Chen<sup>&dagger;</sup>, Chongwen Lyu, [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
 
 </div>
-</div>
+</div> -->
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2025</div><img src='images/mia2024.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2025</div><img src='images/mia2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LiMT: A Multi-task Liver Image Benchmark Dataset](https://arxiv.org/abs/2511.19889)
@@ -342,16 +341,12 @@ Kai Han, Siqi Ma, **Chengxuan Qian**, Jun Chen<sup>&dagger;</sup>, Chongwen Lyu,
 Zhe Liu<sup>†</sup>, Kai Han, Siqi Ma, Yan Zhu, Jun Chen, Chongwen Lyu, Xinyi Qiu, **Chengxuan Qian**, Yuqing Song, Yi Liu, Liyuan Tian, Yang Ji, Yuefeng Li
 
 </div>
-</div>
+</div> -->
 
 
 
 
-
-## 3D Vision
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/DVP_MVS.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/DVP_MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215)
@@ -365,11 +360,11 @@ Zhe Liu<sup>†</sup>, Kai Han, Siqi Ma, Yan Zhu, Jun Chen, Chongwen Lyu, Xinyi 
 Zhenlong Yuan, Dapeng Zhang, Zehao Li, **Chengxuan Qian**, Jianing Chen, Yinda Chen, Kehua Chen, Tianlu Mao, Zhaoxin Li, Hao Jiang and Zhaoqi Wang
 
 </div>
-</div>
+</div> -->
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/HALFGS.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/HALFGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene](https://arxiv.org/abs/2506.09518)
@@ -383,7 +378,7 @@ Zhenlong Yuan, Dapeng Zhang, Zehao Li, **Chengxuan Qian**, Jianing Chen, Yinda C
 Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang.
 
 </div>
-</div>
+</div> -->
 
 
 
