@@ -172,7 +172,7 @@ Zhenlong Yuan, Xiangyan Qu, **Chengxuan Qian**<sup>†</sup>, Rui Chen, Jing Tan
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/aaai2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/imagine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation](https://arxiv.org/abs/2602.11499)
