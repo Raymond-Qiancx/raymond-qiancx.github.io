@@ -45,6 +45,7 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
+- *2026.02*: &nbsp;🎉🎉 Our work [fMRI-LM](https://arxiv.org/abs/2511.21760) on Medical Foundation Models has been accepted by ***CVPR 2026***!
 - *2026.01*: &nbsp;🎉🎉 Three first/co-first author papers have been accepted by ***ICLR 2026***!
   - [DecAlign](https://arxiv.org/abs/2503.11892): Aligning Cross-Modal Semantics for Multimodal Foundation Models
   - [AutoDrive-R²](https://arxiv.org/abs/2509.01944v2): Towards Physical-Grounded Multimodal Reasoning for Autonomous Driving
