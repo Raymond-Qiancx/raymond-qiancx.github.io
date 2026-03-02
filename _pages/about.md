@@ -96,6 +96,7 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 
 [ProgressLM: Towards Progress Reasoning in Vision-Language Models](https://progresslm.github.io/ProgressLM/)
 
+
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f4f8; color: #0077b6; border-radius: 15px; font-size: 12px;">Spatial Intelligence</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f5e9; color: #2e7d32; border-radius: 15px; font-size: 12px;">Embodied Robotics</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fffde7; color: #f9a825; border-radius: 15px; font-size: 12px;">Data-Centric</span>
@@ -108,6 +109,7 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Model</a>
 <a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Dataset</a>
 
+**ICLR 2026 Workshop on World Models**
 
 Jianshu Zhang*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Haosen Sun, Haoran Lu, Dingcheng Wang, Letian Xue, [Han Liu](https://magics.cs.northwestern.edu/people.html)
 
