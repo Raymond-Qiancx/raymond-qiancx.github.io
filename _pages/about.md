@@ -350,7 +350,7 @@ Zhe Liu<sup>†</sup>, Kai Han, Siqi Ma, Yan Zhu, Jun Chen, Chongwen Lyu, Xinyi 
 
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/DVP_MVS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/DVP_MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215)
@@ -364,11 +364,11 @@ Zhe Liu<sup>†</sup>, Kai Han, Siqi Ma, Yan Zhu, Jun Chen, Chongwen Lyu, Xinyi 
 Zhenlong Yuan, Dapeng Zhang, Zehao Li, **Chengxuan Qian**, Jianing Chen, Yinda Chen, Kehua Chen, Tianlu Mao, Zhaoxin Li, Hao Jiang and Zhaoqi Wang
 
 </div>
-</div> -->
+</div>
 
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/HALFGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/HALFGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene](https://arxiv.org/abs/2506.09518)
@@ -382,7 +382,7 @@ Zhenlong Yuan, Dapeng Zhang, Zehao Li, **Chengxuan Qian**, Jianing Chen, Yinda C
 Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang.
 
 </div>
-</div> -->
+</div>
 
 
 
