@@ -150,7 +150,7 @@ Zhenlong Yuan*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Jing Ta
 
 **ICLR 2026**
 
-Zhenlong Yuan*, Xiangyan Qu*, **Chengxuan Qian**<sup>*</sup>, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Dapeng Zhang, Yiwei Wang, Yujun Cai, Shuo Li.
+Zhenlong Yuan<sup>*</sup>, Xiangyan Qu<sup>*</sup>, **Chengxuan Qian**<sup>*</sup>, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Dapeng Zhang, Yiwei Wang, Yujun Cai, Shuo Li.
 
 </div>
 </div>
