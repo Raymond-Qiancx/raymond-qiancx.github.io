@@ -32,7 +32,7 @@ I am a senior undergraduate student with a strong interest in Multimodal LLMs, T
 - ***Multimodal Intelligence:*** 
 How can machines extract learnable neural-symbolic concepts from the complex physical world to enable grounded understanding, integration, interaction, and decision-making across multi-sensory signals, ultimately leading to superhuman yet interpretable intelligence?
 
-- ***Generative World Modeling and Spatial Intelligence:***
+- ***Generative World Modeling:***
 Toward multimodal superintelligence, guiding foundation models to deeply understand the underlying mechanisms of the complex physical world, internalize world dynamics within their parameter space, and reason about complex object properties and interactions in dynamic 3D environments.
 
 
@@ -45,6 +45,7 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
+- *2026.03*: &nbsp;🎉🎉 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) on General Reward Model for Embodied Agents has been accepted by ***ICLR 2026 Workshop on World Models***!
 - *2026.02*: &nbsp;🎉🎉 Our work [fMRI-LM](https://arxiv.org/abs/2511.21760) on Medical Foundation Models has been accepted by ***CVPR 2026***!
 - *2026.01*: &nbsp;🎉🎉 Three first/co-first author papers have been accepted by ***ICLR 2026***!
   - [DecAlign](https://arxiv.org/abs/2503.11892): Aligning Cross-Modal Semantics for Multimodal Foundation Models
@@ -149,7 +150,7 @@ Zhenlong Yuan*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Jing Ta
 
 **ICLR 2026**
 
-Zhenlong Yuan, Xiangyan Qu, **Chengxuan Qian**<sup>†</sup>, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Dapeng Zhang, Yiwei Wang, Yujun Cai, Shuo Li.
+Zhenlong Yuan*, Xiangyan Qu*, **Chengxuan Qian**<sup>*</sup>, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Dapeng Zhang, Yiwei Wang, Yujun Cai, Shuo Li.
 
 </div>
 </div>
