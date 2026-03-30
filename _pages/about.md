@@ -17,11 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student with a strong interest in Multimodal LLMs, Tool-Using Agents and Spatial Intelligence. My research vision is to develop **super-intelligent** yet **lightweight** Multimodal LLMs, enabling machines to perceive, plan, reason, and act through the autonomous integration of multi-sensory signals, external tools, and knowledge, giving rise to superhuman yet controllable intelligence in downstream tasks such as Video Understanding, Embodied Robotics, Autonomous Driving, and Medical Diagnosis.
+Hi, I am Chengxuan Qian, an incoming CS PhD student at University of California, Santa Barbara (UCSB), advised by Prof. [Yao Qin](https://yaoqin1.github.io/). Previously, I was fortunate to collaborate with [Zhengzhong Tu](https://vztu.github.io/), [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/), [Manling Li](https://limanling.github.io/) and [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) during my undergraduate years.
+
+My research focuses on **identifying and eliminating barriers** to **foundation models** reaching **superintelligence**. Foundation models grow from large-scale, static, and idealized settings, yet the real world is dynamic and partially observable. Can they actively explore, interact with tools and environments, and connect with memory? Can they simulate world dynamics, imagine future states, and continually evolve from experience? I aim to teach machines to think like humans and explore frontiers beyond human reach.
+
 
 
 <div style="border: 2px solid #7b1fa2; border-radius: 8px; padding: 12px 16px; background-color: #f3e5f5; margin: 1em 0;">
-<span style="color:#7b1fa2; font-weight: bold;">I'm applying for PhD programs in the 2026 Fall and Research Internship in the 2026 Summer. I am always open to collaborate, feel free to reach out!</span>
+<span style="color:#7b1fa2; font-weight: bold;">I'm looking for Research Internship in the 2026 Summer. I am always open — whether it's collaboration, discussion, or just to say hi, feel free to reach out!</span>
 <span style="color: #7b1fa2; font-size: 0.85em; margin-left: 8px;">Email: open.qiancx[at]gmail.com | WeChat: qiancxdotcom</span>
 </div>
 
@@ -392,7 +395,7 @@ Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, S
 <span class='anchor' id='misc'></span>
 
 # 🌟 Misc
-I'm grateful for the mentorship of Prof. [Zhengzhong Tu](https://vztu.github.io/) (TAMU), Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) (USC), Prof. [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) & [Manling Li](https://limanling.github.io/) (Northwestern University). Outside of research, I enjoy Photography📹, swimming🏊, biking🚴, billiards🎱, table tennis🏓. I strive to stay energetic every day and maintain a strong sense of passion for both academic research and life.
+I'm grateful for the mentorship of Prof. [Zhengzhong Tu](https://vztu.github.io/) (TAMU), Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) (USC), Prof. [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) & [Manling Li](https://limanling.github.io/) (Northwestern University) during my undergraduate years. Outside of research, I enjoy Photography📹, swimming🏊, biking🚴, billiards🎱, table tennis🏓. I strive to stay energetic every day and maintain a strong sense of passion for both academic research and life.
 
 <span class='anchor' id='services'></span>
 
