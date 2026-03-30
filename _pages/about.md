@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am Chengxuan Qian, an incoming CS PhD student at University of California, Santa Barbara (UCSB), advised by Prof. [Yao Qin](https://yaoqin1.github.io/). Previously, I was fortunate to collaborate with [Zhengzhong Tu](https://vztu.github.io/), [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/), [Manling Li](https://limanling.github.io/) and [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) during my undergraduate years.
 
-My research focuses on **identifying and eliminating barriers** to **foundation models** reaching **superintelligence**. Foundation models grow from large-scale, static, and idealized settings, yet the real world is dynamic and partially observable. Can they actively explore, interact with tools and environments, and connect with memory? Can they simulate world dynamics, imagine future states, and continually evolve from experience? I aim to teach machines to think like humans and explore frontiers beyond human reach.
+My research focuses on **identifying and eliminating barriers** to **foundation models** reaching **superintelligence**. Foundation models grow from large-scale, static, and idealized settings, yet the real world is dynamic and partially observable. Can they actively explore, interact with tools and environments, and connect with memory? Can they simulate world dynamics, imagine future states, and continually evolve from experience? **I aim to teach machines to think like humans and explore frontiers beyond human reach**.
 
 
 
