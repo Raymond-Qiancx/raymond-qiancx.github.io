@@ -24,7 +24,7 @@ My research focuses on **identifying and eliminating barriers** to **foundation 
 
 
 <div style="border: 2px solid #7b1fa2; border-radius: 8px; padding: 12px 16px; background-color: #f3e5f5; margin: 1em 0;">
-<span style="color:#7b1fa2; font-weight: bold;">I'm looking for Research Internship in the 2026 Summer. I am always open — whether it's collaboration, discussion, or just to say hi, feel free to reach out!</span>
+<span style="color:#7b1fa2; font-weight: bold;">I am always open — whether it's collaboration, discussion, or just to say hi, feel free to reach out!</span>
 <span style="color: #7b1fa2; font-size: 0.85em; margin-left: 8px;">Email: open.qiancx[at]gmail.com | WeChat: qiancxdotcom</span>
 </div>
 
@@ -48,7 +48,7 @@ How can we teach foundation models to see, plan, and act in open-world settings,
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
-- *2026.03*: &nbsp;🎉🎉 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) on General Reward Model for Embodied Agents has been accepted to ***ACL 2026 Main Conference*** and ***ICLR 2026 Workshop on World Models***!
+- *2026.04*: &nbsp;🎉🎉 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) on General Reward Model for Embodied Agents has been accepted to ***ACL 2026 Main Conference*** and ***ICLR 2026 Workshop on World Models***!
 - *2026.02*: &nbsp;🎉🎉 Our work [fMRI-LM](https://arxiv.org/abs/2511.21760) on Medical Foundation Models has been accepted by ***CVPR 2026***!
 - *2026.01*: &nbsp;🎉🎉 Three first/co-first author papers have been accepted by ***ICLR 2026***!
   - [DecAlign](https://arxiv.org/abs/2503.11892): Aligning Cross-Modal Semantics for Multimodal Foundation Models
