@@ -62,7 +62,7 @@ As foundation models soar in capability, how can we make human-AI interaction si
 
 # 🔥 News
 
-<div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
+<div style="max-height: 350px; overflow-y: auto; border: 1px solid rgba(34, 75, 141, 0.18); border-radius: 8px; padding: 10px 15px; background: linear-gradient(135deg, rgba(234, 245, 255, 0.86) 0%, rgba(214, 233, 255, 0.74) 100%); box-shadow: 0 4px 14px rgba(34, 75, 141, 0.08);" markdown="1">
 - *2026.04*: &nbsp;🎉🎉 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) on General Reward Model for Embodied Agents has been accepted to ***ACL 2026 Main Conference*** and ***ICLR 2026 Workshop on World Models***!
 - *2026.02*: &nbsp;🎉🎉 Our work [fMRI-LM](https://arxiv.org/abs/2511.21760) on Medical Foundation Models has been accepted by ***CVPR 2026***!
 - *2026.01*: &nbsp;🎉🎉 Three first/co-first author papers have been accepted by ***ICLR 2026***!
@@ -418,4 +418,3 @@ I'm grateful for the mentorship of Prof. [Zhengzhong Tu](https://vztu.github.io/
 - **Journal Reviewer:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM).
 - **Conference Reviewer:** ICME 2025-2026, AAAI 2026, ICASSP 2026, CVPR 2026
 - **Workshop Reviewer:** ACL 2025 SRW, NeurIPS 2025 Imageomics, NeurIPS 2025 Efficient Reasoning
-
