@@ -30,6 +30,10 @@ My research focuses on **identifying and eliminating barriers** to **foundation 
   <div style="color: #2b5f9f; font-size: 0.95em; line-height: 1.55; margin-bottom: 10px;">
     I'm always open to <b>collaboration</b>, <b>discussion</b>, or just a friendly <b>hello</b> — feel free to reach out anytime!
   </div>
+  <div style="color: #2b5f9f; font-size: 0.92em; line-height: 1.55; margin-bottom: 10px;">
+    I will attend <b>CVPR 2026</b> from <b>June 3–7</b> — see you in Denver!<br>
+    I will attend <b>ACL 2026</b> from <b>July 2–7</b> — see you in San Diego!
+  </div>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 0.88em;">
     <span style="background-color: rgba(255,255,255,0.72); color: #224b8d; padding: 5px 13px; border-radius: 20px; font-weight: 500; box-shadow: 0 1px 3px rgba(34, 75, 141, 0.08);">
       📧 chengxuanqian[at]ucsb.edu
