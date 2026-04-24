@@ -17,25 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Chengxuan Qian, an incoming CS PhD student at University of California, Santa Barbara (UCSB), advised by Prof. [Yao Qin](https://yaoqin1.github.io/). Previously, I was fortunate to collaborate with [Zhengzhong Tu](https://vztu.github.io/), [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/), [Manling Li](https://limanling.github.io/) and [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) during my undergraduate years.
+Hi, I am Chengxuan Qian (钱承炫), an incoming CS PhD student at University of California, Santa Barbara (UCSB), advised by Prof. [Yao Qin](https://yaoqin1.github.io/). Previously, I was fortunate to collaborate with [Zhengzhong Tu](https://vztu.github.io/), [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/), [Manling Li](https://limanling.github.io/) and [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) during my undergraduate years.
 
 My research focuses on **identifying and eliminating barriers** to **foundation models** reaching **superintelligence**. Foundation models grow from large-scale, static, and idealized settings, yet the real world is dynamic and partially observable. Can they actively explore, interact with tools and environments, and connect with memory? Can they simulate world dynamics, imagine future states, and continually evolve from experience? **I aim to teach machines to think like humans and explore frontiers beyond human reach**.
 
 
 
-<div style="border: 2px solid #7b1fa2; border-radius: 8px; padding: 12px 16px; background-color: #f3e5f5; margin: 1em 0;">
-<span style="color:#7b1fa2; font-weight: bold;">I am always open — whether it's collaboration, discussion, or just to say hi, feel free to reach out!</span>
-<span style="color: #7b1fa2; font-size: 0.85em; margin-left: 8px;">Email: open.qiancx[at]gmail.com | WeChat: qiancxdotcom</span>
+<div style="position: relative; border-radius: 12px; padding: 18px 22px; background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%); margin: 1.2em 0; box-shadow: 0 4px 14px rgba(123, 31, 162, 0.12); border-left: 5px solid #7b1fa2;">
+  <div style="color: #4a148c; font-weight: 600; font-size: 1.02em; margin-bottom: 8px; letter-spacing: 0.2px;">
+    ✨ Let's Connect
+  </div>
+  <div style="color: #6a1b9a; font-size: 0.95em; line-height: 1.55; margin-bottom: 10px;">
+    I'm always open to <b>collaboration</b>, <b>discussion</b>, or just a friendly <b>hello</b> — feel free to reach out anytime!
+  </div>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 0.88em;">
+    <span style="background-color: rgba(255,255,255,0.7); color: #7b1fa2; padding: 5px 13px; border-radius: 20px; font-weight: 500; box-shadow: 0 1px 3px rgba(123, 31, 162, 0.08);">
+      📧 chengxuanqian[at]ucsb.edu
+    </span>
+    <span style="background-color: rgba(255,255,255,0.7); color: #7b1fa2; padding: 5px 13px; border-radius: 20px; font-weight: 500; box-shadow: 0 1px 3px rgba(123, 31, 162, 0.08);">
+      💬 WeChat: qiancxdotcom
+    </span>
+  </div>
 </div>
 
 <span class='anchor' id='research'></span>
 
-# Research Interests and Highlights
+# Research Interests
 
 - ***Multimodal Intelligence:*** 
 How can machines extract learnable neural-symbolic concepts from the complex physical world to enable grounded understanding, integration, interaction, and decision-making across multi-sensory signals, ultimately leading to superhuman yet interpretable intelligence?
 
-- ***Generative World Modeling & Video Generation:***
+- ***Generative World Modeling:***
 Toward multimodal superintelligence, guiding foundation models to deeply understand the underlying mechanisms of the complex physical world, internalize world dynamics within their parameter space, and reason about complex object properties and interactions in dynamic 3D environments.
 
 
