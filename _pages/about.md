@@ -23,18 +23,18 @@ My research focuses on **identifying and eliminating barriers** to **foundation 
 
 
 
-<div style="position: relative; border-radius: 12px; padding: 18px 22px; background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%); margin: 1.2em 0; box-shadow: 0 4px 14px rgba(123, 31, 162, 0.12); border-left: 5px solid #7b1fa2;">
-  <div style="color: #4a148c; font-weight: 600; font-size: 1.02em; margin-bottom: 8px; letter-spacing: 0.2px;">
+<div style="position: relative; border-radius: 12px; padding: 18px 22px; background: linear-gradient(135deg, #eaf5ff 0%, #d6e9ff 100%); margin: 1.2em 0; box-shadow: 0 4px 14px rgba(34, 75, 141, 0.12); border-left: 5px solid #224b8d;">
+  <div style="color: #173b73; font-weight: 600; font-size: 1.02em; margin-bottom: 8px; letter-spacing: 0.2px;">
     ✨ Let's Connect
   </div>
-  <div style="color: #6a1b9a; font-size: 0.95em; line-height: 1.55; margin-bottom: 10px;">
+  <div style="color: #2b5f9f; font-size: 0.95em; line-height: 1.55; margin-bottom: 10px;">
     I'm always open to <b>collaboration</b>, <b>discussion</b>, or just a friendly <b>hello</b> — feel free to reach out anytime!
   </div>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 0.88em;">
-    <span style="background-color: rgba(255,255,255,0.7); color: #7b1fa2; padding: 5px 13px; border-radius: 20px; font-weight: 500; box-shadow: 0 1px 3px rgba(123, 31, 162, 0.08);">
+    <span style="background-color: rgba(255,255,255,0.72); color: #224b8d; padding: 5px 13px; border-radius: 20px; font-weight: 500; box-shadow: 0 1px 3px rgba(34, 75, 141, 0.08);">
       📧 chengxuanqian[at]ucsb.edu
     </span>
-    <span style="background-color: rgba(255,255,255,0.7); color: #7b1fa2; padding: 5px 13px; border-radius: 20px; font-weight: 500; box-shadow: 0 1px 3px rgba(123, 31, 162, 0.08);">
+    <span style="background-color: rgba(255,255,255,0.72); color: #224b8d; padding: 5px 13px; border-radius: 20px; font-weight: 500; box-shadow: 0 1px 3px rgba(34, 75, 141, 0.08);">
       💬 WeChat: qiancxdotcom
     </span>
   </div>
@@ -418,5 +418,4 @@ I'm grateful for the mentorship of Prof. [Zhengzhong Tu](https://vztu.github.io/
 - **Journal Reviewer:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM).
 - **Conference Reviewer:** ICME 2025-2026, AAAI 2026, ICASSP 2026, CVPR 2026
 - **Workshop Reviewer:** ACL 2025 SRW, NeurIPS 2025 Imageomics, NeurIPS 2025 Efficient Reasoning
-
 
