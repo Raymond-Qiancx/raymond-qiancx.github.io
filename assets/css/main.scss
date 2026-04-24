@@ -125,6 +125,15 @@ body.home-gradient .masthead {
     -webkit-backdrop-filter: blur(12px);
 }
 
+body.home-gradient .greedy-nav {
+    background: transparent;
+}
+
+body.home-gradient .greedy-nav .hidden-links {
+    background:
+        linear-gradient(135deg, rgba(248, 251, 255, 0.96) 0%, rgba(220, 236, 255, 0.94) 100%);
+}
+
 body.home-gradient .page__content h1 {
     border-bottom-color: rgba(122, 130, 136, 0.25);
 }

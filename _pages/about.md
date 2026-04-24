@@ -420,5 +420,5 @@ I'm grateful for the mentorship of Prof. [Zhengzhong Tu](https://vztu.github.io/
 
 # 🎖 Academical Services
 - **Journal Reviewer:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM).
-- **Conference Reviewer:** ICME 2025-2026, AAAI 2026, ICASSP 2026, CVPR 2026
-- **Workshop Reviewer:** ACL 2025 SRW, NeurIPS 2025 Imageomics, NeurIPS 2025 Efficient Reasoning
+- **Conference Reviewer:** ICME 2025-2026, AAAI 2026, ICASSP 2026, CVPR 2026, NeurIPS 2026.
+- **Workshop Reviewer:** ACL 2025 SRW, NeurIPS 2025 Imageomics, NeurIPS 2025 Efficient Reasoning, ICLR 2026 Workshop on Lifelong Agents, ICLR 2026 Workshop World Models.
