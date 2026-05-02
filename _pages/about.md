@@ -135,7 +135,7 @@ As foundation models soar in capability, how can we make human-AI interaction si
 <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Model</a>
 <a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Dataset</a>
 
-**ACL 2026 Main Conference & ICLR 2026 Workshop on World Models**
+**ACL 2026 (Main) & ICLR 2026 Workshop on World Models**
 
 Jianshu Zhang*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Haosen Sun, Haoran Lu, Dingcheng Wang, Letian Xue, [Han Liu](https://magics.cs.northwestern.edu/people.html)
 
@@ -422,6 +422,6 @@ I'm grateful for the mentorship of Prof. [Zhengzhong Tu](https://vztu.github.io/
 <span class='anchor' id='services'></span>
 
 # 🎖 Academical Services
-- **Journal Reviewer:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM).
+- **Journal Reviewer:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), Pattern Recognition (PR).
 - **Conference Reviewer:** ICME 2025-2026, AAAI 2026, ICASSP 2026, CVPR 2026, NeurIPS 2026.
 - **Workshop Reviewer:** ACL 2025 SRW, NeurIPS 2025 Imageomics, NeurIPS 2025 Efficient Reasoning, ICLR 2026 Workshop on Lifelong Agents, ICLR 2026 Workshop World Models.
