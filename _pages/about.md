@@ -107,6 +107,10 @@ As foundation models soar in capability, how can we make human-AI interaction si
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f5e9; color: #2e7d32; border-radius: 15px; font-size: 12px;">Foundation Model</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Interpretability</span>
 
+<a href="https://taco-group.github.io/DecAlign/" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Website</a>
+<a href="https://arxiv.org/abs/2503.11892" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Paper</a>
+<a href="https://github.com/taco-group/DecAlign" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Code</a>
+
 **ICLR 2026**
 
 **Chengxuan Qian**, Shuo Xing, Shawn Li, [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/lab), [Zhengzhong Tu](https://vztu.github.io/)<sup>&dagger;</sup>.
@@ -132,7 +136,7 @@ As foundation models soar in capability, how can we make human-AI interaction si
 
 <a href="https://progresslm.github.io/ProgressLM/" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Website</a>
 <a href="https://arxiv.org/abs/2601.15224" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Paper</a>
-<a href="https://github.com/Raymond-Qiancx/ProgressLM" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Code</a>
+<a href="https://github.com/ProgressLM/ProgressLM" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Code</a>
 <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Model</a>
 <a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Dataset</a>
 
@@ -154,6 +158,11 @@ Jianshu Zhang*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Haosen 
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Autonomous Driving</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Open-World Applications</span>
 
+<a href="https://arxiv.org/pdf/2509.01944" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Paper</a>
+<a href="https://github.com/AMAP-ML/AutoDrive-R2" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Code</a>
+<a href="https://huggingface.co/GD-ML/AutoDrive-R2-7B" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Model</a>
+<a href="https://huggingface.co/datasets/GD-ML/AutoDrive-R2-all-data/tree/main" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Dataset</a>
+
 **Featured by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)**
 
 **ICLR 2026**
@@ -173,6 +182,12 @@ Zhenlong Yuan*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Jing Ta
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f4f8; color: #0077b6; border-radius: 15px; font-size: 12px;">Think with Videos</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Tool-Using Agent</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Multi-turn Agentic RL</span>
+
+<a href="https://arxiv.org/pdf/2510.08480" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Paper</a>
+<a href="https://github.com/AMAP-ML/Video-STAR" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Code</a>
+<a href="https://huggingface.co/GD-ML/Video-STAR-3B" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">3B Model</a>
+<a href="https://huggingface.co/GD-ML/Video-STAR-7B" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">7B Model</a>
+<a href="https://github.com/AMAP-ML/Video-STAR#download-datasets" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Dataset</a>
 
 **ICLR 2026**
 
