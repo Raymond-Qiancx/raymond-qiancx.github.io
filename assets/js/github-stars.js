@@ -32,7 +32,25 @@
       var badge = document.createElement("span");
       badge.className = "github-star-badge";
       badge.setAttribute("aria-label", repoPath + " GitHub stars");
-      badge.textContent = "\u2605 " + starCount;
+
+      var label = document.createElement("span");
+      label.className = "github-star-badge__label";
+
+      var icon = document.createElement("i");
+      icon.className = "fab fa-github";
+      icon.setAttribute("aria-hidden", "true");
+
+      var labelText = document.createElement("span");
+      labelText.textContent = "Stars";
+
+      var count = document.createElement("span");
+      count.className = "github-star-badge__count";
+      count.textContent = starCount;
+
+      label.appendChild(icon);
+      label.appendChild(labelText);
+      badge.appendChild(label);
+      badge.appendChild(count);
       link.insertAdjacentElement("afterend", badge);
     });
   }
