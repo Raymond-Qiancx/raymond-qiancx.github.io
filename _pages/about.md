@@ -31,7 +31,7 @@ My research focuses on **identifying and eliminating barriers** to **foundation 
     I'm always open to <b>collaboration</b>, <b>discussion</b>, or just a friendly <b>hello</b> — feel free to reach out anytime!
   </div>
   <div style="color: #2b5f9f; font-size: 0.92em; line-height: 1.55; margin-bottom: 10px;">
-    I will attend <b>CVPR 2026</b> from <b>6.2-6.6</b> — see you in Denver!<br>
+    I will attend <b>CVPR 2026</b> from <b>June 2-6</b> — see you in Denver!<br>
     I will attend <b>ACL 2026</b> from <b>July 2–7</b> — see you in San Diego!
   </div>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 0.88em;">
