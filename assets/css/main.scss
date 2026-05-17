@@ -91,10 +91,10 @@
     display: inline-flex;
     align-items: stretch;
     margin: 4px 4px 4px 0;
-    color: #24292f;
-    font-size: 14px;
-    font-weight: 600;
-    line-height: 20px;
+    color: #555;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1;
     vertical-align: middle;
 }
 
@@ -102,26 +102,26 @@
 .github-star-badge__count {
     display: inline-flex;
     align-items: center;
-    min-height: 28px;
-    border: 1px solid #d0d7de;
-    background-color: #f6f8fa;
+    min-height: 24px;
+    border: 1px solid rgba(85, 85, 85, 0.12);
+    background-color: #f0f0f0;
 }
 
 .github-star-badge__label {
-    gap: 5px;
-    padding: 3px 8px;
-    border-radius: 6px 0 0 6px;
+    gap: 4px;
+    padding: 4px 9px;
+    border-radius: 20px 0 0 20px;
 }
 
 .github-star-badge__label i {
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .github-star-badge__count {
-    padding: 3px 8px;
+    padding: 4px 9px;
     border-left: 0;
-    border-radius: 0 6px 6px 0;
-    background-color: #ffffff;
+    border-radius: 0 20px 20px 0;
+    background-color: rgba(255, 255, 255, 0.55);
 }
 
 $scroll_offset : 2em;
