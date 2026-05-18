@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Chengxuan Qian (钱承炫), an incoming CS PhD student at University of California, Santa Barbara (UCSB), advised by Prof. [Yao Qin](https://yaoqin1.github.io/). Previously, I was fortunate to collaborate with [Zhengzhong Tu](https://vztu.github.io/), [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) and [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) during my undergraduate years.
+Hi, I am Chengxuan Qian (钱承炫), an incoming CS PhD student at University of California, Santa Barbara (UCSB), advised by Prof. [Yao Qin](https://yaoqin1.github.io/).
 
 My research focuses on **identifying and eliminating barriers** to **foundation models** reaching **superintelligence**. Foundation models grow from large-scale, static, and idealized settings, yet the real world is dynamic and partially observable. Can they actively explore, interact with tools and environments, and connect with memory? Can they simulate world dynamics, imagine future states, and continually evolve from experience? **I aim to teach machines to think like humans and explore frontiers beyond human reach**.
 
@@ -427,6 +427,15 @@ Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, S
 </div>
 
 
+
+
+
+
+<span class='anchor' id='selected-awards'></span>
+
+# 🏆 Selected Awards
+- *2026.05*: &nbsp;Selected as a [***CVPR 2026 Outstanding Reviewer***](https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf), recognized among the top 5% of reviewers out of 17,491 reviewers.
+- *2026.05*: &nbsp;Our co-first-author work [***ProgressLM***](https://progresslm.github.io/ProgressLM/), which studies how multimodal foundation models can design general progress rewards for training embodied agents, has been selected as an ***ACL 2026 Oral Presentation***.
 
 
 
