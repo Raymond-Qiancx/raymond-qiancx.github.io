@@ -32,7 +32,8 @@ My research focuses on **identifying and eliminating barriers** to **foundation 
   </div>
   <div style="color: #2b5f9f; font-size: 0.92em; line-height: 1.55; margin-bottom: 10px;">
     I will attend <b>CVPR 2026</b> from <b>June 2-6</b> — see you in Denver!<br>
-    I will attend <b>ACL 2026</b> from <b>July 5-8</b> — see you in San Diego!
+    I will attend <b>ACL 2026</b> from <b>July 5-8</b> — see you in San Diego!<br>
+    🏆 <b>ACL 2026 Oral Presentation</b>: I will present <b>ProgressLM</b> on Tuesday, July 7, Harbor H-I, Oral Session F, 09:00-10:30.
   </div>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 0.88em;">
     <span style="background-color: rgba(255,255,255,0.72); color: #224b8d; padding: 5px 13px; border-radius: 20px; font-weight: 500; box-shadow: 0 1px 3px rgba(34, 75, 141, 0.08);">
@@ -70,7 +71,8 @@ As foundation models soar in capability, how can we make human-AI interaction si
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid rgba(34, 75, 141, 0.18); border-radius: 8px; padding: 10px 15px; background: linear-gradient(135deg, rgba(234, 245, 255, 0.86) 0%, rgba(214, 233, 255, 0.74) 100%); box-shadow: 0 4px 14px rgba(34, 75, 141, 0.08);" markdown="1">
-- *2026.05*: &nbsp;🎉🎉 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) has been selected as an ***ACL 2026 Oral***! We will present it on ***Tuesday, July 7*** at ***Harbor H-I*** during ***Oral Session F: Multimodality and Language Grounding to Vision, Robotics and Beyond 2***, ***09:00-10:30***. Welcome to join us! See More: <a href="https://progresslm.github.io/ProgressLM/">[Website]</a> <a href="https://arxiv.org/abs/2601.15224">[Paper]</a> <a href="https://github.com/ProgressLM/ProgressLM">[Code]</a> <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm">[Model]</a> <a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset">[Dataset]</a>
+- *2026.05*: &nbsp;🏆🏆 Recognized as a [***CVPR 2026 Outstanding Reviewer***](https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf), top 5% of 17,491 reviewers.
+- *2026.05*: &nbsp;🏆🏆 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) has been selected as an ***ACL 2026 Oral Presentation (Top 3.3%)*** 🔥 We will present it on ***Tuesday, July 7*** at ***Harbor H-I*** during ***Oral Session F: Multimodality and Language Grounding to Vision, Robotics and Beyond 2***, ***09:00-10:30***. Welcome to join us! See More: <a href="https://progresslm.github.io/ProgressLM/">[Website]</a> <a href="https://arxiv.org/abs/2601.15224">[Paper]</a> <a href="https://github.com/ProgressLM/ProgressLM">[Code]</a> <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm">[Model]</a> <a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset">[Dataset]</a>
 - *2026.04*: &nbsp;🎉🎉 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) on General Reward Model for Embodied Agents has been accepted to ***ACL 2026 Main Conference*** and ***ICLR 2026 Workshop on World Models***!
 - *2026.04*: &nbsp;🎉🎉 My first-author work [DynCIM](https://arxiv.org/abs/2503.06456) on cross-modal imbalance in multimodal foundation models has been accepted by ***CVPR 2026 Workshop on Cognitive Foundations for Multimodal Models***!
 - *2026.02*: &nbsp;🎉🎉 Our work [fMRI-LM](https://arxiv.org/abs/2511.21760) on Medical Foundation Models has been accepted by ***CVPR 2026***!
@@ -141,7 +143,7 @@ As foundation models soar in capability, how can we make human-AI interaction si
 <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Model</a>
 <a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Dataset</a>
 
-**ACL 2026 (Oral) & ICLR 2026 Workshop on World Models**
+🏆 **ACL 2026 (Oral Presentation, Top 3.3%) and ICLR 2026 Workshop on World Models**
 
 Jianshu Zhang*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Haosen Sun, Haoran Lu, Dingcheng Wang, Letian Xue, [Han Liu](https://magics.cs.northwestern.edu/people.html)
 
@@ -434,8 +436,8 @@ Jianing Chen, Zehao Li, Yujun Cai, Hao Jiang, **Chengxuan Qian**, Juyuan Kang, S
 <span class='anchor' id='selected-awards'></span>
 
 # 🏆 Selected Awards
-- *2026.05*: &nbsp;Selected as a [***CVPR 2026 Outstanding Reviewer***](https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf), recognized among the top 5% of reviewers out of 17,491 reviewers.
-- *2026.05*: &nbsp;Our co-first-author work [***ProgressLM***](https://progresslm.github.io/ProgressLM/), which studies how multimodal foundation models can design general progress rewards for training embodied agents, has been selected as an ***ACL 2026 Oral Presentation***.
+- *2026.05*: &nbsp;Selected as a [***CVPR 2026 Outstanding Reviewer***](https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf) (Top 5% of reviewers among 17,491 reviewers).
+- *2026.05*: &nbsp;Our co-first-author work [***ProgressLM***](https://progresslm.github.io/ProgressLM/), which studies how multimodal foundation models can design general progress rewards for training embodied agents, has been selected as an ***ACL 2026 Oral Presentation*** (Top 3.3% among 12,148 submissions).
 
 
 
