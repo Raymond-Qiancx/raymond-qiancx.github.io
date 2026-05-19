@@ -44,7 +44,7 @@ My research focuses on **identifying and eliminating barriers** to **foundation 
     </span>
   </div>
   <div style="color: #5f7fa8; font-size: 0.8em; line-height: 1.4; margin-top: 12px;">
-    Last Update: April 24, 2026
+    Last Update: May 18, 2026
   </div>
 </div>
 
