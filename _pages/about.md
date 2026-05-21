@@ -274,25 +274,6 @@ Shuo Xing, Yuping Wang, Peiran Li, Ruizheng Bai, Yueqi Wang, **Chengxuan Qian**,
 </div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/fmri-lm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[fMRI-LM: Towards a Universal Foundation Model for Language-Aligned fMRI Understanding](https://arxiv.org/abs/2511.21760)
-
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #ffebee; color: #c62828; border-radius: 15px; font-size: 12px;">Medical LLMs</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fffde7; color: #f9a825; border-radius: 15px; font-size: 12px;">Data-Centric</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f5e9; color: #2e7d32; border-radius: 15px; font-size: 12px;">Foundation Model</span>
-
-**CVPR 2026**
-
-Yuxiang Wei, Yanteng Zhang, Xi Xiao, **Chengxuan Qian**, Tianyang Wang, [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en) <sup>&dagger;</sup>.
-
-
-</div>
-</div>
-
-
-
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/zzz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -326,40 +307,6 @@ Zhengzhong Zhu, Pei Zhou, **Chengxuan Qian**, Ruohong Yang, Yixuan Ye, Jiangping
 </div>
 </div> -->
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/bibm_cl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CLIMD: A Curriculum Learning Framework for Imbalanced Multimodal Diagnosis](https://arxiv.org/abs/2508.01594)
-
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Modality Imbalances</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #ffebee; color: #c62828; border-radius: 15px; font-size: 12px;">Medical AI</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e0f7fa; color: #00838f; border-radius: 15px; font-size: 12px;">Curriculum Learning</span>
-
-**MICCAI 2025 (Top 9% Paper)**
-
-Kai Han, Chongwen Lyu, **Chengxuan Qian**, Siqi Ma, Jun Chen<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>,
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMI 2025</div><img src='images/tmi_24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Region Uncertainty Estimation for Medical Image Segmentation with Noisy Labels](https://ieeexplore.ieee.org/document/11080080)
-
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #ffebee; color: #c62828; border-radius: 15px; font-size: 12px;">Medical Segmentation</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Noisy Labels</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e0f7fa; color: #00838f; border-radius: 15px; font-size: 12px;">Sparse Annotation</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Uncertainty Estimation</span>
-
-**IEEE Transaction on Medical Imaging, 2025**
-
-Kai Han, Shuhui Wang, Jun Chen<sup>&dagger;</sup>, **Chengxuan Qian**, Chongwen Lyu, Siqi Ma, [Victor S. Sheng](https://scholar.google.com/citations?user=0epc43IAAAAJ&hl=en)<sup>&dagger;</sup>, Qingming Huang<sup>&dagger;</sup>, Zhe Liu<sup>&dagger;</sup>.
-
-</div>
-</div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fass.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
