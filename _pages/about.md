@@ -76,7 +76,7 @@ As foundation models soar in capability, how can we make human-AI interaction si
 - *2026.04*: &nbsp;🎉🎉 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) on General Reward Model for Embodied Agents has been accepted to ***ACL 2026 Main Conference*** and ***ICLR 2026 Workshop on World Models***!
 - *2026.04*: &nbsp;🎉🎉 My first-author work [DynCIM](https://arxiv.org/abs/2503.06456) on cross-modal imbalance in multimodal foundation models has been accepted by ***CVPR 2026 Workshop on Cognitive Foundations for Multimodal Models***!
 - *2026.03*: &nbsp;🔥🔥 Joined University of California, Santa Barbara (UCSB) as a CS PhD student.
-- *2026.02*: &nbsp;🎉🎉 We release [What If Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension Through Generation](https://arxiv.org/abs/2602.11499), a study that breaks through the static perception barrier of VLMs via active generative world modeling.
+- *2026.02*: &nbsp;🎉🎉 We release [What If Agents Could Imagine?](https://arxiv.org/abs/2602.11499), a study that breaks through the static perception barrier of VLMs via active generative world modeling.
 - *2026.02*: &nbsp;🎉🎉 Our work [fMRI-LM](https://arxiv.org/abs/2511.21760) on Medical Foundation Models has been accepted by ***CVPR 2026***!
 - *2026.01*: &nbsp;🎉🎉 Three first/co-first author papers have been accepted by ***ICLR 2026***!
   - [DecAlign](https://arxiv.org/abs/2503.11892): Aligning Cross-Modal Semantics for Multimodal Foundation Models
@@ -222,7 +222,7 @@ Zhenlong Yuan<sup>*</sup>, Xiangyan Qu<sup>*</sup>, **Chengxuan Qian**<sup>*</su
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/imagine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation](https://arxiv.org/abs/2602.11499)
+[What if Agents Could Imagine?](https://arxiv.org/abs/2602.11499)
 
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f4f8; color: #0077b6; border-radius: 15px; font-size: 12px;">Multimodal LLMs</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Generative World Modeling</span>

@@ -24,12 +24,15 @@ author:
   name             : "Chengxuan Qian"
   avatar           : "images/web_picture.png"
   bio              : "Incoming CS PhD at UCSB"
-  location         : "Philadelphia, PA, USA"
+  location         : "Santa Barbara, CA, USA"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DZDZXtwAAAAJ&hl=zh-CN"
   email            : "chengxuanqian@ucsb.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  rednote          : "https://www.xiaohongshu.com/user/profile/634baf0a000000001901d237"
+  huggingface      : "https://huggingface.co/Raymond-Qiancx"
+  wechat           : "/images/wechat.jpg"
   uri              :
   bitbucket        :
   codepen          :
