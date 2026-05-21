@@ -37,15 +37,6 @@
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
-      {% if author.rednote %}
-        <li><a href="{{ author.rednote }}"><i class="fas fa-fw fa-bookmark" aria-hidden="true"></i> RedNote</a></li>
-      {% endif %}
-      {% if author.huggingface %}
-        <li><a href="{{ author.huggingface }}"><i class="fas fa-fw fa-smile" aria-hidden="true"></i> Hugging Face</a></li>
-      {% endif %}
-      {% if author.wechat %}
-        <li><a href="{{ author.wechat }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> Wechat</a></li>
-      {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
@@ -126,7 +117,16 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+      {% if author.rednote %}
+        <li><a href="{{ author.rednote }}"><i class="fas fa-fw fa-bookmark" aria-hidden="true"></i> RedNote</a></li>
+      {% endif %}
+      {% if author.huggingface %}
+        <li><a href="{{ author.huggingface }}"><i class="fas fa-fw fa-smile" aria-hidden="true"></i> Hugging Face</a></li>
+      {% endif %}
+      {% if author.wechat %}
+        <li><a href="{{ author.wechat }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> Wechat</a></li>
+      {% endif %}
     </ul>
       <div class="author__urls_sm">
       {% if author.uri %}
@@ -140,15 +140,6 @@
       {% endif %}
        {% if author.researchgate %}
         <a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if author.rednote %}
-        <a href="{{ author.rednote }}"><i class="fas fa-fw fa-bookmark" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if author.huggingface %}
-        <a href="{{ author.huggingface }}"><i class="fas fa-fw fa-smile" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if author.wechat %}
-        <a href="{{ author.wechat }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.twitter %}
         <a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>
@@ -230,6 +221,15 @@
       {% endif %}
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.rednote %}
+        <a href="{{ author.rednote }}"><i class="fas fa-fw fa-bookmark" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.huggingface %}
+        <a href="{{ author.huggingface }}"><i class="fas fa-fw fa-smile" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.wechat %}
+        <a href="{{ author.wechat }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></a>
       {% endif %}
     </div>
   </div>
