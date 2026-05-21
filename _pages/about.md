@@ -99,7 +99,7 @@ As foundation models soar in capability, how can we make human-AI interaction si
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Selected Publications <span style="font-size: 0.6em; font-weight: normal;">(详细的见 <a href="https://scholar.google.com/citations?user=DZDZXtwAAAAJ&hl=zh-CN">谷歌学术</a>)</span>
+# 📝 Selected Publications <span style="font-size: 0.6em; font-weight: normal;">(For the full list, please see <a href="https://scholar.google.com/citations?user=DZDZXtwAAAAJ&hl=en">Google Scholar</a>)</span>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/decalign.png' alt="sym" width="100%"></div></div>
