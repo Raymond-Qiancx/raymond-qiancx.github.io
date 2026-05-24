@@ -343,15 +343,6 @@ Zhe Liu<sup>†</sup>, Kai Han, Siqi Ma, Yan Zhu, Jun Chen, Chongwen Lyu, Xinyi 
 
 
 
-<span class='anchor' id='selected-awards'></span>
-
-# 🏆 Selected Awards
-- *2026.05*: &nbsp;Selected as a [***CVPR 2026 Outstanding Reviewer***](https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf) (Top 5% of reviewers among 17,491 reviewers).
-- *2026.05*: &nbsp;My co-first work [***ProgressLM***](https://progresslm.github.io/ProgressLM/) has been selected as an ***ACL 2026 Oral Presentation*** (Top 3.3% among 12,148 submissions).
-
-
-
-
 <span class='anchor' id='misc'></span>
 
 # 🌟 Misc
