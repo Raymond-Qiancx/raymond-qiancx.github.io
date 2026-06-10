@@ -124,6 +124,185 @@
     background-color: rgba(255, 255, 255, 0.55);
 }
 
+.research-board {
+    margin: 1.2em 0 1.6em;
+    padding: 0.2em 0 0;
+}
+
+.research-board__intro {
+    margin: 0 0 1em;
+    color: #2b5f9f;
+    font-size: 0.96em;
+    line-height: 1.65;
+}
+
+.research-module {
+    position: relative;
+    overflow: hidden;
+    margin: 0 0 0.85em;
+    border-radius: 8px;
+    background:
+        linear-gradient(135deg, rgba(234, 245, 255, 0.95) 0%, rgba(214, 233, 255, 0.78) 58%, rgba(248, 251, 255, 0.94) 100%);
+    box-shadow: 0 7px 20px rgba(34, 75, 141, 0.1);
+    transition: transform 180ms ease, box-shadow 180ms ease, background-position 240ms ease;
+}
+
+.research-module::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+        linear-gradient(115deg, rgba(255, 255, 255, 0) 8%, rgba(255, 255, 255, 0.52) 26%, rgba(255, 255, 255, 0) 44%);
+    transform: translateX(-72%);
+    transition: transform 520ms ease;
+    pointer-events: none;
+}
+
+.research-module:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 11px 26px rgba(34, 75, 141, 0.16);
+}
+
+.research-module:hover::before {
+    transform: translateX(68%);
+}
+
+.research-module summary {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1em;
+    padding: 0.95em 1.05em;
+    color: #173b73;
+    cursor: pointer;
+    list-style: none;
+}
+
+.research-module summary::-webkit-details-marker {
+    display: none;
+}
+
+.research-module summary::after {
+    content: "+";
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 1.55em;
+    height: 1.55em;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.68);
+    color: #224b8d;
+    font-weight: 700;
+    line-height: 1;
+    transition: transform 180ms ease, background-color 180ms ease;
+}
+
+.research-module[open] summary::after {
+    content: "-";
+    transform: rotate(180deg);
+    background: rgba(255, 255, 255, 0.86);
+}
+
+.research-module__title {
+    font-weight: 700;
+    font-size: 1.02em;
+}
+
+.research-module__hint {
+    margin-left: auto;
+    color: #5f7fa8;
+    font-size: 0.78em;
+    font-weight: 500;
+    text-align: right;
+}
+
+.research-module__body {
+    position: relative;
+    padding: 0 1.05em 1.05em;
+    animation: research-reveal 220ms ease both;
+}
+
+.research-module__body--empty {
+    min-height: 0.35em;
+}
+
+.research-track {
+    padding: 0.75em 0 0.2em;
+}
+
+.research-track + .research-track {
+    margin-top: 0.35em;
+}
+
+.research-track h3 {
+    margin: 0 0 0.55em;
+    color: #224b8d;
+    font-size: 0.88em;
+    letter-spacing: 0;
+}
+
+.research-work-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.48em;
+}
+
+.research-work {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.15em;
+    padding: 0.42em 0.72em;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.74);
+    color: #173b73;
+    font-size: 0.82em;
+    font-weight: 600;
+    line-height: 1.2;
+    text-decoration: none;
+    box-shadow: 0 2px 7px rgba(34, 75, 141, 0.08);
+    transition: transform 160ms ease, box-shadow 160ms ease, background-color 160ms ease, color 160ms ease;
+}
+
+.research-work:hover {
+    transform: translateY(-1px);
+    background: #224b8d;
+    color: #fff;
+    text-decoration: none;
+    box-shadow: 0 7px 14px rgba(34, 75, 141, 0.18);
+}
+
+@keyframes research-reveal {
+    from {
+        opacity: 0;
+        transform: translateY(-4px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 520px) {
+    .research-module summary {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.35em;
+    }
+
+    .research-module summary::after {
+        position: absolute;
+        right: 1em;
+        top: 0.95em;
+    }
+
+    .research-module__hint {
+        margin-left: 0;
+        max-width: calc(100% - 2.2em);
+        text-align: left;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

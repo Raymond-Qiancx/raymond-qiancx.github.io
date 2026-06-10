@@ -19,10 +19,6 @@ redirect_from:
 
 Hi, I am Chengxuan Qian (钱承炫), an incoming CS PhD student at University of California, Santa Barbara (UCSB), advised by Prof. [Yao Qin](https://yaoqin1.github.io/).
 
-My research focuses on **identifying and eliminating barriers** to **foundation models** reaching **superintelligence**. Foundation models grow from large-scale, static, and idealized settings, yet the real world is dynamic and partially observable. Can they actively explore, interact with tools and environments, and connect with memory? Can they simulate world dynamics, imagine future states, and continually evolve from experience? **I aim to teach machines to think like humans and explore frontiers beyond human reach**.
-
-
-
 <div style="position: relative; border-radius: 12px; padding: 18px 22px; background: linear-gradient(135deg, #eaf5ff 0%, #d6e9ff 100%); margin: 1.2em 0; box-shadow: 0 4px 14px rgba(34, 75, 141, 0.12); border-left: 5px solid #224b8d;">
   <div style="color: #173b73; font-weight: 600; font-size: 1.02em; margin-bottom: 8px; letter-spacing: 0.2px;">
     ✨ Let's Connect
@@ -52,18 +48,60 @@ My research focuses on **identifying and eliminating barriers** to **foundation 
 
 # Research Interests
 
-- ***Multimodal Intelligence:*** 
-How can machines extract learnable neural-symbolic concepts from the complex physical world to enable grounded understanding, integration, interaction, and decision-making across multi-sensory signals, ultimately leading to superhuman yet interpretable intelligence?
+<div class="research-board">
+  <p class="research-board__intro">
+    My research focuses on <strong>identifying and eliminating barriers</strong> to <strong>foundation models</strong> reaching <strong>superintelligence</strong>. Foundation models grow from large-scale, static, and idealized settings, yet the real world is dynamic and partially observable. Can they actively explore, interact with tools and environments, and connect with memory? Can they simulate world dynamics, imagine future states, and continually evolve from experience? <strong>I aim to teach machines to think like humans and explore frontiers beyond human reach</strong>.
+  </p>
 
-- ***Generative World Modeling:***
-Toward multimodal superintelligence, guiding foundation models to deeply understand the underlying mechanisms of the complex physical world, internalize world dynamics within their parameter space, and reason about complex object properties and interactions in dynamic 3D environments.
+  <details class="research-module research-module--active" open>
+    <summary>
+      <span class="research-module__title">Multimodal Intelligence and World Models</span>
+      <span class="research-module__hint">analysis, post-training, simulation</span>
+    </summary>
+    <div class="research-module__body">
+      <section class="research-track">
+        <h3>Foundation Model Analysis</h3>
+        <div class="research-work-list">
+          <a class="research-work" href="https://arxiv.org/abs/2503.11892">DecAlign</a>
+          <a class="research-work" href="https://arxiv.org/abs/2503.06456">DynCIM</a>
+          <a class="research-work" href="https://aclanthology.org/2025.emnlp-main.121/">Re-Align</a>
+        </div>
+      </section>
 
+      <section class="research-track">
+        <h3>Multimodal LLMs Post-Training</h3>
+        <div class="research-work-list">
+          <a class="research-work" href="https://arxiv.org/abs/2509.01944">AutoDrive-R2</a>
+          <a class="research-work" href="https://arxiv.org/abs/2601.15224">ProgressLM</a>
+          <a class="research-work" href="https://arxiv.org/abs/2510.08480">Video-STAR</a>
+          <a class="research-work" href="https://openaccess.thecvf.com/content/CVPR2026/html/Wei_fMRI-LM_Towards_a_Universal_Foundation_Model_for_Language-Aligned_fMRI_Understanding_CVPR_2026_paper.html">fMRI-LM</a>
+        </div>
+      </section>
 
-- ***Real-World Adaption, Robustness, and Generalization:*** 
-How can we teach foundation models to see, plan, and act in open-world settings, while autonomously interacting with external environments such as tools, knowledge bases, and simulators, thereby continuously extending their capability boundaries in real-world applications?
+      <section class="research-track">
+        <h3>World Modeling</h3>
+        <div class="research-work-list">
+          <a class="research-work" href="https://progresslm.github.io/ProgressLM/">Mental Simulation</a>
+          <a class="research-work" href="https://arxiv.org/abs/2602.11499">What If Agents Could Imagine?</a>
+        </div>
+      </section>
+    </div>
+  </details>
 
-- ***Human-AI Interaction:*** 
-As foundation models soar in capability, how can we make human-AI interaction simpler and more efficient, empowering zero-knowledge users to reach professional-level outcomes? This remains a promising and enduring frontier.
+  <details class="research-module">
+    <summary>
+      <span class="research-module__title">Foundation Models as Domain Experts</span>
+    </summary>
+    <div class="research-module__body research-module__body--empty"></div>
+  </details>
+
+  <details class="research-module">
+    <summary>
+      <span class="research-module__title">Real-World Adaption, Robustness, and Generalization</span>
+    </summary>
+    <div class="research-module__body research-module__body--empty"></div>
+  </details>
+</div>
 
 
 <span class='anchor' id='news'></span>
