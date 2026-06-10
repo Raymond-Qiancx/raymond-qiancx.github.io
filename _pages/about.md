@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Chengxuan Qian (钱承炫), an incoming CS PhD student at University of California, Santa Barbara (UCSB), advised by Prof. [Yao Qin](https://yaoqin1.github.io/). Prior to that, I'm grateful for the mentorship of Prof. [Zhengzhong Tu](https://vztu.github.io/) (TAMU), Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) (USC), and Prof. [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) (Northwestern University) during my undergraduate years.
+<p class="profile-intro">Hi, I am Chengxuan Qian (钱承炫), an incoming CS PhD student at <strong>University of California, Santa Barbara (UCSB)</strong>, advised by Prof. <a href="https://yaoqin1.github.io/">Yao Qin</a>. Prior to that, I'm grateful for the mentorship of Prof. <a href="https://vztu.github.io/">Zhengzhong Tu</a> (TAMU), Prof. <a href="https://viterbi-web.usc.edu/~yzhao010/">Yue Zhao</a> (USC), and Prof. <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html">Han Liu</a> (Northwestern University) during my undergraduate years.</p>
 
 <div style="position: relative; border-radius: 12px; padding: 18px 22px; background: linear-gradient(135deg, #eaf5ff 0%, #d6e9ff 100%); margin: 1.2em 0; box-shadow: 0 4px 14px rgba(34, 75, 141, 0.12); border-left: 5px solid #224b8d;">
   <div style="color: #173b73; font-weight: 600; font-size: 1.02em; margin-bottom: 8px; letter-spacing: 0.2px;">
@@ -99,7 +99,7 @@ Hi, I am Chengxuan Qian (钱承炫), an incoming CS PhD student at University of
 
 # 🔥 News
 
-<div style="max-height: 350px; overflow-y: auto; border: 1px solid rgba(34, 75, 141, 0.18); border-radius: 8px; padding: 10px 15px; background: linear-gradient(135deg, rgba(234, 245, 255, 0.86) 0%, rgba(214, 233, 255, 0.74) 100%); box-shadow: 0 4px 14px rgba(34, 75, 141, 0.08);" markdown="1">
+<div class="news-panel" style="max-height: 350px; overflow-y: auto; border: 1px solid rgba(34, 75, 141, 0.18); border-radius: 8px; padding: 10px 15px; background: linear-gradient(135deg, rgba(234, 245, 255, 0.86) 0%, rgba(214, 233, 255, 0.74) 100%); box-shadow: 0 4px 14px rgba(34, 75, 141, 0.08);" markdown="1">
 - *2026.05*: &nbsp;🏆🏆 Recognized as a [***CVPR 2026 Outstanding Reviewer***](https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf), top 5% of 17,491 reviewers.
 - *2026.05*: &nbsp;🏆🏆 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) has been selected as an ***ACL 2026 Oral Presentation (Top 3.3%)*** 🔥
 - *2026.04*: &nbsp;🎉🎉 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) on General Reward Model for Embodied Agents has been accepted to ***ACL 2026 Main Conference*** and ***ICLR 2026 Workshop on World Models***!
@@ -380,6 +380,6 @@ Outside of research, I enjoy Photography📹, swimming🏊, biking🚴, billiard
 <span class='anchor' id='services'></span>
 
 # 🎖 Academical Services
-- **Journal Reviewer:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), Pattern Recognition (PR).
+- **Journal Reviewer:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), Pattern Recognition (PR), IEEE Transactions on Robot Learning (T-RL).
 - **Conference Reviewer:** ICME 2025-2026, AAAI 2026, ICASSP 2026, CVPR 2026, NeurIPS 2026.
 - **Workshop Reviewer:** ACL 2025 SRW, NeurIPS 2025 Imageomics, NeurIPS 2025 Efficient Reasoning, ICLR 2026 Workshop on Lifelong Agents, ICLR 2026 Workshop World Models, COLM 2026 Workshop Efficient Reasoning.
