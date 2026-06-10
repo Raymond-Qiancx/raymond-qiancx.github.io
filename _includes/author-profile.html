@@ -234,128 +234,61 @@
     </div>
   </div>
 
-  {% if site.visitor_map.enabled %}
-  {% assign visitor_map_stats_url = site.visitor_map.stats_url | default: '' %}
-  <div class="author__visitor-map" data-visitor-map data-provider="{{ site.visitor_map.provider | default: 'local' }}" data-provider-id="{{ site.visitor_map.id | default: '' }}" data-stats-url="{{ visitor_map_stats_url }}">
+  {% if site.clustrmaps.enabled %}
+  <div class="author__visitor-map" data-clustrmaps>
     <style>
-      .author__visitor-map[data-visitor-map] {
+      .author__visitor-map[data-clustrmaps] {
         margin-top: 15px;
         text-align: center;
       }
 
-      .author__visitor-map[data-visitor-map] .visitor-map__widget {
+      .author__visitor-map[data-clustrmaps] .clustrmaps__widget {
+        min-height: 112px;
         text-align: center;
       }
 
-      .author__visitor-map[data-visitor-map] .visitor-map__fallback {
-        display: flex;
-        justify-content: center;
-        margin: 0 auto;
-        min-height: 112px;
-      }
-
-      .author__visitor-map[data-visitor-map].visitor-map--loaded .visitor-map__fallback {
+      .author__visitor-map[data-clustrmaps].clustrmaps--loaded .clustrmaps__status {
         display: none;
       }
 
-      .author__visitor-map[data-visitor-map] .visitor-map__globe {
-        display: block;
-        width: 108px;
-        height: 108px;
-      }
-
-      .author__visitor-map[data-visitor-map] .visitor-greeting {
+      .author__visitor-map[data-clustrmaps] .visitor-greeting {
         margin-top: 10px;
         color: #666;
         font-size: 0.85em;
       }
+
+      .clustrmaps__status {
+        margin: 0 auto;
+        max-width: 180px;
+        color: #6d7f91;
+        font-size: 0.78em;
+        line-height: 1.35;
+      }
     </style>
-    <div class="visitor-map__widget" aria-hidden="true"></div>
-    {% if visitor_map_stats_url != '' %}
-    <a class="visitor-map__fallback" role="img" aria-label="Visitor globe" href="{{ visitor_map_stats_url }}">
-    {% else %}
-    <div class="visitor-map__fallback" role="img" aria-label="Visitor globe">
-    {% endif %}
-      <svg class="visitor-map__globe" aria-hidden="true" width="108" height="108" viewBox="0 0 108 108" style="display: block; width: 108px; height: 108px;" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <radialGradient id="visitor-globe-ocean" cx="34%" cy="28%" r="72%">
-            <stop offset="0%" stop-color="#92d6ff"/>
-            <stop offset="58%" stop-color="#2a84bf"/>
-            <stop offset="100%" stop-color="#174f82"/>
-          </radialGradient>
-          <filter id="visitor-globe-shadow" x="-20%" y="-20%" width="140%" height="150%">
-            <feDropShadow dx="0" dy="7" stdDeviation="5" flood-color="#174f82" flood-opacity="0.18"/>
-          </filter>
-        </defs>
-        <circle cx="54" cy="54" r="50" fill="url(#visitor-globe-ocean)" filter="url(#visitor-globe-shadow)"/>
-        <path d="M24 32c8-12 21-17 33-13 9 3 8 11 0 14-7 3-9 8-6 13 2 4 8 4 13 2 8-3 13 1 12 9-1 7-8 16-18 19-8 2-10 8-7 16-18-1-34-12-42-28 6-4 9-9 8-15-1-7 1-12 7-17z" fill="#66b46f" opacity="0.95"/>
-        <path d="M73 68c9-4 20-2 26 5-5 13-16 23-30 28-5-11-2-27 4-33z" fill="#56a864" opacity="0.9"/>
-        <path d="M38 16c-9 8-14 22-14 38s5 30 14 38M70 16c9 8 14 22 14 38s-5 30-14 38M8 54h92M18 30h72M18 78h72" fill="none" stroke="rgba(255,255,255,0.36)" stroke-width="1.25"/>
-        <circle cx="54" cy="54" r="50" fill="none" stroke="rgba(255,255,255,0.42)" stroke-width="1.4"/>
-        <path d="M77 18c11 8 19 21 22 36 2 14-2 28-11 39" fill="none" stroke="rgba(0,0,0,0.18)" stroke-width="9" stroke-linecap="round" opacity="0.24"/>
-      </svg>
-    {% if visitor_map_stats_url != '' %}
-    </a>
-    {% else %}
+    <div class="clustrmaps__widget">
+      <script type="text/javascript"
+        id="clstr_globe"
+        src="https://clustrmaps.com/globe.js?d={{ site.clustrmaps.id }}"
+        onload="(function (script) { var root = script.closest('[data-clustrmaps]'); if (root) { root.classList.add('clustrmaps--loaded'); } }(this))"
+        onerror="(function (script) { var root = script.closest('[data-clustrmaps]'); var status = root && root.querySelector('.clustrmaps__status'); if (root) { root.classList.add('clustrmaps--unavailable'); } if (status) { status.textContent = 'ClustrMaps visitor map is temporarily unavailable.'; } }(this))">
+      </script>
     </div>
-    {% endif %}
+    <p class="clustrmaps__status">ClustrMaps visitor map is loading.</p>
     <script>
       (function () {
-        var root = document.currentScript.closest("[data-visitor-map]");
-        var provider = root && root.getAttribute("data-provider");
-        var providerId = root && root.getAttribute("data-provider-id");
-        var fallback = root && root.querySelector(".visitor-map__fallback");
-        var widget = root && root.querySelector(".visitor-map__widget");
-
-        function showFallback() {
-          root.classList.remove("visitor-map--loaded");
-          root.classList.add("visitor-map--fallback");
-          if (fallback) {
-            fallback.style.display = "flex";
-          }
-        }
-
-        function showWidget() {
-          root.classList.remove("visitor-map--fallback");
-          root.classList.add("visitor-map--loaded");
-          if (fallback) {
-            fallback.style.display = "none";
-          }
-        }
-
-        if (!root || !widget || !fallback || !providerId) {
-          if (root) {
-            showFallback();
-          }
+        var root = document.currentScript.closest("[data-clustrmaps]");
+        var widget = root && root.querySelector(".clustrmaps__widget");
+        if (!root || !widget) {
           return;
         }
-
-        if (provider !== "mapmyvisitors") {
-          showFallback();
-          return;
-        }
-
-        var script = document.createElement("script");
-        script.async = true;
-        script.id = "mmvst_globe";
-        script.src = "https://mapmyvisitors.com/globe.js?d=" + encodeURIComponent(providerId);
-        script.onload = function () {
-          window.setTimeout(function () {
-            var hasRemoteWidget = widget.querySelector("canvas, iframe, img, object, embed, a[href*='mapmyvisitors']");
-            if (hasRemoteWidget) {
-              showWidget();
-            } else {
-              showFallback();
-            }
-          }, 800);
-        };
-        script.onerror = showFallback;
-        widget.appendChild(script);
-
         window.setTimeout(function () {
-          var hasRemoteWidget = widget.querySelector("canvas, iframe, img, object, embed, a[href*='mapmyvisitors']");
+          var hasRemoteWidget = widget.querySelector("canvas, iframe, img, object, embed, a[href*='clustrmaps']");
           if (!hasRemoteWidget) {
-            showFallback();
+            root.classList.add("clustrmaps--unavailable");
+            var status = root.querySelector(".clustrmaps__status");
+            if (status) {
+              status.textContent = "ClustrMaps visitor map is temporarily unavailable.";
+            }
           }
         }, 3000);
       }());

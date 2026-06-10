@@ -19,8 +19,10 @@ redirect_from:
 
 <p class="profile-intro">Hi, I am Chengxuan Qian (钱承炫), an incoming CS PhD student at <strong>University of California, Santa Barbara (UCSB)</strong>, advised by Prof. <a href="https://yaoqin1.github.io/">Yao Qin</a>. Prior to that, I'm grateful for the mentorship of Prof. <a href="https://vztu.github.io/">Zhengzhong Tu</a> (TAMU), Prof. <a href="https://viterbi-web.usc.edu/~yzhao010/">Yue Zhao</a> (USC), and Prof. <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html">Han Liu</a> (Northwestern University) during my undergraduate years.</p>
 
-<div style="position: relative; border-radius: 12px; padding: 18px 22px; background: linear-gradient(135deg, #eaf5ff 0%, #d6e9ff 100%); margin: 1.2em 0; box-shadow: 0 4px 14px rgba(34, 75, 141, 0.12); border-left: 5px solid #224b8d;">
-  <div style="color: #173b73; font-weight: 600; font-size: 1.02em; margin-bottom: 8px; letter-spacing: 0.2px;">
+<p class="profile-intro profile-intro--research-focus">My research focuses on <strong>identifying and eliminating barriers</strong> to <strong>foundation models</strong> reaching <strong>superintelligence</strong>. Foundation models grow from large-scale, static, and idealized settings, yet the real world is dynamic and partially observable. Can they actively explore, interact with tools and environments, and connect with memory? Can they simulate world dynamics, imagine future states, and continually evolve from experience? <strong>I aim to teach machines to think like humans and explore frontiers beyond human reach</strong>.</p>
+
+<div class="connect-panel" style="position: relative; border-radius: 12px; padding: 18px 22px; background: linear-gradient(135deg, #eaf5ff 0%, #d6e9ff 100%); margin: 1.2em 0; box-shadow: 0 4px 14px rgba(34, 75, 141, 0.12); border-left: 5px solid #224b8d;">
+  <div class="connect-panel__title" style="color: #173b73; font-weight: 600; font-size: 1.02em; margin-bottom: 8px; letter-spacing: 0.2px;">
     ✨ Let's Connect
   </div>
   <div style="color: #2b5f9f; font-size: 0.95em; line-height: 1.55; margin-bottom: 10px;">
@@ -32,10 +34,10 @@ redirect_from:
     🏆 <b>ACL 2026 Oral Presentation</b>: I will present <b>ProgressLM</b> on Tuesday, July 7, Harbor H-I, Oral Session F, 09:00-10:30.
   </div>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 0.88em;">
-    <span style="background-color: rgba(255,255,255,0.72); color: #224b8d; padding: 5px 13px; border-radius: 20px; font-weight: 500; box-shadow: 0 1px 3px rgba(34, 75, 141, 0.08);">
+    <span class="connect-panel__chip" style="background-color: rgba(255,255,255,0.72); color: #224b8d; padding: 5px 13px; border-radius: 20px; font-weight: 500; box-shadow: 0 1px 3px rgba(34, 75, 141, 0.08);">
       📧 chengxuanqian[at]ucsb.edu
     </span>
-    <span style="background-color: rgba(255,255,255,0.72); color: #224b8d; padding: 5px 13px; border-radius: 20px; font-weight: 500; box-shadow: 0 1px 3px rgba(34, 75, 141, 0.08);">
+    <span class="connect-panel__chip" style="background-color: rgba(255,255,255,0.72); color: #224b8d; padding: 5px 13px; border-radius: 20px; font-weight: 500; box-shadow: 0 1px 3px rgba(34, 75, 141, 0.08);">
       💬 WeChat: qiancxdotcom
     </span>
   </div>
@@ -44,62 +46,56 @@ redirect_from:
   </div>
 </div>
 
-<span class='anchor' id='research'></span>
+<div class="research-news-layout" markdown="1">
+  <section class="research-news-column research-news-column--research" markdown="1">
+    <span class='anchor' id='research'></span>
+    <h1 class="section-heading"><span class="section-heading__icon">🧭</span>Research Interests</h1>
 
-# Research Interests
+    <div class="research-board">
+      <div class="research-card-grid">
+        <article class="research-card research-card--pink research-card--wide">
+          <h3><span></span>Multimodal Intelligence</h3>
+          <p>
+            <a href="https://arxiv.org/abs/2503.11892">DecAlign (ICLR 26)</a>,
+            <a href="https://arxiv.org/abs/2503.06456">DynCIM (CVPRW 26)</a>,
+            <a href="https://arxiv.org/abs/2601.15224">ProgressLM (ACL 26 Oral)</a>,
+            <a href="https://arxiv.org/abs/2509.01944">AutoDrive-R2 (ICLR 26)</a>,
+            <a href="https://arxiv.org/abs/2510.08480">Video-STAR (ICLR 26)</a>,
+            <a href="https://link.springer.com/chapter/10.1007/978-3-032-05182-0_7">CLIMD (MICCAI 25)</a>,
+            <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Wei_fMRI-LM_Towards_a_Universal_Foundation_Model_for_Language-Aligned_fMRI_Understanding_CVPR_2026_paper.html">fMRI-LM (CVPR 26)</a>,
+            <a href="https://aclanthology.org/2025.emnlp-main.121/">Re-Align (EMNLP 25 Main)</a>
+          </p>
+        </article>
 
-<div class="research-board">
-  <p class="research-board__intro">
-    My research focuses on <strong>identifying and eliminating barriers</strong> to <strong>foundation models</strong> reaching <strong>superintelligence</strong>. Foundation models grow from large-scale, static, and idealized settings, yet the real world is dynamic and partially observable. Can they actively explore, interact with tools and environments, and connect with memory? Can they simulate world dynamics, imagine future states, and continually evolve from experience? <strong>I aim to teach machines to think like humans and explore frontiers beyond human reach</strong>.
-  </p>
+        <article class="research-card research-card--orange">
+          <h3><span></span>World Modeling</h3>
+          <p>
+            <a href="https://progresslm.github.io/ProgressLM/">Spatial Understanding &amp; Mental Simulation (ACL 26 Oral)</a>,
+            <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/b690b88de1cd9694e356b021bc643ba1-Abstract-Conference.html">Dynamic Scene Generation (NeurIPS 25)</a>,
+            <a href="https://ieeexplore.ieee.org/abstract/document/11225906">Multi-View Stereo (IEEE TCSVT 25)</a>,
+            <a href="https://arxiv.org/abs/2602.11499">What If Agents Could Imagine?</a>
+          </p>
+        </article>
 
-  <section class="research-area">
-    <h2 class="research-area__title">Multimodal Intelligence and World Models</h2>
-    <div class="research-card-grid">
-      <article class="research-card research-card--pink">
-        <h3><span></span>Foundation Model Analysis</h3>
-        <p>
-          <a href="https://arxiv.org/abs/2503.11892">DecAlign (ICLR 26)</a>,
-          <a href="https://arxiv.org/abs/2503.06456">DynCIM (CVPRW 26)</a>,
-          <a href="https://aclanthology.org/2025.emnlp-main.121/">Re-Align (EMNLP 25 Main)</a>
-        </p>
-      </article>
-
-      <article class="research-card research-card--green">
-        <h3><span></span>Multimodal LLMs Post-Training</h3>
-        <p>
-          <a href="https://arxiv.org/abs/2509.01944">AutoDrive-R2 (ICLR 26)</a>,
-          <a href="https://arxiv.org/abs/2601.15224">ProgressLM (ACL 26 Oral)</a>,
-          <a href="https://arxiv.org/abs/2510.08480">Video-STAR (ICLR 26)</a>,
-          <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Wei_fMRI-LM_Towards_a_Universal_Foundation_Model_for_Language-Aligned_fMRI_Understanding_CVPR_2026_paper.html">fMRI-LM (CVPR 26)</a>
-        </p>
-      </article>
-
-      <article class="research-card research-card--orange">
-        <h3><span></span>World Modeling</h3>
-        <p>
-          <a href="https://progresslm.github.io/ProgressLM/">Mental Simulation</a>,
-          <a href="https://arxiv.org/abs/2602.11499">What If Agents Could Imagine?</a>
-        </p>
-      </article>
+        <article class="research-card research-card--green">
+          <h3><span></span>Real-World Adaption, Robustness, and Generalization</h3>
+          <p>
+            <a href="https://arxiv.org/abs/2503.12218">Medical Segmentation with Sparse &amp; Noisy Labels (BIBM AIBH 25)</a> / <a href="https://ieeexplore.ieee.org/abstract/document/11080080">IEEE TMI 25</a>,
+            <a href="https://link.springer.com/chapter/10.1007/978-3-032-05182-0_7">Imbalances in Multimodal Diagnosis (MICCAI 25)</a>,
+            <a href="https://ieeexplore.ieee.org/abstract/document/11270172">Multi-Task Liver Image Benchmark (IEEE JBHI 25)</a>,
+            <a href="https://arxiv.org/abs/2509.01944v3">Physical-Grounded Autonomous Driving (ICLR 26)</a>,
+            <a href="https://aclanthology.org/2025.emnlp-main.121/">Hallucination in Multimodal Understanding (EMNLP 25 Main)</a> / <a href="https://arxiv.org/abs/2510.08480">ICLR 26</a>
+          </p>
+        </article>
+      </div>
     </div>
   </section>
 
-  <section class="research-area research-area--empty">
-    <h2 class="research-area__title">Foundation Models as Domain Experts</h2>
-  </section>
+  <section class="research-news-column research-news-column--news" markdown="1">
+    <span class='anchor' id='news'></span>
+    <h1 class="section-heading"><span class="section-heading__icon">🔥</span>News</h1>
 
-  <section class="research-area research-area--empty">
-    <h2 class="research-area__title">Real-World Adaption, Robustness, and Generalization</h2>
-  </section>
-</div>
-
-
-<span class='anchor' id='news'></span>
-
-# 🔥 News
-
-<div class="news-panel" style="max-height: 350px; overflow-y: auto; border: 1px solid rgba(34, 75, 141, 0.18); border-radius: 8px; padding: 10px 15px; background: linear-gradient(135deg, rgba(234, 245, 255, 0.86) 0%, rgba(214, 233, 255, 0.74) 100%); box-shadow: 0 4px 14px rgba(34, 75, 141, 0.08);" markdown="1">
+    <div class="news-panel" style="max-height: 350px; overflow-y: auto; border: 1px solid rgba(34, 75, 141, 0.18); border-radius: 8px; padding: 10px 15px; background: linear-gradient(135deg, rgba(234, 245, 255, 0.86) 0%, rgba(214, 233, 255, 0.74) 100%); box-shadow: 0 4px 14px rgba(34, 75, 141, 0.08);" markdown="1">
 - *2026.05*: &nbsp;🏆🏆 Recognized as a [***CVPR 2026 Outstanding Reviewer***](https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf), top 5% of 17,491 reviewers.
 - *2026.05*: &nbsp;🏆🏆 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) has been selected as an ***ACL 2026 Oral Presentation (Top 3.3%)*** 🔥
 - *2026.04*: &nbsp;🎉🎉 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) on General Reward Model for Embodied Agents has been accepted to ***ACL 2026 Main Conference*** and ***ICLR 2026 Workshop on World Models***!
@@ -125,6 +121,8 @@ redirect_from:
 - *2024.11*: &nbsp;🎉🎉 Excited to propose my first-author work [DynCIM](https://arxiv.org/abs/2503.06456), a novel dynamic multimodal curriculum learning framework in addressing cross-modal competition and imbalances, which is now available on ArXiv!
 - *2024.10*: &nbsp;🎉🎉 We propose [FASS](https://arxiv.org/abs/2510.11005), a novel frequency domain-enhanced approach for Medical Image Segmentation under Low-Contrast environment.
 
+    </div>
+  </section>
 </div>
 
 <span class='anchor' id='publications'></span>
