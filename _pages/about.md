@@ -100,6 +100,7 @@ redirect_from:
 
     <div class="news-panel" style="max-height: 350px; overflow-y: auto; border: 1px solid rgba(34, 75, 141, 0.18); border-radius: 8px; padding: 10px 15px; background: linear-gradient(135deg, rgba(234, 245, 255, 0.86) 0%, rgba(214, 233, 255, 0.74) 100%); box-shadow: 0 4px 14px rgba(34, 75, 141, 0.08);">
       <ul>
+        <li><em>2026.06</em>: &nbsp;✈️✈️ Attending <strong><em>CVPR 2026</em></strong> in-person from June 2-6, See you in Denver!</li>
         <li><em>2026.05</em>: &nbsp;🏆🏆 Recognized as a <a href="https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf"><strong><em>CVPR 2026 Outstanding Reviewer</em></strong></a>, top 5% of 17,491 reviewers.</li>
         <li><em>2026.05</em>: &nbsp;🏆🏆 Our work <a href="https://progresslm.github.io/ProgressLM/">ProgressLM</a> has been selected as an <strong><em>ACL 2026 Oral Presentation (Top 3.3%)</em></strong> 🔥</li>
         <li><em>2026.04</em>: &nbsp;🎉🎉 Our work <a href="https://progresslm.github.io/ProgressLM/">ProgressLM</a> on General Reward Model for Embodied Agents has been accepted to <strong><em>ACL 2026 Main Conference</em></strong> and <strong><em>ICLR 2026 Workshop on World Models</em></strong>!</li>
@@ -115,6 +116,7 @@ redirect_from:
           </ul>
         </li>
         <li><em>2026.01</em>: &nbsp;🎉🎉 We propose <a href="https://progresslm.github.io/ProgressLM/">ProgressLM</a>, which further investigates whether VLMs can acquire human-like, generalizable mental understanding and simulation in embodied scenarios from a single example, and serves as an early step toward building general-purpose reward models. See More: <a href="https://progresslm.github.io/ProgressLM/">[Website]</a> <a href="https://arxiv.org/abs/2601.15224">[Paper]</a> <a href="https://github.com/Raymond-Qiancx/ProgressLM">[Code]</a> <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm">[Model]</a> <a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset">[Dataset]</a></li>
+        <li><em>2025.12</em>: &nbsp;✈️✈️ Attended <strong><em>NeurIPS 2025</em></strong> in-person, See you in San Diego!</li>
         <li><em>2025.11</em>: &nbsp;🎉🎉 Our work <a href="https://arxiv.org/abs/2511.19889">LiMT</a>, an unified multi-task liver image benchmark work, has been accepted by <strong><em>Journal of Biomedical and Health Informatics (JBHI)</em></strong>!</li>
         <li><em>2025.10</em>: &nbsp;🎉🎉 Our work <a href="https://arxiv.org/abs/2506.13215">DVP-MVS++</a>, Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo, has been accepted by <strong><em>IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</em></strong>!</li>
         <li><em>2025.10</em>: &nbsp;🎉🎉 My <a href="https://arxiv.org/abs/2503.12218">first-author work</a> on Medical Segmentation under sparse and noisy labeled annotations has been accepted by <strong><em>BIBM AIBH 2025</em></strong>!</li>
@@ -123,8 +125,10 @@ redirect_from:
         <li><em>2025.09</em>: &nbsp;🎉🎉 We propose <a href="https://arxiv.org/abs/2509.01944v1">AutoDrive-R²</a>, Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving. We're also honored that our work was featured by <a href="https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg">AutoDrive Heart (自动驾驶之心)</a>!</li>
         <li><em>2025.08</em>: &nbsp;🎉🎉 Our work <a href="https://taco-group.github.io/Re-Align/">Re-Align</a> has been accepted by <strong><em>EMNLP 2025 Main Conference</em></strong>!</li>
         <li><em>2025.07</em>: &nbsp;🎉🎉 Our work on <a href="https://ieeexplore.ieee.org/document/11080080">Generalizable Medical Vision</a> has been <strong><em>Accepted</em></strong> by <strong><em>IEEE Transactions on Medical Imaging</em></strong>.</li>
+        <li><em>2025.06</em>: &nbsp;✈️✈️ Attended <strong><em>CVPR 2025</em></strong> in-person, See you in Nashville!</li>
         <li><em>2025.05</em>: &nbsp;🎉🎉 Our work <a href="https://arxiv.org/abs/2508.01594">CLIMD</a> has been <strong><em>Early Accepted</em></strong> by <strong><em>MICCAI 2025</em></strong> (Top 9%).</li>
         <li><em>2025.03</em>: &nbsp;🎉🎉 Excited to propose my first-author work <a href="https://taco-group.github.io/DecAlign/">DecAlign</a>, a novel cross-modal decoupling and alignment framwork for multimodal representation learning.</li>
+        <li><em>2025.02</em>: &nbsp;✈️✈️ Attended <strong><em>AAAI 2025</em></strong> in-person, See you in Philadelphia!</li>
         <li><em>2024.11</em>: &nbsp;🎉🎉 Excited to propose my first-author work <a href="https://arxiv.org/abs/2503.06456">DynCIM</a>, a novel dynamic multimodal curriculum learning framework in addressing cross-modal competition and imbalances, which is now available on ArXiv!</li>
         <li><em>2024.10</em>: &nbsp;🎉🎉 We propose <a href="https://arxiv.org/abs/2510.11005">FASS</a>, a novel frequency domain-enhanced approach for Medical Image Segmentation under Low-Contrast environment.</li>
       </ul>
@@ -179,7 +183,8 @@ redirect_from:
 <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Model</a>
 <a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset" style="display: inline-block; padding: 4px 12px; margin: 4px 4px 4px 0; background-color: #f0f0f0; border-radius: 20px; font-size: 12px; color: #555; text-decoration: none; font-weight: 500;">Dataset</a>
 
-🏆 **ACL 2026 (Oral Presentation, Top 3.3%) and ICLR 2026 Workshop on World Models**
+🏆 **ACL 2026 (Oral Presentation, Top 3.3%)**<br>
+**ICLR 2026 Workshop on World Models**
 
 Jianshu Zhang*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Haosen Sun, Haoran Lu, Dingcheng Wang, Letian Xue, [Han Liu](https://magics.cs.northwestern.edu/people.html)
 
