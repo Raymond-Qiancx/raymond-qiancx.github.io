@@ -21,7 +21,7 @@ redirect_from:
 
 <p class="profile-intro profile-intro--research-focus">My research focuses on <strong>identifying and eliminating barriers</strong> to <strong>foundation models</strong> reaching <strong>superintelligence</strong>. Foundation models grow from large-scale, static, and idealized settings, yet the real world is dynamic and partially observable. Can they actively explore, interact with tools and environments, and connect with memory? Can they simulate world dynamics, imagine future states, and continually evolve from experience? <strong>I aim to teach machines to think like humans and explore frontiers beyond human reach</strong>.</p>
 
-<div class="connect-panel" style="position: relative; border-radius: 12px; padding: 18px 22px; background: linear-gradient(135deg, #eaf5ff 0%, #d6e9ff 100%); margin: 1.2em 0; box-shadow: 0 4px 14px rgba(34, 75, 141, 0.12); border-left: 5px solid #224b8d;">
+<div class="connect-panel" style="position: relative; border-radius: 12px; padding: 18px 22px; background: linear-gradient(135deg, #eaf5ff 0%, #d6e9ff 100%); margin: 1.2em 0; box-shadow: 0 4px 14px rgba(34, 75, 141, 0.12); border: 0;">
   <div class="connect-panel__title" style="color: #173b73; font-weight: 600; font-size: 1.02em; margin-bottom: 8px; letter-spacing: 0.2px;">
     ✨ Let's Connect
   </div>
