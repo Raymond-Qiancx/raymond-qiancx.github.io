@@ -442,7 +442,18 @@
 @media (min-width: 1024px) {
     .research-news-layout {
         grid-template-columns: minmax(0, 1.12fr) minmax(300px, 0.88fr);
-        align-items: start;
+        align-items: stretch;
+    }
+
+    .research-news-column--news {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .research-news-column--news .news-panel {
+        flex: 1 1 auto;
+        max-height: none !important;
+        min-height: 0;
     }
 }
 

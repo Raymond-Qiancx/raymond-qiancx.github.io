@@ -68,9 +68,9 @@ redirect_from:
         </article>
 
         <article class="research-card research-card--orange">
-          <h3><span></span>World Modeling</h3>
+          <h3><span></span>Spatial Intelligence and World Modeling</h3>
           <p>
-            <a href="https://progresslm.github.io/ProgressLM/">Spatial Understanding &amp; Mental Simulation (ACL 26 Oral)</a>,
+            <a href="https://progresslm.github.io/ProgressLM/">Spatial Understanding and Mental Simulation (ACL 26 Oral)</a>,
             <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/b690b88de1cd9694e356b021bc643ba1-Abstract-Conference.html">Dynamic Scene Generation (NeurIPS 25)</a>,
             <a href="https://ieeexplore.ieee.org/abstract/document/11225906">Multi-View Stereo (IEEE TCSVT 25)</a>,
             <a href="https://arxiv.org/abs/2602.11499">What If Agents Could Imagine?</a>
@@ -78,13 +78,16 @@ redirect_from:
         </article>
 
         <article class="research-card research-card--green">
-          <h3><span></span>Real-World Adaption, Robustness, and Generalization</h3>
+          <h3><span></span>Medical AI, Autonomous Driving, Video Understanding, and Embodied Robotics</h3>
           <p>
-            <a href="https://arxiv.org/abs/2503.12218">Medical Segmentation with Sparse &amp; Noisy Labels (BIBM AIBH 25)</a> / <a href="https://ieeexplore.ieee.org/abstract/document/11080080">IEEE TMI 25</a>,
-            <a href="https://link.springer.com/chapter/10.1007/978-3-032-05182-0_7">Imbalances in Multimodal Diagnosis (MICCAI 25)</a>,
-            <a href="https://ieeexplore.ieee.org/abstract/document/11270172">Multi-Task Liver Image Benchmark (IEEE JBHI 25)</a>,
-            <a href="https://arxiv.org/abs/2509.01944v3">Physical-Grounded Autonomous Driving (ICLR 26)</a>,
-            <a href="https://aclanthology.org/2025.emnlp-main.121/">Hallucination in Multimodal Understanding (EMNLP 25 Main)</a> / <a href="https://arxiv.org/abs/2510.08480">ICLR 26</a>
+            Medical AI (<a href="https://arxiv.org/abs/2503.12218">BIBM AIBH 25</a>,
+            <a href="https://ieeexplore.ieee.org/abstract/document/11080080">IEEE TMI 25</a>,
+            <a href="https://link.springer.com/chapter/10.1007/978-3-032-05182-0_7">MICCAI 25</a>,
+            <a href="https://ieeexplore.ieee.org/abstract/document/11270172">IEEE JBHI 25</a>,
+            <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Wei_fMRI-LM_Towards_a_Universal_Foundation_Model_for_Language-Aligned_fMRI_Understanding_CVPR_2026_paper.html">CVPR 26</a>),
+            <a href="https://arxiv.org/abs/2509.01944v3">Autonomous Driving (ICLR 26)</a>,
+            <a href="https://arxiv.org/abs/2510.08480">Video Understanding (ICLR 26)</a>,
+            <a href="https://progresslm.github.io/ProgressLM/">Embodied Robotics (ACL 26 Oral)</a>
           </p>
         </article>
       </div>
