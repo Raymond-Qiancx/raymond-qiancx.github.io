@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Chengxuan Qian (钱承炫), an incoming CS PhD student at University of California, Santa Barbara (UCSB), advised by Prof. [Yao Qin](https://yaoqin1.github.io/).
+Hi, I am Chengxuan Qian (钱承炫), an incoming CS PhD student at University of California, Santa Barbara (UCSB), advised by Prof. [Yao Qin](https://yaoqin1.github.io/). Prior to that, I'm grateful for the mentorship of Prof. [Zhengzhong Tu](https://vztu.github.io/) (TAMU), Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) (USC), and Prof. [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) (Northwestern University) during my undergraduate years.
 
 <div style="position: relative; border-radius: 12px; padding: 18px 22px; background: linear-gradient(135deg, #eaf5ff 0%, #d6e9ff 100%); margin: 1.2em 0; box-shadow: 0 4px 14px rgba(34, 75, 141, 0.12); border-left: 5px solid #224b8d;">
   <div style="color: #173b73; font-weight: 600; font-size: 1.02em; margin-bottom: 8px; letter-spacing: 0.2px;">
@@ -53,54 +53,45 @@ Hi, I am Chengxuan Qian (钱承炫), an incoming CS PhD student at University of
     My research focuses on <strong>identifying and eliminating barriers</strong> to <strong>foundation models</strong> reaching <strong>superintelligence</strong>. Foundation models grow from large-scale, static, and idealized settings, yet the real world is dynamic and partially observable. Can they actively explore, interact with tools and environments, and connect with memory? Can they simulate world dynamics, imagine future states, and continually evolve from experience? <strong>I aim to teach machines to think like humans and explore frontiers beyond human reach</strong>.
   </p>
 
-  <details class="research-module research-module--active" open>
-    <summary>
-      <span class="research-module__title">Multimodal Intelligence and World Models</span>
-      <span class="research-module__hint">analysis, post-training, simulation</span>
-    </summary>
-    <div class="research-module__body">
-      <section class="research-track">
-        <h3>Foundation Model Analysis</h3>
-        <div class="research-work-list">
-          <a class="research-work" href="https://arxiv.org/abs/2503.11892">DecAlign</a>
-          <a class="research-work" href="https://arxiv.org/abs/2503.06456">DynCIM</a>
-          <a class="research-work" href="https://aclanthology.org/2025.emnlp-main.121/">Re-Align</a>
-        </div>
-      </section>
+  <section class="research-area">
+    <h2 class="research-area__title">Multimodal Intelligence and World Models</h2>
+    <div class="research-card-grid">
+      <article class="research-card research-card--pink">
+        <h3><span></span>Foundation Model Analysis</h3>
+        <p>
+          <a href="https://arxiv.org/abs/2503.11892">DecAlign (ICLR 26)</a>,
+          <a href="https://arxiv.org/abs/2503.06456">DynCIM (CVPRW 26)</a>,
+          <a href="https://aclanthology.org/2025.emnlp-main.121/">Re-Align (EMNLP 25 Main)</a>
+        </p>
+      </article>
 
-      <section class="research-track">
-        <h3>Multimodal LLMs Post-Training</h3>
-        <div class="research-work-list">
-          <a class="research-work" href="https://arxiv.org/abs/2509.01944">AutoDrive-R2</a>
-          <a class="research-work" href="https://arxiv.org/abs/2601.15224">ProgressLM</a>
-          <a class="research-work" href="https://arxiv.org/abs/2510.08480">Video-STAR</a>
-          <a class="research-work" href="https://openaccess.thecvf.com/content/CVPR2026/html/Wei_fMRI-LM_Towards_a_Universal_Foundation_Model_for_Language-Aligned_fMRI_Understanding_CVPR_2026_paper.html">fMRI-LM</a>
-        </div>
-      </section>
+      <article class="research-card research-card--green">
+        <h3><span></span>Multimodal LLMs Post-Training</h3>
+        <p>
+          <a href="https://arxiv.org/abs/2509.01944">AutoDrive-R2 (ICLR 26)</a>,
+          <a href="https://arxiv.org/abs/2601.15224">ProgressLM (ACL 26 Oral)</a>,
+          <a href="https://arxiv.org/abs/2510.08480">Video-STAR (ICLR 26)</a>,
+          <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Wei_fMRI-LM_Towards_a_Universal_Foundation_Model_for_Language-Aligned_fMRI_Understanding_CVPR_2026_paper.html">fMRI-LM (CVPR 26)</a>
+        </p>
+      </article>
 
-      <section class="research-track">
-        <h3>World Modeling</h3>
-        <div class="research-work-list">
-          <a class="research-work" href="https://progresslm.github.io/ProgressLM/">Mental Simulation</a>
-          <a class="research-work" href="https://arxiv.org/abs/2602.11499">What If Agents Could Imagine?</a>
-        </div>
-      </section>
+      <article class="research-card research-card--orange">
+        <h3><span></span>World Modeling</h3>
+        <p>
+          <a href="https://progresslm.github.io/ProgressLM/">Mental Simulation</a>,
+          <a href="https://arxiv.org/abs/2602.11499">What If Agents Could Imagine?</a>
+        </p>
+      </article>
     </div>
-  </details>
+  </section>
 
-  <details class="research-module">
-    <summary>
-      <span class="research-module__title">Foundation Models as Domain Experts</span>
-    </summary>
-    <div class="research-module__body research-module__body--empty"></div>
-  </details>
+  <section class="research-area research-area--empty">
+    <h2 class="research-area__title">Foundation Models as Domain Experts</h2>
+  </section>
 
-  <details class="research-module">
-    <summary>
-      <span class="research-module__title">Real-World Adaption, Robustness, and Generalization</span>
-    </summary>
-    <div class="research-module__body research-module__body--empty"></div>
-  </details>
+  <section class="research-area research-area--empty">
+    <h2 class="research-area__title">Real-World Adaption, Robustness, and Generalization</h2>
+  </section>
 </div>
 
 
@@ -384,11 +375,11 @@ Zhe Liu<sup>†</sup>, Kai Han, Siqi Ma, Yan Zhu, Jun Chen, Chongwen Lyu, Xinyi 
 <span class='anchor' id='misc'></span>
 
 # 🌟 Misc
-I'm grateful for the mentorship of Prof. [Zhengzhong Tu](https://vztu.github.io/) (TAMU), Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) (USC), and Prof. [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) (Northwestern University) during my undergraduate years. Outside of research, I enjoy Photography📹, swimming🏊, biking🚴, billiards🎱, table tennis🏓. I strive to stay energetic every day and maintain a strong sense of passion for both academic research and life.
+Outside of research, I enjoy Photography📹, swimming🏊, biking🚴, billiards🎱, table tennis🏓. I strive to stay energetic every day and maintain a strong sense of passion for both academic research and life.
 
 <span class='anchor' id='services'></span>
 
 # 🎖 Academical Services
 - **Journal Reviewer:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), Pattern Recognition (PR).
 - **Conference Reviewer:** ICME 2025-2026, AAAI 2026, ICASSP 2026, CVPR 2026, NeurIPS 2026.
-- **Workshop Reviewer:** ACL 2025 SRW, NeurIPS 2025 Imageomics, NeurIPS 2025 Efficient Reasoning, ICLR 2026 Workshop on Lifelong Agents, ICLR 2026 Workshop World Models.
+- **Workshop Reviewer:** ACL 2025 SRW, NeurIPS 2025 Imageomics, NeurIPS 2025 Efficient Reasoning, ICLR 2026 Workshop on Lifelong Agents, ICLR 2026 Workshop World Models, COLM 2026 Workshop Efficient Reasoning.
