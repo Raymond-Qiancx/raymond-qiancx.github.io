@@ -46,8 +46,8 @@ redirect_from:
   </div>
 </div>
 
-<div class="research-news-layout" markdown="1">
-  <section class="research-news-column research-news-column--research" markdown="1">
+<div class="research-news-layout">
+  <section class="research-news-column research-news-column--research">
     <span class='anchor' id='research'></span>
     <h1 class="section-heading"><span class="section-heading__icon">🧭</span>Research Interests</h1>
 
@@ -91,36 +91,40 @@ redirect_from:
     </div>
   </section>
 
-  <section class="research-news-column research-news-column--news" markdown="1">
+  <section class="research-news-column research-news-column--news">
     <span class='anchor' id='news'></span>
     <h1 class="section-heading"><span class="section-heading__icon">🔥</span>News</h1>
 
-    <div class="news-panel" style="max-height: 350px; overflow-y: auto; border: 1px solid rgba(34, 75, 141, 0.18); border-radius: 8px; padding: 10px 15px; background: linear-gradient(135deg, rgba(234, 245, 255, 0.86) 0%, rgba(214, 233, 255, 0.74) 100%); box-shadow: 0 4px 14px rgba(34, 75, 141, 0.08);" markdown="1">
-- *2026.05*: &nbsp;🏆🏆 Recognized as a [***CVPR 2026 Outstanding Reviewer***](https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf), top 5% of 17,491 reviewers.
-- *2026.05*: &nbsp;🏆🏆 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) has been selected as an ***ACL 2026 Oral Presentation (Top 3.3%)*** 🔥
-- *2026.04*: &nbsp;🎉🎉 Our work [ProgressLM](https://progresslm.github.io/ProgressLM/) on General Reward Model for Embodied Agents has been accepted to ***ACL 2026 Main Conference*** and ***ICLR 2026 Workshop on World Models***!
-- *2026.04*: &nbsp;🎉🎉 My first-author work [DynCIM](https://arxiv.org/abs/2503.06456) on cross-modal imbalance in multimodal foundation models has been accepted by ***CVPR 2026 Workshop on Cognitive Foundations for Multimodal Models***!
-- *2026.03*: &nbsp;🔥🔥 Joined University of California, Santa Barbara (UCSB) as a CS PhD student.
-- *2026.02*: &nbsp;🎉🎉 We release [What If Agents Could Imagine?](https://arxiv.org/abs/2602.11499), a study that breaks through the static perception barrier of VLMs via active generative world modeling.
-- *2026.02*: &nbsp;🎉🎉 Our work [fMRI-LM](https://arxiv.org/abs/2511.21760) on Medical Foundation Models has been accepted by ***CVPR 2026***!
-- *2026.01*: &nbsp;🎉🎉 Three first/co-first author papers have been accepted by ***ICLR 2026***!
-  - [DecAlign](https://arxiv.org/abs/2503.11892): Aligning Cross-Modal Semantics for Multimodal Foundation Models
-  - [AutoDrive-R²](https://arxiv.org/abs/2509.01944v2): Towards Physical-Grounded Multimodal Reasoning for Autonomous Driving
-  - [Video-STAR](https://arxiv.org/abs/2510.08480): Tool-Augmented Agentic RL for Thinking with Videos
-- *2026.01*: &nbsp;🎉🎉 We propose [ProgressLM](https://progresslm.github.io/ProgressLM/), which further investigates whether VLMs can acquire human-like, generalizable mental understanding and simulation in embodied scenarios from a single example, and serves as an early step toward building general-purpose reward models. See More: <a href="https://progresslm.github.io/ProgressLM/">[Website]</a> <a href="https://arxiv.org/abs/2601.15224">[Paper]</a> <a href="https://github.com/Raymond-Qiancx/ProgressLM">[Code]</a> <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm">[Model]</a> <a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset">[Dataset]</a>
-- *2025.11*: &nbsp;🎉🎉 Our work [LiMT](https://arxiv.org/abs/2511.19889), an unified multi-task liver image benchmark work, has been accepted by ***Journal of Biomedical and Health Informatics (JBHI)***!
-- *2025.10*: &nbsp;🎉🎉 Our work [DVP-MVS++](https://arxiv.org/abs/2506.13215), Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo, has been accepted by ***IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)***!
-- *2025.10*: &nbsp;🎉🎉 My [first-author work](https://arxiv.org/abs/2503.12218) on Medical Segmentation under sparse and noisy labeled annotations has been accepted by ***BIBM AIBH 2025***!
-- *2025.10*: &nbsp;🎉🎉 We propose [Video-STAR](https://arxiv.org/abs/2510.08480), a powerful Tool-Augmented Agentic RL approach for Thinking with Videos. On open-vocabulary action recognition benchmarks like K-400 and HMDB-51, our 3B VLM achieves nearly 40% accuracy improvement over base models!🔥
-- *2025.09*: &nbsp;🎉🎉 Our work [HAIF-GS](https://arxiv.org/abs/2506.09518), Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene, has been accepted by ***NeurIPS 2025***!
-- *2025.09*: &nbsp;🎉🎉 We propose [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1), Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving. We're also honored that our work was featured by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)!
-- *2025.08*: &nbsp;🎉🎉 Our work [Re-Align](https://taco-group.github.io/Re-Align/) has been accepted by ***EMNLP 2025 Main Conference***!
-- *2025.07*: &nbsp;🎉🎉 Our work on [Generalizable Medical Vision](https://ieeexplore.ieee.org/document/11080080) has been ***Accepted*** by ***IEEE Transactions on Medical Imaging***.
-- *2025.05*: &nbsp;🎉🎉 Our work [CLIMD](https://arxiv.org/abs/2508.01594) has been ***Early Accepted*** by ***MICCAI 2025*** (Top 9%).
-- *2025.03*: &nbsp;🎉🎉 Excited to propose my first-author work [DecAlign](https://taco-group.github.io/DecAlign/), a novel cross-modal decoupling and alignment framwork for multimodal representation learning.
-- *2024.11*: &nbsp;🎉🎉 Excited to propose my first-author work [DynCIM](https://arxiv.org/abs/2503.06456), a novel dynamic multimodal curriculum learning framework in addressing cross-modal competition and imbalances, which is now available on ArXiv!
-- *2024.10*: &nbsp;🎉🎉 We propose [FASS](https://arxiv.org/abs/2510.11005), a novel frequency domain-enhanced approach for Medical Image Segmentation under Low-Contrast environment.
-
+    <div class="news-panel" style="max-height: 350px; overflow-y: auto; border: 1px solid rgba(34, 75, 141, 0.18); border-radius: 8px; padding: 10px 15px; background: linear-gradient(135deg, rgba(234, 245, 255, 0.86) 0%, rgba(214, 233, 255, 0.74) 100%); box-shadow: 0 4px 14px rgba(34, 75, 141, 0.08);">
+      <ul>
+        <li><em>2026.05</em>: &nbsp;🏆🏆 Recognized as a <a href="https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf"><strong><em>CVPR 2026 Outstanding Reviewer</em></strong></a>, top 5% of 17,491 reviewers.</li>
+        <li><em>2026.05</em>: &nbsp;🏆🏆 Our work <a href="https://progresslm.github.io/ProgressLM/">ProgressLM</a> has been selected as an <strong><em>ACL 2026 Oral Presentation (Top 3.3%)</em></strong> 🔥</li>
+        <li><em>2026.04</em>: &nbsp;🎉🎉 Our work <a href="https://progresslm.github.io/ProgressLM/">ProgressLM</a> on General Reward Model for Embodied Agents has been accepted to <strong><em>ACL 2026 Main Conference</em></strong> and <strong><em>ICLR 2026 Workshop on World Models</em></strong>!</li>
+        <li><em>2026.04</em>: &nbsp;🎉🎉 My first-author work <a href="https://arxiv.org/abs/2503.06456">DynCIM</a> on cross-modal imbalance in multimodal foundation models has been accepted by <strong><em>CVPR 2026 Workshop on Cognitive Foundations for Multimodal Models</em></strong>!</li>
+        <li><em>2026.03</em>: &nbsp;🔥🔥 Joined University of California, Santa Barbara (UCSB) as a CS PhD student.</li>
+        <li><em>2026.02</em>: &nbsp;🎉🎉 We release <a href="https://arxiv.org/abs/2602.11499">What If Agents Could Imagine?</a>, a study that breaks through the static perception barrier of VLMs via active generative world modeling.</li>
+        <li><em>2026.02</em>: &nbsp;🎉🎉 Our work <a href="https://arxiv.org/abs/2511.21760">fMRI-LM</a> on Medical Foundation Models has been accepted by <strong><em>CVPR 2026</em></strong>!</li>
+        <li><em>2026.01</em>: &nbsp;🎉🎉 Three first/co-first author papers have been accepted by <strong><em>ICLR 2026</em></strong>!
+          <ul>
+            <li><a href="https://arxiv.org/abs/2503.11892">DecAlign</a>: Aligning Cross-Modal Semantics for Multimodal Foundation Models</li>
+            <li><a href="https://arxiv.org/abs/2509.01944v2">AutoDrive-R²</a>: Towards Physical-Grounded Multimodal Reasoning for Autonomous Driving</li>
+            <li><a href="https://arxiv.org/abs/2510.08480">Video-STAR</a>: Tool-Augmented Agentic RL for Thinking with Videos</li>
+          </ul>
+        </li>
+        <li><em>2026.01</em>: &nbsp;🎉🎉 We propose <a href="https://progresslm.github.io/ProgressLM/">ProgressLM</a>, which further investigates whether VLMs can acquire human-like, generalizable mental understanding and simulation in embodied scenarios from a single example, and serves as an early step toward building general-purpose reward models. See More: <a href="https://progresslm.github.io/ProgressLM/">[Website]</a> <a href="https://arxiv.org/abs/2601.15224">[Paper]</a> <a href="https://github.com/Raymond-Qiancx/ProgressLM">[Code]</a> <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm">[Model]</a> <a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset">[Dataset]</a></li>
+        <li><em>2025.11</em>: &nbsp;🎉🎉 Our work <a href="https://arxiv.org/abs/2511.19889">LiMT</a>, an unified multi-task liver image benchmark work, has been accepted by <strong><em>Journal of Biomedical and Health Informatics (JBHI)</em></strong>!</li>
+        <li><em>2025.10</em>: &nbsp;🎉🎉 Our work <a href="https://arxiv.org/abs/2506.13215">DVP-MVS++</a>, Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo, has been accepted by <strong><em>IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</em></strong>!</li>
+        <li><em>2025.10</em>: &nbsp;🎉🎉 My <a href="https://arxiv.org/abs/2503.12218">first-author work</a> on Medical Segmentation under sparse and noisy labeled annotations has been accepted by <strong><em>BIBM AIBH 2025</em></strong>!</li>
+        <li><em>2025.10</em>: &nbsp;🎉🎉 We propose <a href="https://arxiv.org/abs/2510.08480">Video-STAR</a>, a powerful Tool-Augmented Agentic RL approach for Thinking with Videos. On open-vocabulary action recognition benchmarks like K-400 and HMDB-51, our 3B VLM achieves nearly 40% accuracy improvement over base models!🔥</li>
+        <li><em>2025.09</em>: &nbsp;🎉🎉 Our work <a href="https://arxiv.org/abs/2506.09518">HAIF-GS</a>, Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene, has been accepted by <strong><em>NeurIPS 2025</em></strong>!</li>
+        <li><em>2025.09</em>: &nbsp;🎉🎉 We propose <a href="https://arxiv.org/abs/2509.01944v1">AutoDrive-R²</a>, Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving. We're also honored that our work was featured by <a href="https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg">AutoDrive Heart (自动驾驶之心)</a>!</li>
+        <li><em>2025.08</em>: &nbsp;🎉🎉 Our work <a href="https://taco-group.github.io/Re-Align/">Re-Align</a> has been accepted by <strong><em>EMNLP 2025 Main Conference</em></strong>!</li>
+        <li><em>2025.07</em>: &nbsp;🎉🎉 Our work on <a href="https://ieeexplore.ieee.org/document/11080080">Generalizable Medical Vision</a> has been <strong><em>Accepted</em></strong> by <strong><em>IEEE Transactions on Medical Imaging</em></strong>.</li>
+        <li><em>2025.05</em>: &nbsp;🎉🎉 Our work <a href="https://arxiv.org/abs/2508.01594">CLIMD</a> has been <strong><em>Early Accepted</em></strong> by <strong><em>MICCAI 2025</em></strong> (Top 9%).</li>
+        <li><em>2025.03</em>: &nbsp;🎉🎉 Excited to propose my first-author work <a href="https://taco-group.github.io/DecAlign/">DecAlign</a>, a novel cross-modal decoupling and alignment framwork for multimodal representation learning.</li>
+        <li><em>2024.11</em>: &nbsp;🎉🎉 Excited to propose my first-author work <a href="https://arxiv.org/abs/2503.06456">DynCIM</a>, a novel dynamic multimodal curriculum learning framework in addressing cross-modal competition and imbalances, which is now available on ArXiv!</li>
+        <li><em>2024.10</em>: &nbsp;🎉🎉 We propose <a href="https://arxiv.org/abs/2510.11005">FASS</a>, a novel frequency domain-enhanced approach for Medical Image Segmentation under Low-Contrast environment.</li>
+      </ul>
     </div>
   </section>
 </div>
