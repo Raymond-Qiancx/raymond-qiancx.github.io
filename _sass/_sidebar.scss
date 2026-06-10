@@ -275,6 +275,66 @@
   text-align: center;
 }
 
+.visitor-map__widget {
+  text-align: center;
+}
+
+.visitor-map__fallback {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  min-height: 112px;
+}
+
+.visitor-map--loaded .visitor-map__fallback {
+  display: none;
+}
+
+.visitor-map__globe {
+  position: relative;
+  display: block;
+  width: 108px;
+  height: 108px;
+  border-radius: 50%;
+  overflow: hidden;
+  background:
+    radial-gradient(ellipse at 32% 33%, #6bb56b 0 12%, transparent 13%),
+    radial-gradient(ellipse at 72% 62%, #5aa464 0 10%, transparent 11%),
+    radial-gradient(circle at 35% 28%, #92d6ff 0, #2a84bf 57%, #174f82 100%);
+  box-shadow:
+    inset -14px -16px 24px rgba(0, 0, 0, 0.24),
+    0 8px 20px rgba(23, 79, 130, 0.18);
+}
+
+.visitor-map__globe::before,
+.visitor-map__globe::after {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.visitor-map__globe::before {
+  inset: 11px;
+  border: 1px solid rgba(255, 255, 255, 0.34);
+  background:
+    linear-gradient(90deg, transparent 48%, rgba(255, 255, 255, 0.28) 49%, rgba(255, 255, 255, 0.28) 51%, transparent 52%),
+    linear-gradient(0deg, transparent 48%, rgba(255, 255, 255, 0.28) 49%, rgba(255, 255, 255, 0.28) 51%, transparent 52%);
+}
+
+.visitor-map__globe::after {
+  top: 11px;
+  bottom: 11px;
+  left: 30px;
+  right: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  box-shadow:
+    -21px 0 0 -1px rgba(255, 255, 255, 0.2),
+    21px 0 0 -1px rgba(255, 255, 255, 0.2),
+    0 -21px 0 -1px rgba(255, 255, 255, 0.2),
+    0 21px 0 -1px rgba(255, 255, 255, 0.2);
+}
+
 .visitor-greeting {
   margin-top: 10px;
   font-size: 0.85em;

@@ -235,10 +235,33 @@
   </div>
 
   {% if site.clustrmaps.enabled %}
-  <div class="author__visitor-map">
-    <script type="text/javascript"
-      id="clstr_globe"
-      src="//clustrmaps.com/globe.js?d={{ site.clustrmaps.id }}">
+  <div class="author__visitor-map" data-visitor-map>
+    <div class="visitor-map__widget">
+      <script type="text/javascript"
+        id="clstr_globe"
+        src="https://cdn.clustrmaps.com/globe.js?d={{ site.clustrmaps.id }}"
+        onload="this.closest('[data-visitor-map]').classList.add('visitor-map--loaded')"
+        onerror="this.closest('[data-visitor-map]').classList.add('visitor-map--fallback')">
+      </script>
+    </div>
+    <div class="visitor-map__fallback" role="img" aria-label="Visitor globe">
+      <span class="visitor-map__globe" aria-hidden="true"></span>
+    </div>
+    <script>
+      (function () {
+        var root = document.currentScript.closest("[data-visitor-map]");
+        var widget = root && root.querySelector(".visitor-map__widget");
+        if (!root || !widget) {
+          return;
+        }
+        window.setTimeout(function () {
+          var hasRemoteWidget = widget && widget.querySelector("canvas, iframe, img, object, embed, a[href*='clustrmaps']");
+          if (!hasRemoteWidget) {
+            root.classList.remove("visitor-map--loaded");
+            root.classList.add("visitor-map--fallback");
+          }
+        }, 3000);
+      }());
     </script>
     <p class="visitor-greeting">Hi there, welcome to my virtual home!</p>
   </div>
