@@ -40,7 +40,7 @@ redirect_from:
     </span>
   </div>
   <div style="color: #5f7fa8; font-size: 0.8em; line-height: 1.4; margin-top: 12px;">
-    Last Update: June 9, 2026
+    Last Update: June 10, 2026
   </div>
 </div>
 
