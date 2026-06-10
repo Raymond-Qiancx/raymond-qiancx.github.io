@@ -448,12 +448,22 @@
     .research-news-column--news {
         display: flex;
         flex-direction: column;
+        height: 0;
+        min-height: 100%;
+        overflow: hidden;
+    }
+
+    .research-news-column--news .section-heading {
+        flex: 0 0 auto;
     }
 
     .research-news-column--news .news-panel {
-        flex: 1 1 auto;
+        box-sizing: border-box;
+        flex: 1 1 0;
+        height: auto;
         max-height: none !important;
         min-height: 0;
+        overflow-y: auto;
     }
 }
 

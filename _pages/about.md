@@ -78,7 +78,7 @@ redirect_from:
         </article>
 
         <article class="research-card research-card--green">
-          <h3><span></span>Medical AI, Autonomous Driving, Video Understanding, and Embodied Robotics</h3>
+          <h3><span></span>Real-World Adaption, Robustness, and Generalization</h3>
           <p>
             Medical AI (<a href="https://arxiv.org/abs/2503.12218">BIBM AIBH 25</a>,
             <a href="https://ieeexplore.ieee.org/abstract/document/11080080">IEEE TMI 25</a>,

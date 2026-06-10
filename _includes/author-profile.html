@@ -235,63 +235,10 @@
   </div>
 
   {% if site.clustrmaps.enabled %}
-  <div class="author__visitor-map" data-clustrmaps>
-    <style>
-      .author__visitor-map[data-clustrmaps] {
-        margin-top: 15px;
-        text-align: center;
-      }
-
-      .author__visitor-map[data-clustrmaps] .clustrmaps__widget {
-        min-height: 112px;
-        text-align: center;
-      }
-
-      .author__visitor-map[data-clustrmaps].clustrmaps--loaded .clustrmaps__status {
-        display: none;
-      }
-
-      .author__visitor-map[data-clustrmaps] .visitor-greeting {
-        margin-top: 10px;
-        color: #666;
-        font-size: 0.85em;
-      }
-
-      .clustrmaps__status {
-        margin: 0 auto;
-        max-width: 180px;
-        color: #6d7f91;
-        font-size: 0.78em;
-        line-height: 1.35;
-      }
-    </style>
-    <div class="clustrmaps__widget">
-      <script type="text/javascript"
-        id="clstr_globe"
-        src="https://clustrmaps.com/globe.js?d={{ site.clustrmaps.id }}"
-        onload="(function (script) { var root = script.closest('[data-clustrmaps]'); if (root) { root.classList.add('clustrmaps--loaded'); } }(this))"
-        onerror="(function (script) { var root = script.closest('[data-clustrmaps]'); var status = root && root.querySelector('.clustrmaps__status'); if (root) { root.classList.add('clustrmaps--unavailable'); } if (status) { status.textContent = 'ClustrMaps visitor map is temporarily unavailable.'; } }(this))">
-      </script>
-    </div>
-    <p class="clustrmaps__status">ClustrMaps visitor map is loading.</p>
-    <script>
-      (function () {
-        var root = document.currentScript.closest("[data-clustrmaps]");
-        var widget = root && root.querySelector(".clustrmaps__widget");
-        if (!root || !widget) {
-          return;
-        }
-        window.setTimeout(function () {
-          var hasRemoteWidget = widget.querySelector("canvas, iframe, img, object, embed, a[href*='clustrmaps']");
-          if (!hasRemoteWidget) {
-            root.classList.add("clustrmaps--unavailable");
-            var status = root.querySelector(".clustrmaps__status");
-            if (status) {
-              status.textContent = "ClustrMaps visitor map is temporarily unavailable.";
-            }
-          }
-        }, 3000);
-      }());
+  <div class="author__visitor-map">
+    <script type="text/javascript"
+      id="clstr_globe"
+      src="//clustrmaps.com/globe.js?d={{ site.clustrmaps.id }}">
     </script>
     <p class="visitor-greeting">Hi there, welcome to my virtual home!</p>
   </div>
