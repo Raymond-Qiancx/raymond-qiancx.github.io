@@ -234,4 +234,32 @@
     </div>
   </div>
 
+  {% if site.mapmyvisitors.enabled %}
+  <div class="author__visitor-map">
+    <script type="text/javascript"
+      id="mmvst_globe"
+      src="https://mapmyvisitors.com/globe.js?d={{ site.mapmyvisitors.id }}">
+    </script>
+    {% if site.mapmyvisitors.stats_url %}
+      <script type="text/javascript">
+        (function () {
+          var statsUrl = "{{ site.mapmyvisitors.stats_url }}";
+          var attempts = 0;
+          var timer = window.setInterval(function () {
+            var link = document.getElementById("mmvst_a");
+            attempts += 1;
+            if (link) {
+              link.href = statsUrl;
+              window.clearInterval(timer);
+            } else if (attempts >= 20) {
+              window.clearInterval(timer);
+            }
+          }, 250);
+        }());
+      </script>
+      <noscript><a href="{{ site.mapmyvisitors.stats_url }}">Visitor map</a></noscript>
+    {% endif %}
+  </div>
+  {% endif %}
+
 </div>
