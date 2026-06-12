@@ -236,14 +236,18 @@
 
   {% if site.mapmyvisitors.enabled %}
   <div class="author__visitor-map">
-    <script type="text/javascript"
-      id="mmvst_globe"
-      src="https://mapmyvisitors.com/globe.js?d={{ site.mapmyvisitors.id }}">
-    </script>
-    {% if site.mapmyvisitors.stats_url %}
-      <script type="text/javascript">
-        (function () {
-          var statsUrl = "{{ site.mapmyvisitors.stats_url }}";
+    <script type="text/javascript">
+      (function () {
+        var host = document.currentScript.parentNode;
+        var visitorMapUrl = "https://mapmyvisitors.com/globe.js?d={{ site.mapmyvisitors.id }}";
+        {% if site.mapmyvisitors.stats_url %}
+        var statsUrl = "{{ site.mapmyvisitors.stats_url }}";
+        {% else %}
+        var statsUrl = "";
+        {% endif %}
+
+        function updateStatsLink() {
+          if (!statsUrl) return;
           var attempts = 0;
           var timer = window.setInterval(function () {
             var link = document.getElementById("mmvst_a");
@@ -251,12 +255,31 @@
             if (link) {
               link.href = statsUrl;
               window.clearInterval(timer);
-            } else if (attempts >= 20) {
+            } else if (attempts >= 40) {
               window.clearInterval(timer);
             }
           }, 250);
-        }());
-      </script>
+        }
+
+        function loadVisitorMap() {
+          var script = document.createElement("script");
+          script.type = "text/javascript";
+          script.id = "mmvst_globe";
+          script.async = true;
+          script.src = visitorMapUrl;
+          script.onload = updateStatsLink;
+          host.insertBefore(script, host.firstChild);
+          updateStatsLink();
+        }
+
+        if (document.readyState === "loading") {
+          document.addEventListener("DOMContentLoaded", loadVisitorMap, { once: true });
+        } else {
+          loadVisitorMap();
+        }
+      }());
+    </script>
+    {% if site.mapmyvisitors.stats_url %}
       <noscript><a href="{{ site.mapmyvisitors.stats_url }}">Visitor map</a></noscript>
     {% endif %}
     <p class="author__visitor-map-greeting">Hi there, welcome to my virtual home!</p>
