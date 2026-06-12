@@ -164,9 +164,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# Visitor Map (MapMyVisitors)
-mapmyvisitors:
-  enabled: true
-  id: "Atxc2eVd6tNZnzSkqGts6DZJkDpFK82TA3B36zA-9Ow"
-  stats_url: "https://mapmyvisitors.com/web/1c5cl"
